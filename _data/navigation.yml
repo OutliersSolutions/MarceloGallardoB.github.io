@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Experience"
-    url: /experience/    
+  - title: "Courses material"
+    url: /courses/    
     
-  - title: "Publication"
-    url: /publication/
+  - title: "Books and papers"
+    url: /papers/
+
+  - title: "Teaching"
+    url: /teaching/
