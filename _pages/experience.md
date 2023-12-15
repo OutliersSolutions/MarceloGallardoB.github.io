@@ -29,8 +29,8 @@ Awards & Honors
 
 * 2018 Mention d’excellence au BAC, 19.91/20, Colegio Franco Peruano, Lima PE
 * 2019 Admission to l’X Bachelor Program, Paris, France
-* 2020 Contest initiation to scientific research, Winner in the individual class, PUCP Lima, PE
-* 2021 Contest initiation to scientific research, Winner in the individual class, PUCP Lima, PE
+* 2020 Contest initiation to scientific research, Winner in the individual class, PUCP Lima, PE  <a href="https://facultad.pucp.edu.pe/generales-ciencias/evento/ganadores-del-concurso-proyecto-iniciacion-la-investigacion-2020/" role="button" target="_blank"> Link </a>
+* 2021 Contest initiation to scientific research, Winner in the individual class, PUCP Lima, PE <a href="https://facultad.pucp.edu.pe/generales-ciencias/nota-de-prensa/ganadores-ee-gg-cc-2021/" role="button" target="_blank"> Link </a>
 
 Teaching Experience
 ======
