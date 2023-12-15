@@ -10,10 +10,6 @@ redirect_from:
 About Me
 ======
 
-I am a Ph.D. student majoring in [Social and Engineering Systems](https://idss.mit.edu/academics/ses_doc/) at MIT IDSS and CSAIL. I have been fortunately working with [Prof. Marzyeh Ghassemi](https://healthyml.org/marzyeh/) on machine learning for healthcare, with a particular focus on natural language processing for healthcare.
+I am a fourth year student at PUCP majoring in Mathematics and minoring (choice courses) in Economics. I was also teaching assistant of Mathematics for Economists IV and currently research assistant. I am broadly interested in Convex Optimization, Microeconomic Theory, Optimal Control and Optimal Transport applied to Economics. I would like to go deeper into Quantitative Methods. This last includes Statistics, Econometrics and Machine Learning. Most of my research projects focus on applied mathematics to economics. Currently working in two books, one about Optimization and Convex Analysis and the other about Dynamical Systems and Optimal Control Theory for the economic analysis in continuous time.
 
-My current research centers around two primary questions:
-* How can we mitigate the bias, miscalibration, and hallucination of language models, improving the deployability and ethics of these tools in real-world applications?
-* How can we accurately and fairly assess the generation quality of language models, enabling decision-makers to make more informed choices in high-stakes scenarios?
-
-For more information about my background and qualifications, please refer to [my CV](https://xiaoyuxin1002.github.io/files/CV.pdf).
+For more information about my background and qualifications, please refer to [my CV](https://MarceloGallardoB.github.io/files/CV.pdf).
