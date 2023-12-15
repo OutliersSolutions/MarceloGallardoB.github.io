@@ -14,7 +14,7 @@ Education
 ======
 
 * B.s and Lic in Mathematics, Pontificia Universidad Católica del Perú
-  * 12/2023 - present, Average Grade in Mathematics and Economics: 18.7/20
+  * 03/2020 - present, Average Grade in Mathematics and Economics: 18.7/20
   Master courses: Optimal Transport, Advanced Microeconomics
   
 * QLab
