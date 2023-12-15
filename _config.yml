@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Yuxin Xiao | 肖宇新"
+locale                   : "Peru"
+title                    : "Marcelo Gallardo"
 title_separator          : "-"
-name                     : &name "Yuxin Xiao | 肖宇新"
-description              : &description "Ph.D. @ MIT IDSS & CSAIL"
-url                      : https://xiaoyuxin1002.github.io
+name                     : &name "Marcelo Gallardo"
+description              : &description "Mathematics & Economics PUCP"
+url                      : https://MarceloGallardoB.github.io
 baseurl                  : ""
-repository               : "xiaoyuxin1002.github.io"
+repository               : "MarceloGallardoB.github.io"
 teaser                   : 
 breadcrumbs              : false
 words_per_minute         : 160
@@ -78,14 +78,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuxin Xiao | 肖宇新"
+  name             : "Marcelo Gallardo"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. @ MIT IDSS & CSAIL"
-  location         : "Cambridge, MA, USA"
+  bio              : "Mathematics & Economics PUCP"
+  location         : "Lima, Peru"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=oWOdc2oAAAAJ"
-  email            : "yuxin102@mit.edu"
+  googlescholar    : ""
+  email            : "marcelo.gallardo@pucp.edu.pe"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -94,20 +94,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xiaoyuxin1002"
+  github           : "MarceloGallardoB"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "xiaoyuxin1002"
+  linkedin         : "Marcelo Manuel Gallardo Burga"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "YuxinXiao6"
+  twitter          : "Marcelo6321"
   vine             :
   weibo            :
   xing             :
