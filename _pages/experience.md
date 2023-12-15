@@ -27,10 +27,10 @@ Education
 Awards & Honors
 ======
 
-* 2018 Mention d’excellence au BAC, top mark 19.91/20, Colegio Franco Peruano, Lima PE
-* 2020 Admission to l’X Bachelor Program, Paris, France
+* 2018 Mention d’excellence au BAC, 19.91/20, Colegio Franco Peruano, Lima PE
+* 2019 Admission to l’X Bachelor Program, Paris, France
+* 2020 Contest initiation to scientific research, Winner in the individual class, PUCP Lima, PE
 * 2021 Contest initiation to scientific research, Winner in the individual class, PUCP Lima, PE
-* 2022 Contest initiation to scientific research, Winner in the individual class, PUCP Lima, PE
 
 Teaching Experience
 ======
