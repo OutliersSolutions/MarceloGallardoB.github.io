@@ -38,10 +38,32 @@ the relationship between innovation levels and post-graduation income. This stud
   <details> 
     <summary>
         Abstract |
-        <a href="" role="button" target="_blank"> Paper </a> | 
+        <a href="https://drive.google.com/file/d/1zfDrj2ynwuL6mHz5YOek5ctpkVgCKJ9o/view?usp=drive_link" role="button" target="_blank"> Lecture Notes </a> | 
     </summary>
    We develop a path towards the proof of Brouwer's Fixed Point Theorem, although based on several sources, of our construction. We also present an application in economic theory. Specifically, we focus on general equilibrium theory. We aim to provide the simplest possible proof, the only requirements are real analysis and general topology. Besides one Lemma which is not proved in its most general case, we provide proofs for all the results building up to the main theorem. Furthermore, as far as
-we know, that the combination of elements that we present in this document has not been displayed in this exact form before. The applications that
+we know, the combination of elements that we present in this document has not been displayed in this exact form before. The applications that
 we provide in general equilibrium, besides classical definitions, are by our constructions, especially one last example that has been developed by our
 own.
+  </details>
+
+
+* **Linear Algebra and Optimization for Economists** <br>
+ Jorge Chávez and <u>Marcelo Gallardo</u>. <br>
+  <details> 
+    <summary>
+        Abstract |
+        <a href="https://drive.google.com/file/d/17_tcJDJXsA8Iz-Z8quAO9syHC-8D9Was/view" role="button" target="_blank"> Book </a> | 
+    </summary>
+  Working book about Linear Algebra and Static Optimization for Economists. Developed several proofs, examples and exercises, above all related to microeconomics.
+  </details>
+
+
+* **Optimal Control Theory and Dynamics for Economic Analysis in Continuous Time** <br>
+ Jorge Chávez and <u>Marcelo Gallardo</u>. <br>
+  <details> 
+    <summary>
+        Abstract |
+        <a href="https://drive.google.com/file/d/1S74vfHIitq1l8P0lsqO9omHYTELL4Xpq/view" role="button" target="_blank"> Book </a> | 
+    </summary>
+  Working book about Dynamical Systems and Optimal Control in continuous time. Calculus of variations, economic growth models (Solow, Ramsey‑Cass‑Koopsman).
   </details>
