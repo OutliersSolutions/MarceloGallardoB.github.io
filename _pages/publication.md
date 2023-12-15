@@ -29,8 +29,7 @@ Before Ph.D.
         Abstract |
         <a href="" role="button" target="_blank"> Paper </a> | 
     </summary>
-   This paper proposes an innovation indicator for Peruvian universities, emphasizing scientific innovation in fields like engineering and pure sciences. The construction of this indicator is based on a selected dataset and employs confirmatory factor analysis for robust measurement. Additionally, K-means clustering is used to identify innovation clusters among universities. The validity of the indicator is examined through its correlation with university rankings and the exploration of
-the relationship between innovation levels and post-graduation income. This study provides a focused lens on scientific innovation in higher education, offering insights for academic and policy implications in Peru.
+   This paper proposes an innovation indicator for Peruvian universities, emphasizing scientific innovation in fields like engineering and pure sciences. The construction of this indicator is based on a selected dataset and employs confirmatory factor analysis for robust measurement. Additionally, K-means clustering is used to identify innovation clusters among universities. The validity of the indicator is examined through its correlation with university rankings and the exploration of the relationship between innovation levels and post-graduation income. This study provides a focused lens on scientific innovation in higher education, offering insights for academic and policy implications in Peru.
   </details>
   
 * **Brouwer fixed point theorem and applications in general equilibrium** <br>
