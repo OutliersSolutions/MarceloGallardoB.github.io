@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Before Ph.D.
+Undergraduate.
 ======
 
 * **Harnessing AI and Social Media in Economic Forecasting: A Novel Integration of GPT-Driven X Analysis for USD to PEN Exchange Rate Fluctuations** <br>
@@ -63,3 +63,15 @@ Before Ph.D.
     </summary>
   Working book about Dynamical Systems and Optimal Control in continuous time. Calculus of variations, economic growth models (Solow, Ramsey‑Cass‑Koopsman).
   </details>
+
+
+  * **Lecture notes in optimal transport applied to economics and finance: the entropic regularization problem** <br>
+ <u>Marcelo Gallardo</u> and Carlos Cosentino. <br>
+  <details> 
+    <summary>
+        Summary |
+        <a href="https://drive.google.com/file/d/1JzKyNUW05fYyQNO8nH2w59fdITI5ZJL1/view?usp=share_link" role="button" target="_blank"> Book </a> | 
+    </summary>
+  Lecture notes about Optimal Transport Theory (introductory) and applications in Economics and Finance. Specifically, the entropic regularization problem. 
+  </details>
+
