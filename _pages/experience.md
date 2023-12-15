@@ -13,43 +13,29 @@ redirect_from:
 Education
 ======
 
-* Ph.D. in Social and Engineering Systems, Massachusetts Institute of Technology
-  * 06/2022 - present, GPA: 5.0/5.0
-  * Advised by Prof. Marzyeh Ghassemi
+* B.s and Lic in Mathematics, Pontificia Universidad Católica del Perú
+  * 12/2023 - present, Average Grade in Mathematics and Economics: 18.7/20
+  Master courses: Optimal Transport, Advanced Microeconomics
+  
+* QLab
+  * 01/2022-02/2022, 01/2023-02/2023 and 01/2024-02/2024   
+  * Introduction to Machine Learning, Machine Learning for Macroeconomics and Finance, Applied Econometrics, Applied   
+    Industrial Organization and Asset Pricing.
 
-* M.S. in Machine Learning, Carnegie Mellon University
-  * 08/2020 - 12/2021, GPA: 4.12/4.33
-  * Advised by Prof. Eric P. Xing and Prof. Louis-Philippe Morency
-
-* B.S. in Computer Science & B.S. in Statistics and Mathematics, University of Illinois at Urbana-Champaign
-  * 08/2016 - 05/2020, GPA: 3.93/4.00
-  * Advised by Prof. Jiawei Han and Prof. Hari Sundaram
-
+* École Polytechnique Fédérale de Lausanne 
+  Propédeutique Physique 2019-2
 
 Awards & Honors
 ======
 
-* 2020 UIUC C.W. Gear Outstanding Undergraduate Award, UIUC
-* 2020 CRA Outstanding Undergraduate Researcher Award Honorable Mention
-* 2019 IEEE BigData Student Travel Award
-* 2012-2015 Singapore Senior-Middle 1 (SM1) Scholarship
-
-
-Industry Experience
-======
-* Bosch Center for AI @ Renningen, Germany
-  * 06/2023 - 08/2023, Research Intern
-
-* Cars.com @ Chicago, USA
-  * 01/2018 - 08/2018, Software Engineer Intern 
-
+* 2018 Mention d’excellence au BAC, top mark 19.91/20, Colegio Franco Peruano, Lima PE
+* 2020 Admission to l’X Bachelor Program, Paris, France
+* 2021 Contest initiation to scientific research, Winner in the individual class, PUCP Lima, PE
+* 2022 Contest initiation to scientific research, Winner in the individual class, PUCP Lima, PE
 
 Teaching Experience
 ======
-* Massachusetts Institute of Technology
-  * 06/2022 to 08/2022, 14.310x Data Science for Social Scientists
+* Economics, PUCP
+  * 03/2022 to 07/2022, Mathematics for economists 3
+  * 08/2022 to 12/2022, Mathematics for economists 4
 
-* University of Illinois at Urbana-Champaign
-  * 08/2019 - 12/2019, CS446 Machine Learning
-  * 08/2019 - 12/2019, CS410 Text Information Systems
-  * 01/2017 - 05/2017, CS125 Introduction to Computer Science
