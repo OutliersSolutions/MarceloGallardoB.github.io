@@ -35,6 +35,6 @@ Awards & Honors
 Teaching Experience
 ======
 * Economics, PUCP
-  * 03/2022 to 07/2022, Mathematics for economists 3
-  * 08/2022 to 12/2022, Mathematics for economists 4
+  * 03/2022 to 07/2022, Mathematics for Economists 3. Please refer to the material developed for the course [here] (https://drive.google.com/drive/u/1/folders/1qvcrMU3aQm598LtG9Dofa8k7piel1pPQ).
+  * 08/2022 to 12/2022, Mathematics for Economists 4. Please refer to the material developed for the course [here] (https://drive.google.com/drive/u/1/folders/1Er3RrroZo3-X1M0rzzzfKarpkTnb2LR0).
 
