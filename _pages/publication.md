@@ -40,10 +40,7 @@ the relationship between innovation levels and post-graduation income. This stud
         Abstract |
         <a href="https://drive.google.com/file/d/1zfDrj2ynwuL6mHz5YOek5ctpkVgCKJ9o/view?usp=drive_link" role="button" target="_blank"> Lecture Notes </a> | 
     </summary>
-   We develop a path towards the proof of Brouwer's Fixed Point Theorem, although based on several sources, of our construction. We also present an application in economic theory. Specifically, we focus on general equilibrium theory. We aim to provide the simplest possible proof, the only requirements are real analysis and general topology. Besides one Lemma which is not proved in its most general case, we provide proofs for all the results building up to the main theorem. Furthermore, as far as
-we know, the combination of elements that we present in this document has not been displayed in this exact form before. The applications that
-we provide in general equilibrium, besides classical definitions, are by our constructions, especially one last example that has been developed by our
-own.
+   We develop a path towards the proof of Brouwer's Fixed Point Theorem, although based on several sources, of our construction. We also present an application in economic theory. Specifically, we focus on general equilibrium theory. We aim to provide the simplest possible proof, the only requirements are real analysis and general topology. Besides one Lemma which is not proved in its most general case, we provide proofs for all the results building up to the main theorem. Furthermore, as far as we know, the combination of elements that we present in this document has not been displayed in this exact form before. 
   </details>
 
 
