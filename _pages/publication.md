@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Undergraduate.
+Papers and working papers
 ======
 
 * **Harnessing Twitter and GPT for a Novel Political Uncertainty Index for Peru: Implications for USD/PEN Exchange Rate Fluctuations** <br>
@@ -30,6 +30,9 @@ Undergraduate.
     </summary>
    This paper proposes an innovation indicator for Peruvian universities, emphasizing scientific innovation in fields like engineering and pure sciences. The construction of this indicator is based on a selected dataset and employs confirmatory factor analysis for robust measurement. Additionally, K-means clustering is used to identify innovation clusters among universities. The validity of the indicator is examined through its correlation with university rankings and the exploration of the relationship between innovation levels and post-graduation income. This study provides a focused lens on scientific innovation in higher education, offering insights into academic and policy implications in Peru.
   </details>
+
+Books and working books
+======
   
 * **Linear Algebra and Optimization for Economists** <br>
  Jorge Chávez and <u>Marcelo Gallardo</u>. <br>
@@ -52,6 +55,9 @@ Undergraduate.
   Working book about Dynamical Systems and Optimal Control in continuous time. Ordinary differential equations, linear systems, nonlinear systems, calculus of variations, and optimal control theory. Applications to economic growth models such as Solow and Ramsey‑Cass‑Koopsman.
   </details>
 
+Lecture notes
+======
+
 * **Brouwer fixed point theorem and applications in general equilibrium** <br>
   <u>Marcelo Gallardo</u>, Carlos Cosentino and Eduardo Llamoca . <br>
   <details> 
@@ -70,4 +76,13 @@ Undergraduate.
     </summary>
   Lecture notes about Optimal Transport Theory (introductory) and applications in Economics and Finance. Specifically, the entropic regularization problem. 
   </details>
+
+Talks
+======
+
+
+Others
+======
+
+
 
