@@ -31,16 +31,6 @@ Undergraduate.
    This paper proposes an innovation indicator for Peruvian universities, emphasizing scientific innovation in fields like engineering and pure sciences. The construction of this indicator is based on a selected dataset and employs confirmatory factor analysis for robust measurement. Additionally, K-means clustering is used to identify innovation clusters among universities. The validity of the indicator is examined through its correlation with university rankings and the exploration of the relationship between innovation levels and post-graduation income. This study provides a focused lens on scientific innovation in higher education, offering insights into academic and policy implications in Peru.
   </details>
   
-* **Brouwer fixed point theorem and applications in general equilibrium** <br>
-  <u>Marcelo Gallardo</u>, Carlos Cosentino and Eduardo Llamoca . <br>
-  <details> 
-    <summary>
-        Summary |
-        <a href="https://drive.google.com/file/d/1ryKPbi9FUTtL4-dKNWUPIyxzEoD5OLlR/view?usp=share_link" role="button" target="_blank"> Lecture Notes </a> | 
-    </summary> We develop a path towards the proof of Brouwer's Fixed Point Theorem, although based on several sources, of our construction. We also present an application in economic theory. Specifically, we focus on general equilibrium theory. We aim to provide the simplest possible proof, the only requirements are real analysis and general topology. Besides one Lemma which is not proved in its most general case, we provide proofs for all the results building up to the main theorem. Furthermore, as far as we know, the combination of elements that we present in this document has not been displayed in this exact form before. It is important to mention that this work does not seek to be original or innovative in the sense that it does not present any new results in the literature. Our objective is simply to develop an understandable approach to Brouwer's Fixed Point Theorem and its applications in general equilibrium.
-  </details>
-
-
 * **Linear Algebra and Optimization for Economists** <br>
  Jorge Chávez and <u>Marcelo Gallardo</u>. <br>
   <details> 
@@ -60,6 +50,15 @@ Undergraduate.
         <a href="https://drive.google.com/file/d/1Dxo4IkOWdpwNhx_h1ZbiMRoto6Gqx8Td/view?usp=sharing" role="button" target="_blank"> Working book </a> | 
     </summary>
   Working book about Dynamical Systems and Optimal Control in continuous time. Ordinary differential equations, linear systems, nonlinear systems, calculus of variations, and optimal control theory. Applications to economic growth models such as Solow and Ramsey‑Cass‑Koopsman.
+  </details>
+
+* **Brouwer fixed point theorem and applications in general equilibrium** <br>
+  <u>Marcelo Gallardo</u>, Carlos Cosentino and Eduardo Llamoca . <br>
+  <details> 
+    <summary>
+        Summary |
+        <a href="https://drive.google.com/file/d/1ok2xRQ9KbxPA029Tf0FPgaBjyZDXtUsU/view?usp=sharing" role="button" target="_blank"> Lecture Notes </a> | 
+    </summary> We develop a path towards the proof of Brouwer's Fixed Point Theorem, although based on several sources, of our construction. We also present an application in economic theory. Specifically, we focus on general equilibrium theory. We aim to provide the simplest possible proof, the only requirements are real analysis and general topology. Besides one Lemma which is not proved in its most general case, we provide proofs for all the results building up to the main theorem. Furthermore, as far as we know, the combination of elements that we present in this document has not been displayed in this exact form before. It is important to mention that this work does not seek to be original or innovative in the sense that it does not present any new results in the literature. Our objective is simply to develop an understandable approach to Brouwer's Fixed Point Theorem and its applications in general equilibrium.
   </details>
 
 * **Lecture notes in optimal transport applied to economics and finance: the entropic regularization problem** <br>
