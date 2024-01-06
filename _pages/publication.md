@@ -81,9 +81,27 @@ Lecture notes
 Talks
 ======
 
+* **Optimal Transport and some other mathematical models with applications in Economics** <br>
+ <u>Marcelo Gallardo</u> <br>
+  <details> 
+    <summary>
+        Summary |
+        <a href="https://drive.google.com/file/d/1slc1PWUnp4jQn3eJHJXV2tTaztWxlnRt/view?usp=sharing" role="button" target="_blank"> Lecture notes </a> | 
+    </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of the PUCP. Certification [here](https://drive.google.com/file/d/1-XxocblKymBytXvmKJj1_n9GBnSKiEg-/view?usp=sharing)
+  </details>
+
 
 Others
 ======
+
+* **The sustainability of public debt in an open economy** <br>
+ Waldo Mendoza et al. <u>Marcelo Gallardo</u> <br>
+  <details> 
+    <summary>
+        Summary |
+        <a href="https://drive.google.com/file/d/1MpHi_TNMoZ59PSP4FtWshXK4TfDxX2Zg/view?usp=sharing" role="button" target="_blank"> Lecture notes </a> | 
+    </summary> Collaborator on a working paper authored by [Waldo Mendoza](https://es.wikipedia.org/wiki/Waldo_Mendoza_Bellido) et al. Development of the dynamic model, convergence analysis.
+  </details>
 
 
 
