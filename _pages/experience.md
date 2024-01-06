@@ -24,6 +24,8 @@ Education
 
 * École Polytechnique Fédérale de Lausanne 
   Propédeutique Physique 2019-2
+    * Numerical Physics
+    * Analysis and linear algebra for physicists
 
 Awards & Honors
 ======
@@ -39,4 +41,11 @@ Teaching Experience
   * 03/2022 to 07/2022, Mathematics for Economists 3. Please refer to the material developed for the course [here](https://drive.google.com/drive/u/1/folders/1qvcrMU3aQm598LtG9Dofa8k7piel1pPQ).
   * 08/2022 to 12/2022, Mathematics for Economists 4. Please refer to the material developed for the course [here](https://drive.google.com/drive/u/1/folders/1Er3RrroZo3-X1M0rzzzfKarpkTnb2LR0).
 
+Relevant courses
+======
+* Mathematics
+  * Real Analysis, Linear Algebra, Topology, Optimization I, Optimization II, Measure Theory, Ordinary Differential Equations, Multilinear Algebra, Functional Analysis, Optimal Transport, Complex Analysis, Differential Geometry, Stochastic Processes.
+     
+* Economics
+  * Microeconomics I, Microeconomics II, Advanced Microeconomics, Macroeconomics I, Statistical Inference, Econometrics I.    
 
