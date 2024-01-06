@@ -48,7 +48,7 @@ Research Assistant
   * Worked with Ph.D [Juan León Jara-Almonte](https://www.grade.org.pe/investigadores/personal/jleon/)
     
 * PUCP
-  * 2022. Collaborator in [Dynamical Systems for Economic Analysis](https://repositorio.pucp.edu.pe/index/handle/123456789/187345)
+  * 03/2022-11/2022. Collaborator in [Dynamical Systems for Economic Analysis(https://repositorio.pucp.edu.pe/index/handle/123456789/187345)
   * 03/2023-now. Co-author in two working books.    
   * Worked with Ph.D [Jorge Richard Chavez Fuentes](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes)
    
