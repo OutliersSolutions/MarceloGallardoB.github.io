@@ -14,7 +14,7 @@ Papers and working papers
 
 
 * **Harnessing Twitter and GPT for a Novel Political Uncertainty Index for Peru: Implications for USD/PEN Exchange Rate Fluctuations** <br>
-  Manuel Loaiza, <u> Marcelo Gallardo </u> and Gabriel Rodriguez. <br>
+  [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), <u> Marcelo Gallardo </u> and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/). <br>
   <details> 
     <summary>
         Abstract |
@@ -23,7 +23,7 @@ Papers and working papers
   </details>  
   
 * **Innovations in Peruvian universities** <br>
-  <u>Marcelo Gallardo</u> and Juan León Jara. <br>
+  <u>Marcelo Gallardo</u> and [Juan León Jara](https://www.pucp.edu.pe/profesor/juan-leon-jara-almonte). <br>
   <details> 
     <summary>
         Abstract |
@@ -36,7 +36,7 @@ Books and working books
 ======
   
 * **Linear Algebra and Optimization for Economists** <br>
- Jorge Chávez and <u>Marcelo Gallardo</u>. <br>
+ [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u>Marcelo Gallardo</u>. <br>
   <details> 
     <summary>
         Summary |
@@ -47,7 +47,7 @@ Books and working books
 
 
 * **Optimal Control Theory and Dynamics for Economic Analysis in Continuous Time** <br>
- Jorge Chávez and <u>Marcelo Gallardo</u>. <br>
+ [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u>Marcelo Gallardo</u>. <br>
   <details> 
     <summary>
         Summary |
@@ -95,7 +95,7 @@ Others
 ======
 
 * **The sustainability of public debt in an open economy** <br>
- Waldo Mendoza et al. <u>Marcelo Gallardo</u> <br>
+ [Waldo Mendoza](https://www.pucp.edu.pe/profesor/waldo-mendoza-bellido) et al. <u>Marcelo Gallardo</u> <br>
   <details> 
     <summary>
         Summary |
