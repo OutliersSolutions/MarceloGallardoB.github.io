@@ -17,7 +17,7 @@ Undergraduate.
   <details> 
     <summary>
         Abstract |
-        <a href="" role="button" target="_blank"> Paper </a> | 
+        <a href="https://drive.google.com/file/d/191VdL1Q-sk_PgVwwIVhsqSkiVO7d0zt4/view?usp=sharing" role="button" target="_blank"> Working paper </a> | 
     </summary>
  This study examines the impact of political uncertainty on key macroeconomic variables, including the USD to PEN exchange rate,
 through a specialized index built from social media analysis. Tweets from prominent Peruvian figures (2018-2023)
@@ -31,9 +31,9 @@ is integrated with a (chosen macroeconomic forecasting method) to enhance the pr
   <details> 
     <summary>
         Abstract |
-        <a href="" role="button" target="_blank"> Paper </a> | 
+        <a href="https://drive.google.com/file/d/13RsjJaxJ6OKvsJEDXPGfzMQWwjX3pCiQ/view?usp=sharing" role="button" target="_blank"> Working paper </a> | 
     </summary>
-   This paper proposes an innovation indicator for Peruvian universities, emphasizing scientific innovation in fields like engineering and pure sciences. The construction of this indicator is based on a selected dataset and employs confirmatory factor analysis for robust measurement. Additionally, K-means clustering is used to identify innovation clusters among universities. The validity of the indicator is examined through its correlation with university rankings and the exploration of the relationship between innovation levels and post-graduation income. This study provides a focused lens on scientific innovation in higher education, offering insights for academic and policy implications in Peru.
+   This paper proposes an innovation indicator for Peruvian universities, emphasizing scientific innovation in fields like engineering and pure sciences. The construction of this indicator is based on a selected dataset and employs confirmatory factor analysis for robust measurement. Additionally, K-means clustering is used to identify innovation clusters among universities. The validity of the indicator is examined through its correlation with university rankings and the exploration of the relationship between innovation levels and post-graduation income. This study provides a focused lens on scientific innovation in higher education, offering insights into academic and policy implications in Peru.
   </details>
   
 * **Brouwer fixed point theorem and applications in general equilibrium** <br>
