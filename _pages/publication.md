@@ -35,7 +35,7 @@ Undergraduate.
   <u>Marcelo Gallardo</u>, Carlos Cosentino and Eduardo Llamoca . <br>
   <details> 
     <summary>
-        Abstract |
+        Summary |
         <a href="https://drive.google.com/file/d/1ryKPbi9FUTtL4-dKNWUPIyxzEoD5OLlR/view?usp=share_link" role="button" target="_blank"> Lecture Notes </a> | 
     </summary> We develop a path towards the proof of Brouwer's Fixed Point Theorem, although based on several sources, of our construction. We also present an application in economic theory. Specifically, we focus on general equilibrium theory. We aim to provide the simplest possible proof, the only requirements are real analysis and general topology. Besides one Lemma which is not proved in its most general case, we provide proofs for all the results building up to the main theorem. Furthermore, as far as we know, the combination of elements that we present in this document has not been displayed in this exact form before. It is important to mention that this work does not seek to be original or innovative in the sense that it does not present any new results in the literature. Our objective is simply to develop an understandable approach to Brouwer's Fixed Point Theorem and its applications in general equilibrium.
   </details>
@@ -67,7 +67,7 @@ Undergraduate.
   <details> 
     <summary>
         Summary |
-        <a href="https://drive.google.com/file/d/1JzKyNUW05fYyQNO8nH2w59fdITI5ZJL1/view?usp=share_link" role="button" target="_blank"> Book </a> | 
+        <a href="https://drive.google.com/file/d/18FMj16rzA-jotOEgmrYm52JqTR1HIXX9/view?usp=sharing" role="button" target="_blank"> Lecture notes </a> | 
     </summary>
   Lecture notes about Optimal Transport Theory (introductory) and applications in Economics and Finance. Specifically, the entropic regularization problem. 
   </details>
