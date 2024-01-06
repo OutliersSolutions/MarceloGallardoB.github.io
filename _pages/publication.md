@@ -12,6 +12,7 @@ redirect_from:
 Papers and working papers
 ======
 
+
 * **Harnessing Twitter and GPT for a Novel Political Uncertainty Index for Peru: Implications for USD/PEN Exchange Rate Fluctuations** <br>
   Manuel Loaiza, <u> Marcelo Gallardo </u> and Gabriel Rodriguez. <br>
   <details> 
