@@ -37,7 +37,7 @@ is integrated with a (chosen macroeconomic forecasting method) to enhance the pr
   </details>
   
 * **Brouwer fixed point theorem and applications in general equilibrium** <br>
-  <u>Marcelo Gallardo</u>, Carlos Cosendino and Eduardo Llamoca . <br>
+  <u>Marcelo Gallardo</u>, Carlos Cosentino and Eduardo Llamoca . <br>
   <details> 
     <summary>
         Abstract |
