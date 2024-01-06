@@ -52,11 +52,12 @@ Research Assistant
   * 03/2023-now. Co-author in two working books.    
   * Worked with Ph.D [Jorge Richard Chavez Fuentes](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes)
    
-Relevant courses
+Courses material
 ======
 * Mathematics
-  * Real Analysis, Linear Algebra, Topology, Optimization I, Optimization II, Measure Theory, Ordinary Differential Equations, Multilinear Algebra, Functional Analysis, Optimal Transport, Complex Analysis, Differential Geometry, Stochastic Processes.
+  * Linear Algebra, Real Analysis I, Real Analysis II, Abstract Algebra, Topology, Optimization I, Optimization II, Measure Theory, Ordinary Differential Equations, Multilinear Algebra, Functional Analysis, Galois Theory, Analysis on Surfaces, Optimal Transport, Complex Analysis, Differential Geometry, Stochastic Processes.
      
 * Economics
   * Microeconomics I, Microeconomics II, Advanced Microeconomics, Macroeconomics I, Statistical Inference, Econometrics I.    
+
 
