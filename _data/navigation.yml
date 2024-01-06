@@ -9,3 +9,6 @@ main:
   - title: "Courses material"
     url: /courses/
 
+ - title: "Talks"
+    url: /talks/
+
