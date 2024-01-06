@@ -46,7 +46,7 @@ Undergraduate.
   <details> 
     <summary>
         Summary |
-        <a href="https://drive.google.com/file/d/17_tcJDJXsA8Iz-Z8quAO9syHC-8D9Was/view?usp=drive_link" role="button" target="_blank"> Book </a> | 
+        <a href="https://drive.google.com/file/d/1GBv4FqKyZx87riZPSgLmnIxi_U6UtR6r/view?usp=sharing" role="button" target="_blank"> Working book </a> | 
     </summary>
   Working book about Linear Algebra and Static Optimization for Economists. Linear algebra, topology in normed vector spaces, convex analysis, optimization, and applications to microeconomics.
   </details>
@@ -57,9 +57,9 @@ Undergraduate.
   <details> 
     <summary>
         Summary |
-        <a href="https://drive.google.com/file/d/1S74vfHIitq1l8P0lsqO9omHYTELL4Xpq/view?usp=drive_link" role="button" target="_blank"> Book </a> | 
+        <a href="https://drive.google.com/file/d/1Dxo4IkOWdpwNhx_h1ZbiMRoto6Gqx8Td/view?usp=sharing" role="button" target="_blank"> Working book </a> | 
     </summary>
-  Working book about Dynamical Systems and Optimal Control in continuous time. Ordinary differential equations, linear systems, nonlinear systems, calculus of variations, and optimal control theory. Applications to economic growth models (Solow, Ramsey‑Cass‑Koopsman).
+  Working book about Dynamical Systems and Optimal Control in continuous time. Ordinary differential equations, linear systems, nonlinear systems, calculus of variations, and optimal control theory. Applications to economic growth models such as Solow and Ramsey‑Cass‑Koopsman.
   </details>
 
 * **Lecture notes in optimal transport applied to economics and finance: the entropic regularization problem** <br>
