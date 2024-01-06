@@ -18,12 +18,8 @@ Undergraduate.
     <summary>
         Abstract |
         <a href="https://drive.google.com/file/d/191VdL1Q-sk_PgVwwIVhsqSkiVO7d0zt4/view?usp=sharing" role="button" target="_blank"> Working paper </a> | 
-    </summary>
- This study examines the impact of political uncertainty on key macroeconomic variables, including the USD to PEN exchange rate,
-through a specialized index built from social media analysis. Tweets from prominent Peruvian figures (2018-2023)
-are analyzed and labeled by GPT-3.5 Turbo, determining their stance on Peru's political and economic situation.
-This process contributes to the creation of a political uncertainty time series. This series, indicative of Peru's economic climate,
-is integrated with a (chosen macroeconomic forecasting method) to enhance the prediction of macroeconomic trends, with a focus on currency exchange dynamics.
+    </summary> This study examines the impact of political uncertainty on key macroeconomic variables, including the USD to PEN exchange rate, through a specialized index built from social media analysis. Tweets from prominent Peruvian figures (2018-2023) are analyzed and labeled by GPT-3.5 Turbo, determining their stance on Peru's political and economic situation.
+This process contributes to the creation of a political uncertainty time series. This series, indicative of Peru's economic climate, is integrated with a (chosen macroeconomic forecasting method) to enhance the prediction of macroeconomic trends, with a focus on currency exchange dynamics.
   </details>  
   
 * **Innovations in Peruvian universities** <br>
