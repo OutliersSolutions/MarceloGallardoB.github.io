@@ -10,7 +10,7 @@ redirect_from:
 About Me
 ======
 
-I am a fourth-year student at PUCP, majoring in Mathematics and minoring in Economics. I was also a teaching assistant for 'Mathematics for Economists IV' and am currently a research assistant.
+I am a fourth-year student at PUCP, majoring in Mathematics and minoring in Economics. I was also a teaching assistant for Mathematics for Economists IV and am currently a research assistant.
 
 I am broadly interested in Convex Optimization, Microeconomic Theory, Optimal Control, and Optimal Transport applied to Economics. I would like to go deeper into Quantitative Methods. This includes Statistics, Econometrics, and Machine Learning. 
 
