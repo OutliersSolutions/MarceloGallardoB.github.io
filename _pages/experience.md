@@ -49,7 +49,8 @@ Teaching Experience
 Research Assistant
 ======
 * GRADE (Grupo de Análisis para el Desarrollo)
-  * 03/2022 to 12/2022 and 09/2023 to 12/2023. Fundamentals of econometrics lecture notes. Please refer to the index [here](https://drive.google.com/file/d/1vA_w2mHqugb4XI2tCnxPnRxZ1c_uyX5m/view?usp=sharing).
+  * 03/2022 to 12/2022. Lecture notes for Fundamentals of Econometrics. Please refer to the index [here](https://drive.google.com/file/d/1vA_w2mHqugb4XI2tCnxPnRxZ1c_uyX5m/view?usp=sharing).
+  * 09/2023 to 12/2023. Scientific innovation index for Peruvian universities through CFA. 
   * Worked with Ph.D [Juan León Jara-Almonte](https://www.grade.org.pe/investigadores/personal/jleon/)
     
 * PUCP
