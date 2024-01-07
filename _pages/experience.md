@@ -26,8 +26,7 @@ Education
     * Applied Industrial Organization.
     * Asset Pricing.
 
-* École Polytechnique Fédérale de Lausanne 
-  Propédeutique Physique
+* École Polytechnique Fédérale de Lausanne Propédeutique Physique
   *2019-2
     * Numerical Physics.
     * Analysis and linear algebra for physicists.
