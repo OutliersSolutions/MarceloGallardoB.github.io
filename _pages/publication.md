@@ -76,7 +76,7 @@ Lecture notes
         Summary |
         <a href="https://drive.google.com/file/d/18FMj16rzA-jotOEgmrYm52JqTR1HIXX9/view?usp=sharing" role="button" target="_blank"> Lecture notes </a> | 
     </summary>
-  Lecture notes about Optimal Transport Theory (introductory) and applications in Economics and Finance. Specifically, the entropic regularization problem. 
+  Introduction to optimal transport theory applications in Economics and Finance. We focus on the entropic regularization problem. Content is mostly based on Optimal Transport, old and new by [C. Villani](https://en.wikipedia.org/wiki/C%C3%A9dric_Villani), and Optimal Transport Methods in Economics by [Alfred Galichon](https://alfredgalichon.com/). Several papers of Alfred Galichon were used too. 
   </details>
 
 Talks
@@ -89,7 +89,7 @@ Talks
     <summary>
         Summary |
         <a href="https://drive.google.com/file/d/1slc1PWUnp4jQn3eJHJXV2tTaztWxlnRt/view?usp=sharing" role="button" target="_blank"> Slides </a> |   
-    </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of the PUCP.  
+    </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of PUCP.  
   </details>
 
 
@@ -102,7 +102,7 @@ Others
     <summary>
         Summary |
         <a href="https://drive.google.com/file/d/1MpHi_TNMoZ59PSP4FtWshXK4TfDxX2Zg/view?usp=sharing" role="button" target="_blank"> Collaboration </a> | 
-    </summary> Collaborator on a working paper authored by [Waldo Mendoza](https://es.wikipedia.org/wiki/Waldo_Mendoza_Bellido) et al. Development of the dynamic model, convergence analysis.
+    </summary> Collaborator on a working paper authored by [Waldo Mendoza](https://es.wikipedia.org/wiki/Waldo_Mendoza_Bellido) et al. Developed part of the dynamic model and analyzed convergence properties.
   </details>
 
 
