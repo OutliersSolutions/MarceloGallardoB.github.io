@@ -20,12 +20,17 @@ Education
   
 * QLab
   * 01/2022-02/2022, 01/2023-02/2023 and 01/2024-02/2024   
-  * Introduction to Machine Learning, Machine Learning for Macroeconomics and Finance, Applied Econometrics, Applied Industrial Organization and Asset Pricing.
+    * Introduction to Machine Learning.
+    * Machine Learning for Macroeconomics and Finance.
+    * Applied Econometrics.
+    * Applied Industrial Organization.
+    * Asset Pricing.
 
 * École Polytechnique Fédérale de Lausanne 
   Propédeutique Physique 2019-2
     * Numerical Physics.
     * Analysis and linear algebra for physicists.
+    * Philosophy of sciences. 
 
 Awards & Honors
 ======
