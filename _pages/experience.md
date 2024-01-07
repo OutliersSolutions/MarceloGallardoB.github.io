@@ -46,10 +46,10 @@ Teaching Experience
   * 03/2022 to 07/2022, Mathematics for Economists 3. Please refer to the material developed for the course [here](https://drive.google.com/drive/folders/1OYpuLyB-UFUBMWVZcSQYUNy0VU0detU0?usp=sharing).
   * 08/2022 to 12/2022, Mathematics for Economists 4. Please refer to the material developed for the course [here](https://drive.google.com/drive/folders/1uUf2qqCVaAEA85aDHuXdz7JI3YZ5gqfC?usp=sharing).
  
-Research Assistant
+Research Assistant}
 ======
 * GRADE (Grupo de Análisis para el Desarrollo)
-  * 03/2022 to 12/2022. Lecture notes for Fundamentals of Econometrics. Please refer to the index [here](https://drive.google.com/file/d/1vA_w2mHqugb4XI2tCnxPnRxZ1c_uyX5m/view?usp=sharing).
+  * 03/2022 to 12/2022. Lecture notes for Fundamentals of Econometrics. Please refer to the index [here](https://MarceloGallardoB.github.io/files/index_lecture_notes_econometrics.pdf).
   * 09/2023 to 12/2023. Scientific innovation index for Peruvian universities through CFA. 
   * Worked with Ph.D [Juan León Jara-Almonte](https://www.grade.org.pe/investigadores/personal/jleon/)
     
