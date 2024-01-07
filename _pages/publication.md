@@ -43,7 +43,7 @@ Books and working books
         Summary |
         <a href="https://MarceloGallardoB.github.io/files/Index ALOECO.pdf" role="button" target="_blank"> Working book </a> | 
     </summary>
-  Working book about Linear Algebra and Static Optimization for Economists. Linear algebra, topology in normed vector spaces, convex analysis, optimization, and applications to microeconomics.
+  Working book about Linear Algebra and Static Optimization for Economists. Linear algebra, topology in normed vector spaces, convex analysis, unconstrained static optimization, constrained static optimization, comparative statics, preferences consumer theory, pure exchange economies and other applications to economics.
   </details>
 
 
@@ -54,7 +54,7 @@ Books and working books
         Summary |
         <a href="https://MarceloGallardoB.github.io/files/index_dynamical_systems_optimal_control.pdf" role="button" target="_blank"> Working book </a> | 
     </summary>
-  Working book about Dynamical Systems and Optimal Control in continuous time. Ordinary differential equations, linear systems, nonlinear systems, calculus of variations, and optimal control theory. Applications to economic growth models such as Solow and Ramsey‑Cass‑Koopsman.
+  Working book about Dynamical Systems and Optimal Control in Continuous Time for Economists. Ordinary scalar differential equations, linear systems, nonlinear systems, calculus of variations, and optimal control theory. Applications to economic growth models such as Solow and Ramsey‑Cass‑Koopsman.
   </details>
 
 Lecture notes
