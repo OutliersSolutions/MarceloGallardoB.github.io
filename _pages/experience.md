@@ -44,11 +44,11 @@ Teaching Experience
 Research Assistant
 ======
 * GRADE (Grupo de Análisis para el Desarrollo)
-  * 03/2022 to 12/2022 and 09/2023 to 12/2023. Fundamentals of econometrics lecture notes. Please refer to summary [here]  (https://drive.google.com/file/d/1vA_w2mHqugb4XI2tCnxPnRxZ1c_uyX5m/view?usp=sharing).
+  * 03/2022 to 12/2022 and 09/2023 to 12/2023. Fundamentals of econometrics lecture notes. Please refer to the index [here](https://drive.google.com/file/d/1vA_w2mHqugb4XI2tCnxPnRxZ1c_uyX5m/view?usp=sharing).
   * Worked with Ph.D [Juan León Jara-Almonte](https://www.grade.org.pe/investigadores/personal/jleon/)
     
 * PUCP
-  * 03/2022-11/2022. Collaborator in [Dynamical Systems for Economic Analysis(https://repositorio.pucp.edu.pe/index/handle/123456789/187345)
+  * 03/2022-11/2022. Collaborator in [Dynamical Systems for Economic Analysis](https://repositorio.pucp.edu.pe/index/handle/123456789/187345)
   * 03/2023-now. Co-author in two working books.    
   * Worked with Ph.D [Jorge Richard Chavez Fuentes](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes)
    
