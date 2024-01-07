@@ -86,8 +86,9 @@ Talks
   <details> 
     <summary>
         Summary |
-        <a href="https://drive.google.com/file/d/1slc1PWUnp4jQn3eJHJXV2tTaztWxlnRt/view?usp=sharing" role="button" target="_blank"> Slides </a> | 
-    </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of the PUCP. [Certification](https://MarceloGallardoB.github.io/files/Constancia de participación_ Marcelo Gallardo - Escuela de Invierno 2023.pdf).
+        <a href="https://drive.google.com/file/d/1slc1PWUnp4jQn3eJHJXV2tTaztWxlnRt/view?usp=sharing" role="button" target="_blank"> Slides </a> |   
+    </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of the PUCP.
+[Certification](https://MarceloGallardoB.github.io/files/adeem.pdf).  
   </details>
 
 
