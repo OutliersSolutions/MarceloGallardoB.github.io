@@ -76,8 +76,7 @@ Lecture notes
         Summary |
         <a href="https://drive.google.com/file/d/18FMj16rzA-jotOEgmrYm52JqTR1HIXX9/view?usp=sharing" role="button" target="_blank"> Lecture notes </a> | 
     </summary>
-  Introduction to optimal transport theory applications in Economics and Finance. We focus on the entropic regularization problem. Content is mostly based on Optimal Transport, old and new by 
-[C. Villani](https://en.wikipedia.org/wiki/C%C3%A9dric_Villani), and Optimal Transport Methods in Economics by [Alfred Galichon](https://alfredgalichon.com/). Several papers of Alfred Galichon were used too. 
+  Introduction to optimal transport theory applications in Economics and Finance. We focus on the entropic regularization problem. Content is mostly based on Optimal Transport, old and new by Cédric Villani, and Optimal Transport Methods in Economics by Alfred Galichon. Several papers of Alfred Galichon were used too. 
   </details>
 
 Talks
