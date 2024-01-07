@@ -102,7 +102,7 @@ Others
     <summary>
         Summary |
         <a href="https://drive.google.com/file/d/1MpHi_TNMoZ59PSP4FtWshXK4TfDxX2Zg/view?usp=sharing" role="button" target="_blank"> Collaboration </a> | 
-    </summary> Collaborator on a working paper authored by [Waldo Mendoza](https://es.wikipedia.org/wiki/Waldo_Mendoza_Bellido) et al. Developed part of the dynamic model and analyzed convergence properties.
+    </summary> Collaborator on a working paper authored by Waldo Mendoza et al. Developed part of the dynamic model and analyzed convergence properties.
   </details>
 
 
