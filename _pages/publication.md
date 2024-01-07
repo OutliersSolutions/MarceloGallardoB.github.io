@@ -23,7 +23,7 @@ Papers and working papers
   </details>  
   
 * **Innovations in Peruvian universities** <br>
-  <u>Marcelo Gallardo</u> and [Juan León Jara](https://www.pucp.edu.pe/profesor/juan-leon-jara-almonte). <br>
+  <u>Marcelo Gallardo</u> and [Juan León Jara](https://www.pucp.edu.pe/profesor/juan-leon-jara-almonte). Assistance from Nicolás Velarde. <br>
   <details> 
     <summary>
         Abstract |
