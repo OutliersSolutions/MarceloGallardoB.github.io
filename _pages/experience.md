@@ -49,7 +49,7 @@ Teaching Experience
 Research Assistant}
 ======
 * GRADE (Grupo de Análisis para el Desarrollo)
-  * 03/2022 to 12/2022. Lecture notes for Fundamentals of Econometrics. Please refer to the index [here](https://MarceloGallardoB.github.io/files/index_lecture_notes_econometrics.pdf).
+  * 03/2022 to 12/2022. Lecture notes for the course [Fundamentals of Econometrics](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/fundamentos-de-econometria/). Please refer to the lecture notes index [here](https://MarceloGallardoB.github.io/files/index_lecture_notes_econometrics.pdf).
   * 09/2023 to 12/2023. Scientific innovation index for Peruvian universities through CFA. 
   * Worked with Ph.D [Juan León Jara-Almonte](https://www.grade.org.pe/investigadores/personal/jleon/)
     
