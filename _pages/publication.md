@@ -52,7 +52,7 @@ Books and working books
   <details> 
     <summary>
         Summary |
-        <a href="https://drive.google.com/file/d/1Dxo4IkOWdpwNhx_h1ZbiMRoto6Gqx8Td/view?usp=sharing" role="button" target="_blank"> Working book </a> | 
+        <a href="https://MarceloGallardoB.github.io/files/index_dynamical_systems_optimal_control.pdf" role="button" target="_blank"> Working book </a> | 
     </summary>
   Working book about Dynamical Systems and Optimal Control in continuous time. Ordinary differential equations, linear systems, nonlinear systems, calculus of variations, and optimal control theory. Applications to economic growth models such as Solow and Ramsey‑Cass‑Koopsman.
   </details>
@@ -65,7 +65,7 @@ Lecture notes
   <details> 
     <summary>
         Summary |
-        <a href="https://drive.google.com/file/d/1ok2xRQ9KbxPA029Tf0FPgaBjyZDXtUsU/view?usp=sharing" role="button" target="_blank"> Lecture Notes </a> | 
+        <a href="https://MarceloGallardoB.github.io/files/brouwer_fixed_point_theorem.pdf" role="button" target="_blank"> Lecture Notes </a> | 
     </summary> We develop a path towards the proof of Brouwer's Fixed Point Theorem, although based on several sources, of our construction. We also present an application in economic theory. Specifically, we focus on general equilibrium theory. We aim to provide the simplest possible proof, the only requirements are real analysis and general topology. Besides one Lemma which is not proved in its most general case, we provide proofs for all the results building up to the main theorem. Furthermore, as far as we know, the combination of elements that we present in this document has not been displayed in this exact form before. It is important to mention that this work does not seek to be original or innovative in the sense that it does not present any new results in the literature. Our objective is simply to develop an understandable approach to Brouwer's Fixed Point Theorem and its applications in general equilibrium.
   </details>
 
@@ -74,9 +74,9 @@ Lecture notes
   <details> 
     <summary>
         Summary |
-        <a href="https://drive.google.com/file/d/18FMj16rzA-jotOEgmrYm52JqTR1HIXX9/view?usp=sharing" role="button" target="_blank"> Lecture notes </a> | 
+        <a href="https://MarceloGallardoB.github.io/files/trabajo_ot_2023.pdf" role="button" target="_blank"> Lecture notes </a> | 
     </summary>
-  Introduction to optimal transport theory applications in Economics and Finance. We focus on the entropic regularization problem. Content is mostly based on Optimal Transport, old and new by Cédric Villani, and Optimal Transport Methods in Economics by Alfred Galichon. Several papers of Alfred Galichon were used too. 
+  Introduction to optimal transport theory applications in Economics and Finance. We focus on the entropic regularization problem. Content is mostly based on Optimal Transport, Old and New by Cédric Villani, and Optimal Transport Methods in Economics by Alfred Galichon. 
   </details>
 
 Talks
@@ -88,7 +88,7 @@ Talks
   <details> 
     <summary>
         Summary |
-        <a href="https://drive.google.com/file/d/1slc1PWUnp4jQn3eJHJXV2tTaztWxlnRt/view?usp=sharing" role="button" target="_blank"> Slides </a> |   
+        <a href="https://MarceloGallardoB.github.io/files/slides_escuela_invierno.pdf" role="button" target="_blank"> Slides </a> |   
     </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of PUCP.  
   </details>
 
@@ -101,7 +101,7 @@ Others
   <details> 
     <summary>
         Summary |
-        <a href="https://drive.google.com/file/d/1MpHi_TNMoZ59PSP4FtWshXK4TfDxX2Zg/view?usp=sharing" role="button" target="_blank"> Collaboration </a> | 
+        <a href="https://MarceloGallardoB.github.io/files/deuda_publica.pdf" role="button" target="_blank"> Collaboration </a> | 
     </summary> Collaborator on a working paper authored by Waldo Mendoza et al. Developed part of the dynamic model and analyzed convergence properties.
   </details>
 
