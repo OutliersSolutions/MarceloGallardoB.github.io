@@ -46,7 +46,7 @@ Teaching Experience
   * 03/2022 to 07/2022, Mathematics for Economists 3. Please refer to the material developed for the course [here](https://drive.google.com/drive/folders/1OYpuLyB-UFUBMWVZcSQYUNy0VU0detU0?usp=sharing).
   * 08/2022 to 12/2022, Mathematics for Economists 4. Please refer to the material developed for the course [here](https://drive.google.com/drive/folders/1uUf2qqCVaAEA85aDHuXdz7JI3YZ5gqfC?usp=sharing).
  
-Research Assistant}
+Research Assistant
 ======
 * GRADE (Grupo de Análisis para el Desarrollo)
   * 03/2022 to 12/2022. Lecture notes for the course [Fundamentals of Econometrics](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/fundamentos-de-econometria/). Please refer to the lecture notes index [here](https://MarceloGallardoB.github.io/files/index_lecture_notes_econometrics.pdf).
