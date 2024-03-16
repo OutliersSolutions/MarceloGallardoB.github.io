@@ -13,8 +13,8 @@ Papers and working papers
 ======
 
 
-* **Harnessing Twitter and GPT for a Novel Political Uncertainty Index for Peru: Implications for USD/PEN Exchange Rate Fluctuations** <br>
-  [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), <u> Marcelo Gallard </u> and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/). <br>
+* Harnessing Twitter and GPT for a Novel Political Uncertainty Index for Peru: Implications for USD/PEN Exchange Rate Fluctuations <br>
+  [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), <u> Marcelo Gallardo </u> and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/). <br>
   <details> 
     <summary>
         Abstract |
@@ -22,7 +22,7 @@ Papers and working papers
     </summary> This study examines the impact of political uncertainty on key macroeconomic variables, including the USD to  PEN exchange rate, through a specialized index built from social media analysis. Tweets from prominent Peruvian figures (2018-2023) are analyzed and labeled by GPT-3.5 Turbo, determining their stance on Peru's political and economic situation. This process contributes to the creation of a political uncertainty time series. This series, indicative of Peru's economic climate, is integrated with a (chosen macroeconomic forecasting method) to enhance the prediction of macroeconomic trends, with a focus on currency exchange dynamics.
   </details>  
   
-* **Innovation in Peruvian universities** <br>
+* Innovation in Peruvian universities <br>
   <u>Marcelo Gallardo</u> and [Juan León Jara](https://www.pucp.edu.pe/profesor/juan-leon-jara-almonte).<br>
   Assistance from Nicolás Velarde. <br>
   <details> 
@@ -36,18 +36,18 @@ Papers and working papers
 Books and working books
 ======
   
-* **Linear Algebra and Optimization for Economists** <br>
+* Linear Algebra and Optimization for Economists <br>
  [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u>Marcelo Gallardo</u>. <br>
   <details> 
     <summary>
         Summary |
-        <a href="https://MarceloGallardoB.github.io/files/Index ALOECO.pdf" role="button" target="_blank"> Working book </a> | 
+        <a href="https://MarceloGallardoB.github.io/files/Index ALOECO.pdf" role="button" target="_blank"> Pre published book </a> | 
     </summary>
-  Working book about Linear Algebra and Static Optimization for Economists. Linear algebra, topology in normed vector spaces, convex analysis, unconstrained static optimization, constrained static optimization, comparative statics, preferences, consumer theory, pure exchange economies, and other applications to economics.
+  Pre published  about Linear Algebra and Static Optimization for Economists. Linear algebra, topology in normed vector spaces, convex analysis, unconstrained static optimization, constrained static optimization, comparative statics, preferences, consumer theory, pure exchange economies, and other applications to economics.
   </details>
 
 
-* **Optimal Control Theory and Dynamics for Economic Analysis in Continuous Time** <br>
+* Optimal Control Theory and Dynamics for Economic Analysis in Continuous Time <br>
  [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u>Marcelo Gallardo</u>. <br>
   <details> 
     <summary>
@@ -60,7 +60,16 @@ Books and working books
 Lecture notes
 ======
 
-* **Brouwer fixed point theorem and applications in general equilibrium** <br>
+* Introduction to econometrics <br>
+  <u>Marcelo Gallardo</u> and Juan Leon, with the assistance of Carlos Cosentino. <br>
+  <details> 
+    <summary>
+        Summary |
+        <a href=" " role="button" target="_blank"> Lecture Notes </a> | 
+    </summary> These lecture notes offer a deep dive into econometrics, structured around key themes from matrix algebra basics to sophisticated statistical models. The content begins with foundational matrix operations and their relevance to econometrics, advancing to static optimization, and exploring multivariate models with a focus on linear models and optimization issues. It also addresses qualitative variables, sampling methods, and experimental designs. Crucial econometric challenges such as multicollinearity, parameter stability, heteroscedasticity, and serial autocorrelation are thoroughly examined, alongside detection and correction techniques. The notes culminate in discussions on advanced topics like maximum likelihood estimation and machine learning, equipping readers with a broad understanding of econometric analysis and application.
+  </details>
+
+* Brouwer fixed point theorem and applications in general equilibrium <br>
   <u>Marcelo Gallardo</u>, Carlos Cosentino and Eduardo Llamoca . <br>
   <details> 
     <summary>
@@ -69,7 +78,7 @@ Lecture notes
     </summary> We develop a path towards the proof of Brouwer's Fixed Point Theorem, although based on several sources, of our construction. We also present an application in economic theory. Specifically, we focus on general equilibrium theory. We aim to provide the simplest possible proof, the only requirements are real analysis and general topology. Besides one Lemma which is not proved in its most general case, we provide proofs for all the results building up to the main theorem. Furthermore, as far as we know, the combination of elements that we present in this document has not been displayed in this exact form before. It is important to mention that this work does not seek to be original or innovative in the sense that it does not present any new results in the literature. Our objective is simply to develop an understandable approach to Brouwer's Fixed Point Theorem and its applications in general equilibrium.
   </details>
 
-* **Lecture notes in optimal transport applied to economics and finance: the entropic regularization problem** <br>
+* Lecture notes in optimal transport applied to economics and finance: the entropic regularization problem <br>
  <u>Marcelo Gallardo</u> and Carlos Cosentino. <br>
   <details> 
     <summary>
@@ -82,7 +91,7 @@ Lecture notes
 Talks
 ======
 
-* **Optimal Transport and some other mathematical models with applications in Economics** <br>
+* Optimal Transport and some other mathematical models with applications in Economics <br>
  <u>Marcelo Gallardo</u> <br>
  [Certification](https://MarceloGallardoB.github.io/files/adeem.pdf). 
   <details> 
@@ -96,7 +105,7 @@ Talks
 Others
 ======
 
-* **The sustainability of public debt in an open economy** <br>
+* The sustainability of public debt in an open economy <br>
  [Waldo Mendoza](https://www.pucp.edu.pe/profesor/waldo-mendoza-bellido) et al. <u>Marcelo Gallardo</u> <br>
   <details> 
     <summary>
@@ -104,6 +113,3 @@ Others
         <a href="https://MarceloGallardoB.github.io/files/deuda_publica.pdf" role="button" target="_blank"> Collaboration </a> | 
     </summary> Collaborator on a working paper authored by Waldo Mendoza et al. Developed part of the dynamic model and analyzed convergence properties.
   </details>
-
-
-
