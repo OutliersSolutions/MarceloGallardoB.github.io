@@ -23,14 +23,14 @@ Education
     * Introduction to Machine Learning.
     * [Machine Learning for Macroeconomics and Finance](https://drive.google.com/drive/folders/1SUAyv625hcksPExtOUZuGEFRqSyaXYtn?usp=drive_link).
     * Applied Econometrics.
-    * Applied Industrial Organization.
+    * [Applied Industrial Organization](https://drive.google.com/drive/folders/1jPzLSVhnEhNFtQ5sAOWE1MU47kZyb9Ir?usp=drive_link).
     * [Asset Pricing](https://drive.google.com/drive/folders/1BFUdIV3wzsZOwjagvYaYNOmcgKzqTcld?usp=drive_link).
 
 * École Polytechnique Fédérale de Lausanne Propédeutique Physique
-  * 2019-2
-    * Numerical Physics.
+  * 2019-2 
     * Analysis and linear algebra for physicists.
-    *   Philosophy of sciences. 
+    * Numerical Physics.
+    * Philosophy of sciences. 
 
 Awards & Honors
 ======
@@ -45,19 +45,29 @@ Teaching Experience
 * Economics, PUCP
   * 03/2022 to 07/2022, Mathematics for Economists 3. Please refer to the material developed for the course [here](https://drive.google.com/drive/folders/1OYpuLyB-UFUBMWVZcSQYUNy0VU0detU0?usp=sharing).
   * 08/2022 to 12/2022, Mathematics for Economists 4. Please refer to the material developed for the course [here](https://drive.google.com/drive/folders/1uUf2qqCVaAEA85aDHuXdz7JI3YZ5gqfC?usp=sharing).
- 
+  * 08/2024 to 12/2024, Microeconomics 2. 
+
+* Mathematics, PUCP
+  * 03/2024-07/2024, Optimization I.
+  * 03/2024-07/2024, Functional Analysis. 
+
 Research Assistant
 ======
 * GRADE (Grupo de Análisis para el Desarrollo)
   * 03/2022 to 12/2022. Lecture notes for the course [Fundamentals of Econometrics](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/fundamentos-de-econometria/). Please refer to the lecture notes index [here](https://MarceloGallardoB.github.io/files/index_lecture_notes_econometrics.pdf).
   * 09/2023 to 12/2023. Scientific innovation index for Peruvian universities through CFA. 
-  * Worked with Ph.D [Juan León Jara-Almonte](https://www.grade.org.pe/investigadores/personal/jleon/)
+  * 03/2024 to 07/2024. Drafting a working paper, refining the work, conducting a literature review, and developing both a   statistical package and a model in the context of changes in structural parameters.
+  * Working with Ph.D [Juan León Jara-Almonte](https://www.grade.org.pe/investigadores/personal/jleon/)
     
 * PUCP
   * 03/2022-11/2022. Collaborator in [Dynamical Systems for Economic Analysis](https://repositorio.pucp.edu.pe/index/handle/123456789/187345)
-  * 03/2023-now. Co-author in two working books.    
+  * 03/2023-now. Co-author in two books.    
   * Working with Ph.D [Jorge Richard Chavez Fuentes](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes)
-   
+
+* UNSW
+  * 03/2024-now. Assitance with several academic and non academic tasks. This includes literature review, presentations, mathematical derivations and some coding.
+  * Working with PhD [Juan Carlos Carbajal][https://sites.google.com/site/carbajaleconomics/home] 
+  
 Courses 
 ======
 * Mathematics
