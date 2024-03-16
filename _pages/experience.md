@@ -66,7 +66,7 @@ Research Assistant
 
 * UNSW
   * 03/2024-now. Assitance with several academic and non academic tasks. This includes literature review, presentations, mathematical derivations and some coding.
-  * Working with PhD [Juan Carlos Carbajal][https://sites.google.com/site/carbajaleconomics/home] 
+  * Working with PhD [Juan Carlos Carbajal](https://sites.google.com/site/carbajaleconomics/home) 
   
 Courses 
 ======
