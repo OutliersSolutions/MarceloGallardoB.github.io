@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 
-* B.s and Lic in Mathematics, Pontificia Universidad Católica del Perú
+* B.s and Lic in Mathematics, [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/carrera/matematicas/)
   * 03/2020 - present, Average Grade in Mathematics and Economics: 18.7/20
   * Master and advanced courses: Optimal Transport, Advanced Microeconomics, Stochastic Processes.
   * Undergraduate economic courses: Microeconomics 1 & 2, Macroeconomics 1, Statistical Inference, Econometrics.
@@ -26,11 +26,11 @@ Education
     * [Applied Industrial Organization](https://drive.google.com/drive/folders/1jPzLSVhnEhNFtQ5sAOWE1MU47kZyb9Ir?usp=drive_link).
     * [Asset Pricing](https://drive.google.com/drive/folders/1BFUdIV3wzsZOwjagvYaYNOmcgKzqTcld?usp=drive_link).
 
-* École Polytechnique Fédérale de Lausanne Propédeutique Physique
+* [École Polytechnique Fédérale de Lausanne Propédeutique Physique](https://www.epfl.ch/en/)
   * 2019-2 
     * Analysis and linear algebra for physicists.
     * Numerical Physics.
-    * Philosophy of sciences. 
+    * Philosophy of sciences.
 
 Awards & Honors
 ======
@@ -43,35 +43,35 @@ Awards & Honors
 Teaching Experience
 ======
 * Economics, PUCP
-  * 03/2022 to 07/2022, Mathematics for Economists 3. Please refer to the material developed for the course [here](https://drive.google.com/drive/folders/1OYpuLyB-UFUBMWVZcSQYUNy0VU0detU0?usp=sharing).
-  * 08/2022 to 12/2022, Mathematics for Economists 4. Please refer to the material developed for the course [here](https://drive.google.com/drive/folders/1uUf2qqCVaAEA85aDHuXdz7JI3YZ5gqfC?usp=sharing).
-  * 08/2024 to 12/2024, Microeconomics 2. 
+  * 03/2022 to 07/2022, [Mathematics for Economists 3](https://drive.google.com/drive/folders/1OYpuLyB-UFUBMWVZcSQYUNy0VU0detU0?usp=sharing). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
+  * 08/2022 to 12/2022, [Mathematics for Economists 4](https://drive.google.com/drive/folders/1uUf2qqCVaAEA85aDHuXdz7JI3YZ5gqfC?usp=sharing). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
+  * 08/2024 to 12/2024, Microeconomics 2. With PhD [Pavel Coronado](https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos).
 
 * Mathematics, PUCP
-  * 03/2024-07/2024, Optimization I.
-  * 03/2024-07/2024, Functional Analysis. 
+  * 03/2024-07/2024, [Optimization I](https://drive.google.com/drive/folders/1uZYvNFT1c57tMKL4Mvs5cVVn0KHtdUbV?usp=sharing). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
+  * 03/2024-07/2024, [Functional Analysis](https://drive.google.com/drive/folders/1lD99RwfWYUWvziG2Ml_OvDFc_XVVqVlq?usp=sharing). With PhD [Percy Fernández](https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez).
 
 Research Assistant
 ======
 * GRADE (Grupo de Análisis para el Desarrollo)
   * 03/2022 to 12/2022. Lecture notes for the course [Fundamentals of Econometrics](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/fundamentos-de-econometria/). Please refer to the lecture notes index [here](https://MarceloGallardoB.github.io/files/index_lecture_notes_econometrics.pdf).
   * 09/2023 to 12/2023. Scientific innovation index for Peruvian universities through CFA. 
-  * 03/2024 to 07/2024. Drafting a working paper, refining the work, conducting a literature review, and developing both a   statistical package and a model in the context of changes in structural parameters.
+  * 03/2024 to 07/2024. Conducting a literature review and developing both a statistical package and a model in the context of changes in structural parameters.
   * Working with Ph.D [Juan León Jara-Almonte](https://www.grade.org.pe/investigadores/personal/jleon/)
     
 * PUCP
-  * 03/2022-11/2022. Collaborator in [Dynamical Systems for Economic Analysis](https://repositorio.pucp.edu.pe/index/handle/123456789/187345)
+  * 03/2022-11/2022. Collaborator in the book [Dynamical Systems for Economic Analysis](https://repositorio.pucp.edu.pe/index/handle/123456789/187345)
   * 03/2023-now. Co-author in two books.    
   * Working with Ph.D [Jorge Richard Chavez Fuentes](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes)
 
 * UNSW
-  * 03/2024-now. Assitance with several academic and non academic tasks. This includes literature review, presentations, mathematical derivations and some coding.
+  * 03/2024-now. Assitance with several academic and non academic tasks. This includes literature review, presentations and mathematical derivations.
   * Working with PhD [Juan Carlos Carbajal](https://sites.google.com/site/carbajaleconomics/home) 
   
 Courses 
 ======
 * Mathematics
-  * Linear Algebra, Real Analysis I, Real Analysis II, Abstract Algebra, [Topology](https://drive.google.com/drive/folders/1Ef6LkU1bSBeBSmpz4niSgTqvbvkBlkY2?usp=sharing), [Optimization I](https://drive.google.com/drive/folders/1NL-AUp38V9Gvq3onLR8rH-_G3_5cjeeu?usp=sharing), Optimization II, [Measure Theory](https://drive.google.com/drive/folders/1A9ruFgBU2c4hgbMfaSqriXG5po_zvhJY?usp=sharing), Ordinary Differential Equations, [Multilinear Algebra](https://drive.google.com/drive/folders/17BLzbIob1aTNB3jDGUX50EWOOCz-VbZt?usp=sharing), [Functional Analysis](https://drive.google.com/drive/folders/1yOLo_AnVmboiwv-X87GJYXVu8ztOeZfO?usp=sharing), [Galois Theory](https://drive.google.com/drive/folders/1ZUmAaJerUQ3xULnM9oazKLboPiBG05Zk?usp=sharing), [Analysis over Surfaces](https://drive.google.com/drive/folders/1RvgDrmKVTvZPMdAhPHdjdUJHwhLrRCxO?usp=sharing), Optimal Transport, [Complex Analysis](https://drive.google.com/drive/folders/1m-0N2xtkmVQCTG6WmqkAznkiRGEvLfH6?usp=sharing), Differential Geometry, [Stochastic Processes](https://drive.google.com/drive/folders/19iQ7d3kyL65gAiHaKLz8BdbKbhiv0iPH?usp=sharing).
+  * Linear Algebra, Real Analysis I, Real Analysis II, Abstract Algebra, [Topology](https://drive.google.com/drive/folders/1Ef6LkU1bSBeBSmpz4niSgTqvbvkBlkY2?usp=sharing), [Optimization I](https://drive.google.com/drive/folders/1NL-AUp38V9Gvq3onLR8rH-_G3_5cjeeu?usp=sharing), [Optimization II](https://drive.google.com/drive/folders/1Om2p7mdhz7PQRfkSCBsYgd5RQ_CmYn6p?usp=sharing), [Measure Theory](https://drive.google.com/drive/folders/1A9ruFgBU2c4hgbMfaSqriXG5po_zvhJY?usp=sharing), Ordinary Differential Equations, [Multilinear Algebra](https://drive.google.com/drive/folders/17BLzbIob1aTNB3jDGUX50EWOOCz-VbZt?usp=sharing), [Functional Analysis](https://drive.google.com/drive/folders/1yOLo_AnVmboiwv-X87GJYXVu8ztOeZfO?usp=sharing), [Galois Theory](https://drive.google.com/drive/folders/1ZUmAaJerUQ3xULnM9oazKLboPiBG05Zk?usp=sharing), [Analysis over Surfaces](https://drive.google.com/drive/folders/1RvgDrmKVTvZPMdAhPHdjdUJHwhLrRCxO?usp=sharing), Optimal Transport, [Complex Analysis](https://drive.google.com/drive/folders/1m-0N2xtkmVQCTG6WmqkAznkiRGEvLfH6?usp=sharing), Differential Geometry, [Stochastic Processes](https://drive.google.com/drive/folders/19iQ7d3kyL65gAiHaKLz8BdbKbhiv0iPH?usp=sharing).
      
 * Economics
   * [Microeconomics I](https://drive.google.com/drive/folders/1oSQwkH64T73wk6ZFf5SPIFRNeqxiVngn?usp=sharing), [Microeconomics II](https://drive.google.com/drive/folders/16OCvjU8U9B8Z6JECZa15Iwo2jedA7kV2?usp=sharing), [Advanced Microeconomics](https://drive.google.com/drive/folders/1I85_3H-vLM7GDlekQ5eQ5BCPyshtxiuq?usp=sharing), [Macroeconomics I](https://drive.google.com/drive/folders/1yfofKdzVbLH7dEuK6cQjODBFlUF0PJcX?usp=sharing), [Statistical Inference](https://drive.google.com/drive/folders/1EsonJMZ1ArQQnMVi3o5SLpcpy1fxJPku?usp=sharing), [Econometrics I](https://drive.google.com/drive/folders/18ALlOW04LfnHNp4yDPRMlop7HTvln3-h?usp=sharing).    
