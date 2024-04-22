@@ -14,6 +14,6 @@ I am a fifth-year student at the Pontifical Catholic University of Peru (PUCP), 
 
 I am broadly interested in Convex Optimization, Microeconomic Theory, Optimal Control, and Optimal Transport applied to Economics.
 
-I am currently involved in several academic endeavors, including my thesis, two working papers, and a book on Dynamical Systems and Optimal Control Theory in continuous time, specifically designed for economists. At the beginning of 2024, I concluded writing a book, for which I am a co-author, on Optimization and Convex Analysis with applications in microeconomics.
+I am currently involved in several academic endeavors, including my thesis, two working papers, and a book on Dynamical Systems and Optimal Control Theory in continuous time for Economics. At the beginning of 2024, I concluded writing a book, for which I am a co-author, on Optimization and Convex Analysis with applications in microeconomics. We are awaiting its publication.
 
 For more information about my background, please refer to [my CV](https://MarceloGallardoB.github.io/files/CV.pdf).
