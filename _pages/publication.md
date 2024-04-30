@@ -74,7 +74,7 @@ Lecture notes
   <details> 
     <summary>
         Summary |
-        <a href="https://github.com/MarceloGallardoB/MarceloGallardoB.github.io/blob/main/files/brouwer_fixed_point_theorem.pdf" role="button" target="_blank"> Lecture Notes </a> | 
+        <a href="https://MarceloGallardoB.github.io/files/brouwer_fixed_point_theorem.pdf" role="button" target="_blank"> Lecture Notes </a> | 
     </summary> We develop a path towards the proof of Brouwer's Fixed Point Theorem, although based on several sources, of our construction. We also present an application in economic theory. Specifically, we focus on general equilibrium theory. We aim to provide the simplest possible proof, the only requirements are real analysis and general topology. Besides one Lemma which is not proved in its most general case, we provide proofs for all the results building up to the main theorem. Furthermore, as far as we know, the combination of elements that we present in this document has not been displayed in this exact form before. It is important to mention that this work does not seek to be original or innovative in the sense that it does not present any new results in the literature. Our objective is simply to develop an understandable approach to Brouwer's Fixed Point Theorem and its applications in general equilibrium.
   </details>
 
