@@ -66,7 +66,7 @@ Lecture notes
     <summary>
         Summary |
         <a href=" " role="button" target="_blank"> Lecture Notes </a> | 
-    </summary> These lecture notes offer a deep dive into econometrics, structured around key themes from matrix algebra basics to sophisticated statistical models. The content begins with foundational matrix operations and their relevance to econometrics, advancing to static optimization, and exploring multivariate models with a focus on linear models and optimization issues. It also addresses qualitative variables, sampling methods, and experimental designs. Crucial econometric challenges such as multicollinearity, parameter stability, heteroscedasticity, and serial autocorrelation are thoroughly examined, alongside detection and correction techniques. The notes culminate in discussions on more advanced topics like maximum likelihood estimation and machine learning, equipping readers with a broad understanding of econometric analysis and application.
+    </summary> These lecture notes offer a deep dive into econometrics, structured around key themes from matrix algebra basics to sophisticated statistical models. The content begins with foundational matrix operations and their relevance to econometrics, advancing to static optimization, and exploring multivariate models with a focus on linear models and optimization issues. It also addresses qualitative variables, sampling methods, and experimental designs. Crucial econometric challenges such as multicollinearity, parameter stability, heteroscedasticity, and serial autocorrelation are thoroughly examined, alongside detection and correction techniques. The notes culminate in discussions on more advanced topics like maximum likelihood estimation and limited dependent variable, equipping readers with a broad understanding of econometric analysis and application.
   </details>
 
 * Brouwer fixed point theorem and applications in general equilibrium <br>
@@ -75,7 +75,9 @@ Lecture notes
     <summary>
         Summary |
         <a href="https://MarceloGallardoB.github.io/files/brouwer_fixed_point_theorem.pdf" role="button" target="_blank"> Lecture Notes </a> | 
-    </summary> We develop a path towards the proof of Brouwer's Fixed Point Theorem, although based on several sources, of our construction. We also present an application in economic theory. Specifically, we focus on general equilibrium theory. We aim to provide the simplest possible proof, the only requirements are real analysis and general topology. Besides one Lemma which is not proved in its most general case, we provide proofs for all the results building up to the main theorem. Furthermore, as far as we know, the combination of elements that we present in this document has not been displayed in this exact form before. It is important to mention that this work does not seek to be original or innovative in the sense that it does not present any new results in the literature. Our objective is simply to develop an understandable approach to Brouwer's Fixed Point Theorem and its applications in general equilibrium.
+    </summary> We develop a path towards the proof of Brouwer's Fixed Point Theorem, although based on several sources, of our construction. We also present an application in economic theory. Specifically, we focus on general equilibrium
+theory. We aim to provide the simplest possible proof, the only requirements are real analysis and general topology. Besides one Lemma which is not proved in its most general case, we provide proofs for all the results building up to the
+main theorem. The applications that we provide in general equilibrium, besides classical definitions, are by our constructions. It is important to mention that this work does not seek to be original or innovative in the sense that it does not present any new results in the literature. Our objective is simply to develop an understandable approach to Brouwer's Fixed Point Theorem and its application in general equilibrium.
   </details>
 
 Talks
@@ -88,7 +90,7 @@ Talks
     <summary>
         Summary |
         <a href="https://MarceloGallardoB.github.io/files/slides_escuela_invierno.pdf" role="button" target="_blank"> Slides </a> |   
-    </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of PUCP. Based on Alfred Galichon's book and paper SISTA: learning optimal transport costs under sparsity constraints.   
+    </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of PUCP. Based on Alfred Galichon's book, Optimal transport methods in economics, and his paper SISTA: learning optimal transport costs under sparsity constraints.   
   </details>
 
 
