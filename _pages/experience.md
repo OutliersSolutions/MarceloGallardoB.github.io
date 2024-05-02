@@ -18,7 +18,7 @@ Education
   * Master and advanced courses: Optimal Transport, Advanced Microeconomics, Stochastic Processes.
   * Undergraduate economic courses: Microeconomics 1 & 2, Macroeconomics 1, Statistical Inference, Econometrics.
   
-* QLab
+* [QLab](https://qlab.pucp.edu.pe/)
   * Summer School 2022, 2023 and 2024 
     * Introduction to Machine Learning.
     * [Machine Learning for Macroeconomics and Finance](https://drive.google.com/drive/folders/1SUAyv625hcksPExtOUZuGEFRqSyaXYtn?usp=drive_link).
