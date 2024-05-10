@@ -43,7 +43,7 @@ Books and working books
         Summary |
         <a href="https://MarceloGallardoB.github.io/files/Index ALOECO.pdf" role="button" target="_blank"> Pre published book </a> | 
     </summary>
-  Pre-published  about Linear Algebra and Static Optimization for Economists. Linear algebra, topology in normed vector spaces, convex analysis, unconstrained static optimization, constrained static optimization, comparative statics, preferences, consumer theory, pure exchange economies, and other applications to economics.
+  Pre-published  about Linear Algebra and Static Optimization for Economists. Linear algebra, topology in normed vector spaces, convex analysis, unconstrained static optimization, constrained static optimization, smooth comparative statics, preferences, consumer theory, pure exchange economies, and other applications to economics.
   </details>
 
 
