@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 
-* B.s and Lic in Mathematics, [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/carrera/matematicas/)
+* B.s in Mathematics, [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/carrera/matematicas/)
   * 03/2020 - present, Average Grade in Mathematics and Economics: 18.7/20
   * Master and advanced courses: Optimal Transport, Advanced Microeconomics, Stochastic Processes.
   * Undergraduate economic courses: Microeconomics 1 & 2, Macroeconomics 1, Statistical Inference, Econometrics.
