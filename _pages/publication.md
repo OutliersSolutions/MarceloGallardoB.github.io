@@ -98,10 +98,19 @@ Others
 ======
 
 * The sustainability of public debt in an open economy <br>
- [Waldo Mendoza](https://www.pucp.edu.pe/profesor/waldo-mendoza-bellido) et al. <u>Marcelo Gallardo</u> <br>
+ [Waldo Mendoza](https://www.pucp.edu.pe/profesor/waldo-mendoza-bellido) et al. <br>
   <details> 
     <summary>
         Summary |
         <a href="https://MarceloGallardoB.github.io/files/deuda_publica.pdf" role="button" target="_blank"> Collaboration </a> | 
-    </summary> Collaborator on a working paper authored by Waldo Mendoza et al. Developed part of the dynamic model and analyzed convergence properties.
+    </summary> Developed part of the dynamic model and analyzed convergence properties.
+  </details>
+
+* Dynamical systems for Economic Analysis <br>
+ [Jorge Chávez]([https://www.pucp.edu.pe/profesor/waldo-mendoza-bellido](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes))  <br>
+  <details> 
+    <summary>
+        Summary |
+        <a href="https://repositorio.pucp.edu.pe/index/handle/123456789/187345" role="button" target="_blank"> Collaboration </a> | 
+    </summary> Assistance with problem sets, LaTeX and some proofs.
   </details>
