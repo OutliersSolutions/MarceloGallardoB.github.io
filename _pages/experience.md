@@ -14,7 +14,7 @@ Education
 ======
 
 * B.s in Mathematics, [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/carrera/matematicas/)
-  * 03/2020 - present, Average Grade in Mathematics and Economics: 18.7/20
+  * 03/2020 - 2025 (E)
 
 * [QLab](https://qlab.pucp.edu.pe/)
   * Summer School 2022, 2023 and 2024 
@@ -64,11 +64,5 @@ Research Assistant
   * 2022-now
   * Quarter time
 
-
-Courses 
-======
-* Mathematics
-  * Linear Algebra, Real Analysis I, Real Analysis II, Abstract Algebra, [Topology](https://drive.google.com/drive/folders/1Ef6LkU1bSBeBSmpz4niSgTqvbvkBlkY2?usp=sharing), [Optimization I](https://drive.google.com/drive/folders/1NL-AUp38V9Gvq3onLR8rH-_G3_5cjeeu?usp=sharing), [Optimization II](https://drive.google.com/drive/folders/1Om2p7mdhz7PQRfkSCBsYgd5RQ_CmYn6p?usp=sharing), [Measure Theory](https://drive.google.com/drive/folders/1A9ruFgBU2c4hgbMfaSqriXG5po_zvhJY?usp=sharing), Ordinary Differential Equations, [Multilinear Algebra](https://drive.google.com/drive/folders/17BLzbIob1aTNB3jDGUX50EWOOCz-VbZt?usp=sharing), [Functional Analysis](https://drive.google.com/drive/folders/1yOLo_AnVmboiwv-X87GJYXVu8ztOeZfO?usp=sharing), [Galois Theory](https://drive.google.com/drive/folders/1ZUmAaJerUQ3xULnM9oazKLboPiBG05Zk?usp=sharing), [Analysis over Surfaces](https://drive.google.com/drive/folders/1RvgDrmKVTvZPMdAhPHdjdUJHwhLrRCxO?usp=sharing), [Optimal Transport](https://MarceloGallardoB.github.io/files/trabajo_ot_2023.pdf), [Complex Analysis](https://drive.google.com/drive/folders/1m-0N2xtkmVQCTG6WmqkAznkiRGEvLfH6?usp=sharing), Differential Geometry, [Stochastic Processes](https://drive.google.com/drive/folders/19iQ7d3kyL65gAiHaKLz8BdbKbhiv0iPH?usp=sharing), Discrete Mathematics, Probability Theory, Applied Differential Equations.
-     
 
 
