@@ -25,7 +25,7 @@ Education
 Main Courses and unofficial transcripts
 ======
 
-
+Please refer to my [Academic Statement](https://MarceloGallardoB.github.io/files/academic_statement.pdf).
 
 Awards & Honors
 ======
