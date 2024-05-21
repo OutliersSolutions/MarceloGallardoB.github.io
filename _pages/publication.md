@@ -61,7 +61,7 @@ Lecture notes
 ======
 
 * Introduction to econometrics <br>
-  <u>Marcelo Gallardo</u> and Juan Leon, with the assistance of Carlos Cosentino. <br>
+  <u>Marcelo Gallardo</u> and Juan Leon. <br>
   <details> 
     <summary>
         Summary |
