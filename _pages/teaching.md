@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /iop224/
+permalink: /teaching/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,7 +11,6 @@ redirect_from:
 
 
 Teaching
-======
 
 * [Mathematics for Economists 3](https://facultad.pucp.edu.pe/generales-letras/curso/matematica-para-economistas-3/), 2022-1
   * Problem sets
