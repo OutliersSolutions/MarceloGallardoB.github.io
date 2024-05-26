@@ -101,7 +101,7 @@ Teaching
     * [Solutions graded problem set 1](https://drive.google.com/file/d/1SIkuLkN8mLWCvDylBfqG9HrpBFLGkaZ1/view?usp=drive_link)
     * [Graded problem set 2](https://drive.google.com/file/d/1IaCPqZospguZ--IaeI0YWQc3iv1g_33J/view?usp=drive_link)
 
-* Microeconomics II (), 2024-2
+* [Microeconomics II](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-2/), 2024-2
   * Problem sets
     * [Recap: consumer and producer theory](https://drive.google.com/file/d/1XnequmbNptubV5EbIv8LqbZDfTzpUsGe/view?usp=drive_link)
     
