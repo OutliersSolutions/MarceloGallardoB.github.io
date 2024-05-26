@@ -38,13 +38,13 @@ Awards & Honors
 Teaching Experience
 ======
 * Economics, PUCP
-  * 03/2022 to 07/2022, [Mathematics for Economists 3](https://drive.google.com/drive/folders/1OYpuLyB-UFUBMWVZcSQYUNy0VU0detU0?usp=sharing). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
-  * 08/2022 to 12/2022, [Mathematics for Economists 4](https://drive.google.com/drive/folders/1uUf2qqCVaAEA85aDHuXdz7JI3YZ5gqfC?usp=sharing). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
-  * 08/2024 to 12/2024, Microeconomics 2. With PhD [Pavel Coronado](https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos).
+  * 03/2022 to 07/2022, [Mathematics for Economists 3]([https://drive.google.com/drive/folders/1OYpuLyB-UFUBMWVZcSQYUNy0VU0detU0?usp=sharing](https://marcelogallardob.github.io/teaching/)). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
+  * 08/2022 to 12/2022, [Mathematics for Economists 4](https://marcelogallardob.github.io/teaching/). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
+  * 08/2024 to 12/2024, [Microeconomics 2](https://marcelogallardob.github.io/teaching/). With PhD [Pavel Coronado](https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos).
 
 * Mathematics, PUCP
-  * 03/2024-07/2024, [Optimization I](https://marcelogallardob.github.io/iop224/). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
-  * 03/2024-07/2024, [Functional Analysis](https://drive.google.com/drive/folders/1lD99RwfWYUWvziG2Ml_OvDFc_XVVqVlq?usp=sharing). With PhD [Percy Fernández](https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez).
+  * 03/2024-07/2024, [Optimization I](https://marcelogallardob.github.io/teaching/). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
+  * 03/2024-07/2024, [Functional Analysis](https://marcelogallardob.github.io/teaching/). With PhD [Percy Fernández](https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez).
 
 Research Assistant
 ======
