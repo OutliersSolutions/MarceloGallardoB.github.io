@@ -37,4 +37,10 @@ Teaching
     * [Solutions fifth graded problem set](https://drive.google.com/file/d/1RzEuJsp1Dh2AOjQXyukfglazKa-0gV6F/view?usp=drive_link)
     * [Midterm](https://drive.google.com/file/d/1U93ff4VUpaxRp5TbWITbZjksOMW891ed/view?usp=drive_link)
     * [Midterm solutions](https://drive.google.com/file/d/1qmCdAD4Ki1vpaugWFA09tOM8GoXnf4CV/view?usp=drive_link)
-    * [Final exam](https://drive.google.com/file/d/1M6vJdCdgGIwn1JphJqM-IlBqhk6YxPtP/view?usp=drive_link) 
+    * [Final exam](https://drive.google.com/file/d/1M6vJdCdgGIwn1JphJqM-IlBqhk6YxPtP/view?usp=drive_link)
+
+* [Mathematics for Economists 4](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/matematicas-para-economistas/), 2022-2
+    * [Problem set 1](https://drive.google.com/file/d/1Br0e7V240dFdjeFb1fwnsoKY9YOHJbNY/view?usp=drive_link)
+    * [Solutions problem set 1](https://drive.google.com/file/d/1tCMcgEK6I1Tm2gZ8OiZoJlQnl0uuu-Jb/view?usp=drive_link)
+    * [Problem set 2](https://drive.google.com/file/d/1e-oZBKostXlo0Yek2KS5cD6XOR1zudjj/view?usp=drive_link)
+    * [Solutions problem set 2](https://drive.google.com/file/d/1HwoXO4p_3y6c2ln9dwzlFxcl7sZr5tR_/view?usp=drive_link)
