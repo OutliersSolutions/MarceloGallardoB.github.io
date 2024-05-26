@@ -40,9 +40,33 @@ Teaching
     * [Final exam](https://drive.google.com/file/d/1M6vJdCdgGIwn1JphJqM-IlBqhk6YxPtP/view?usp=drive_link)
 
 * [Mathematics for Economists 4](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/matematicas-para-economistas/), 2022-2
+  * Problem sets
     * [Problem set 1](https://drive.google.com/file/d/1Br0e7V240dFdjeFb1fwnsoKY9YOHJbNY/view?usp=drive_link)
     * [Solutions problem set 1](https://drive.google.com/file/d/1tCMcgEK6I1Tm2gZ8OiZoJlQnl0uuu-Jb/view?usp=drive_link)
     * [Problem set 2](https://drive.google.com/file/d/1e-oZBKostXlo0Yek2KS5cD6XOR1zudjj/view?usp=drive_link)
     * [Solutions problem set 2](https://drive.google.com/file/d/1HwoXO4p_3y6c2ln9dwzlFxcl7sZr5tR_/view?usp=drive_link)
-    * [Problem set 3](https://drive.google.com/file/d/1lZTatOThW1gyX4hzYgq81sO-NWKF1jN9/view?usp=drive_link)
+    * [Problem set 3](https://drive.google.com/file/d/1ji4aJ3KgMWiG3zfS3RvrRv55DtaaONcZ/view?usp=drive_link)
+    * [Solutions problem set 3](https://drive.google.com/file/d/1gzfsCttRN7D-VGibJNHkWCc9pkBBBuF4/view?usp=drive_link)
+    * [Problem set 4](https://drive.google.com/file/d/1Fs1EgN3zCUjzK-wW8emtRFIRLWh5GCUF/view?usp=drive_link)
+    * [Solutions problem set 4](https://drive.google.com/file/d/171GQxlXz9XmKSSul6mv09U9Bsmpp6_I1/view?usp=drive_link)
+    * [Problem set 5](https://drive.google.com/file/d/1WuG6suoBkSPeXsZxT5PM0xtVr6zeqZ88/view?usp=drive_link)
+    * [Solutions problem set 5](https://drive.google.com/file/d/1b3Dvz-7kVMtgJMT5H-oWjZuRMcJoMscE/view?usp=drive_link)
+    * [Complementary slides for problem set 5](https://drive.google.com/file/d/1MJtQqaVEx09PMXPgFr_IIl2lNFLwxhzE/view?usp=drive_link)
+    * [Problem set 6](https://drive.google.com/file/d/1Rur0jO8Ci55k8wG1N3zzq8y8LD2Vi3F8/view?usp=drive_link)
+    * [Problem set 7](https://drive.google.com/file/d/1seBcheq4cAYzxZBwSFa4EIu0O7eot5R_/view?usp=drive_link)
+  * Graded problem sets and exams
+    * [Graded problem set 1](https://drive.google.com/file/d/1Q-Y78baZjurUrOD0OcmughOyr4J2PiNE/view?usp=drive_link)
+    * [Solutions graded problem set 1](https://drive.google.com/file/d/1HaWyYUHpGkR9H8nrDNzVPcx1BQDNr0nL/view?usp=drive_link)
+    * [Graded problem set 2](https://drive.google.com/file/d/1czuvjEYDy3Z-Mp4FYN_R_gOKECsxIA8S/view?usp=drive_link)
+    * [Solutions graded problem set 2](https://drive.google.com/file/d/1lnO4qY8x8xoMLXJOVGDDeyEUTGe8op4i/view?usp=drive_link)
+    * [Mock midterm](https://drive.google.com/file/d/1yzJdE2HQybKNyuLGkgtHIzK32GFBMpWG/view?usp=sharing)
+    * [Graded problem set 3](https://drive.google.com/file/d/1W4q_7RshpH0x61QdPj_3NNxnkp3aG7u9/view?usp=drive_link)
+    * [Solutions graded problem set 3](https://drive.google.com/file/d/1kvbe7ZqFuLIfM_J932VKAxDJawR_AVdo/view?usp=drive_link)
+    * [Problem set 4](https://drive.google.com/file/d/1fDGvIxpGL_KKiNMNW8HWw95ODhMCHCRB/view?usp=drive_link)
+    * [Solutions graded problem set 4](https://drive.google.com/file/d/1LSilB3M5kdmedhEfsRGtx3Rt1F9_XfXo/view?usp=drive_link)
+    * [Homework](https://drive.google.com/file/d/1rhFVvYJI5bcPwvvXgn5Yyjp4XjBcm2ZS/view?usp=drive_link)
+    * [Solutions homework](https://drive.google.com/file/d/1xGBJWioO7S0GdIau9HI4E5tqdkdzc_XK/view?usp=drive_link)
+    * [Solutions mideterm](https://drive.google.com/file/d/1bqeUG5EFT8T8gNoLYwBNE9c3Pqi8yx1J/view?usp=drive_link)
+    * [Solutions final exam](https://drive.google.com/file/d/1SAgxtMtILDzOvqnPiDNjD0YTGmQzDSxU/view?usp=drive_link)
+
       
