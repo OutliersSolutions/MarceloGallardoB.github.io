@@ -28,6 +28,7 @@ Teaching
     * [Graded problem set 1](https://drive.google.com/file/d/1Yc3kBPahwM6UEAjSm7dOBs8D1PIsdIMm/view?usp=drive_link)
     * [Solutions first graded problem set](https://drive.google.com/file/d/1pXrX-gjfdWC47O_7IcB8ld5obNaXdGnN/view?usp=drive_link)
     * [Graded problem set 2](https://drive.google.com/file/d/1rTaFSwi32j-BHVpz7Vx8X-7yBEiddmre/view?usp=drive_link)
+    * [Solutions second graded problem set](https://drive.google.com/file/d/1QFh7Wz1dNxeSntyOqJj72_vzdcSgCJOr/view?usp=drive_link)
     * [Midterm](https://drive.google.com/file/d/1U93ff4VUpaxRp5TbWITbZjksOMW891ed/view?usp=drive_link)
     * [Midterm solutions](https://drive.google.com/file/d/1qmCdAD4Ki1vpaugWFA09tOM8GoXnf4CV/view?usp=drive_link)
     * [Final exam](https://drive.google.com/file/d/1M6vJdCdgGIwn1JphJqM-IlBqhk6YxPtP/view?usp=drive_link) 
