@@ -69,4 +69,4 @@ Teaching
     * [Solutions mideterm](https://drive.google.com/file/d/1bqeUG5EFT8T8gNoLYwBNE9c3Pqi8yx1J/view?usp=drive_link)
     * [Solutions final exam](https://drive.google.com/file/d/1SAgxtMtILDzOvqnPiDNjD0YTGmQzDSxU/view?usp=drive_link)
 
-      
+* [Optimization I](https://MarceloGallardoB.github.io/files/SyllabusIOP224.pdf), 2024-1 
