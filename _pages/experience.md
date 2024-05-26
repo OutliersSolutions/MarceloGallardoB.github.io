@@ -43,7 +43,7 @@ Teaching Experience
   * 08/2024 to 12/2024, Microeconomics 2. With PhD [Pavel Coronado](https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos).
 
 * Mathematics, PUCP
-  * 03/2024-07/2024, [Optimization I](https://github.com/MarceloGallardoB/MarceloGallardoB.github.io/blob/main/_pages/iop224). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
+  * 03/2024-07/2024, [Optimization I](https://marcelogallardob.github.io/iop224/). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
   * 03/2024-07/2024, [Functional Analysis](https://drive.google.com/drive/folders/1lD99RwfWYUWvziG2Ml_OvDFc_XVVqVlq?usp=sharing). With PhD [Percy Fernández](https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez).
 
 Research Assistant
