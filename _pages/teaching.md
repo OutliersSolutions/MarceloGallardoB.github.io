@@ -44,3 +44,5 @@ Teaching
     * [Solutions problem set 1](https://drive.google.com/file/d/1tCMcgEK6I1Tm2gZ8OiZoJlQnl0uuu-Jb/view?usp=drive_link)
     * [Problem set 2](https://drive.google.com/file/d/1e-oZBKostXlo0Yek2KS5cD6XOR1zudjj/view?usp=drive_link)
     * [Solutions problem set 2](https://drive.google.com/file/d/1HwoXO4p_3y6c2ln9dwzlFxcl7sZr5tR_/view?usp=drive_link)
+    * [Problem set 3](https://drive.google.com/file/d/1lZTatOThW1gyX4hzYgq81sO-NWKF1jN9/view?usp=drive_link)
+      
