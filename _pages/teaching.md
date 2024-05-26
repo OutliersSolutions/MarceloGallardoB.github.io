@@ -11,7 +11,7 @@ redirect_from:
 
 
 Teaching
-
+=======
 * [Mathematics for Economists 3](https://facultad.pucp.edu.pe/generales-letras/curso/matematica-para-economistas-3/), 2022-1
   * Problem sets
     * [Problem set 1](https://drive.google.com/file/d/1np4ozkngzE4IfaUl4_grGIyxxfx4Nfns/view?usp=drive_link)
