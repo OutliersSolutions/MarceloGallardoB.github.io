@@ -69,4 +69,24 @@ Teaching
     * [Solutions mideterm](https://drive.google.com/file/d/1bqeUG5EFT8T8gNoLYwBNE9c3Pqi8yx1J/view?usp=drive_link)
     * [Solutions final exam](https://drive.google.com/file/d/1SAgxtMtILDzOvqnPiDNjD0YTGmQzDSxU/view?usp=drive_link)
 
-* [Optimization I](https://MarceloGallardoB.github.io/files/SyllabusIOP224.pdf), 2024-1 
+* [Optimization I](https://MarceloGallardoB.github.io/files/SyllabusIOP224.pdf), 2024-1
+  * Problem sets
+   * [Problem set 1](https://drive.google.com/file/d/18P5ovBJTmgzdq1eBq9uO0TcLOo9BuL6D/view?usp=drive_link)
+   * [Problem set 2](https://drive.google.com/file/d/10OYPG9S1BLJb4vu5oCpMRakvEQR54Dk1/view?usp=drive_link)
+   * [Problem set 3](https://drive.google.com/file/d/1Xe7xy6LZ7EJsF_V4Ws2i4tVhSxfxYXjQ/view?usp=drive_link)
+   * [Problem set 4 - Consumer and producer theory](https://drive.google.com/file/d/1XnequmbNptubV5EbIv8LqbZDfTzpUsGe/view?usp=drive_link)
+   * [Midterm preparation](https://drive.google.com/file/d/1sQ1qs8cSM6ft0EIN1aVkBgdN--k3BDbX/view?usp=drive_link)
+  * Graded problem sets and exams
+   * [Graded problem set 1](https://drive.google.com/file/d/1O2HdGYSiVLZJ-nlPn80aEWf93OW5SRfH/view?usp=drive_link)
+   * [Solutions graded problem set 1](https://drive.google.com/file/d/1Txl88K13qRswzS3AQP73bZNuKHam4wT5/view?usp=drive_link)
+   * [Graded problem set 2](https://drive.google.com/file/d/1DtAjB3CQsM6ee1-csZLh7GjA1Y42CCAG/view?usp=drive_link)
+   * [Solutions graded problem set 2](https://drive.google.com/file/d/1bJJYf6K8Iq5O6seG6a-XNnK90lTSCvPf/view?usp=drive_link)
+   * [Graded problem set 3](https://drive.google.com/file/d/1kIfVTzzclatBm6MVpbriPp3oD-hR_9l4/view?usp=drive_link)
+   * [Solutions graded problem set 3](https://drive.google.com/file/d/1Uh5dlRALRIKab2h8LNPaW7rIFiejfQrM/view?usp=drive_link)
+   * [Midterm](https://drive.google.com/file/d/12B95ogcrORhZgoF7Vn6eHfzZokMZJHOY/view?usp=drive_link)
+   * [Solutions midterm](https://drive.google.com/file/d/1z8qohc-wn-iK0wgz0_V7npAG0clMVB4U/view?usp=drive_link)
+
+* Microeconomics II (), 2024-2
+  * Problem sets
+    * [Recap: consumer and producer theory](https://drive.google.com/file/d/1XnequmbNptubV5EbIv8LqbZDfTzpUsGe/view?usp=drive_link)
+    
