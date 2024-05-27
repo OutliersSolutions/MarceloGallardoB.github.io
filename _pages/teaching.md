@@ -105,4 +105,5 @@ Teaching
 * [Microeconomics II](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-2/), 2024-2
   * Problem sets
     * [Recap: consumer and producer theory](https://drive.google.com/file/d/1XnequmbNptubV5EbIv8LqbZDfTzpUsGe/view?usp=drive_link)
+    * [General equilibrium theory](https://drive.google.com/file/d/1sEryfy8HRbXPS-Y4HuhuAepwCTilIHPe/view?usp=drive_link)
     
