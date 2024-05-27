@@ -100,6 +100,7 @@ Teaching
     * [Graded problem set 1](https://drive.google.com/file/d/1PyuQgHg29wfj0PhJG3CO_KXX61re6Kte/view?usp=drive_link)
     * [Solutions graded problem set 1](https://drive.google.com/file/d/1SIkuLkN8mLWCvDylBfqG9HrpBFLGkaZ1/view?usp=drive_link)
     * [Graded problem set 2](https://drive.google.com/file/d/1IaCPqZospguZ--IaeI0YWQc3iv1g_33J/view?usp=drive_link)
+    * [Solutions graded problem set 2](https://drive.google.com/file/d/1r3FUKWLHgBDfKvaFCPJf2XhyUECHFBfd/view?usp=drive_link)
 
 * [Microeconomics II](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-2/), 2024-2
   * Problem sets
