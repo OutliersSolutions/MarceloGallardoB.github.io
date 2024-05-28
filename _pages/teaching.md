@@ -106,4 +106,5 @@ Teaching
   * Problem sets
     * [Recap: consumer and producer theory](https://drive.google.com/file/d/1XnequmbNptubV5EbIv8LqbZDfTzpUsGe/view?usp=drive_link)
     * [General equilibrium theory](https://drive.google.com/file/d/1sEryfy8HRbXPS-Y4HuhuAepwCTilIHPe/view?usp=drive_link)
+    * [Choice under risk](https://drive.google.com/file/d/1QzHjI5hG4wx1eHM1jiCe6ey3FZ2PPvVK/view?usp=drive_link)
     
