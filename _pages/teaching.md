@@ -12,6 +12,9 @@ redirect_from:
 
 Teaching
 =======
+
+The following documents are not exempt from typos or other errors. In the case of assessments, any issues were clarified at the time of the exam.
+
 * [Mathematics for Economists 3](https://facultad.pucp.edu.pe/generales-letras/curso/matematica-para-economistas-3/), 2022-1
   * Problem sets
     * [Problem set 1](https://drive.google.com/file/d/1np4ozkngzE4IfaUl4_grGIyxxfx4Nfns/view?usp=drive_link)
