@@ -72,7 +72,7 @@ Teaching
     * [Discrete Time Optimal Control - Slides](https://drive.google.com/file/d/1gvu_acKkxKSj2NshpvMIbzxbJMlc8YFM/view?usp=drive_link)
     * [Infinite horizon - Slides](https://drive.google.com/file/d/1eWWszCh086wLjFLGTVGXlAHNGKvd6thM/view?usp=drive_link)
     * [Fundamentals of Dynamic Programming - Lecture Notes](https://drive.google.com/file/d/1wMEsDJjIKDGOk75LnUL8ZK23lt61EA-Z/view?usp=drive_link)
-    * [Discrete Time Optimal Control - Lecture Notes]
+    * [Discrete Time Optimal Control - Lecture Notes](https://drive.google.com/file/d/17XYW4zwBoIhWzWEA6Mxd38Hvo_bNwV52/view?usp=drive_link)
 
 * [Optimization I](https://MarceloGallardoB.github.io/files/SyllabusIOP224.pdf), 2024-1
   * Problem sets
