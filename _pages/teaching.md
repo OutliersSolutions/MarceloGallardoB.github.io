@@ -68,6 +68,11 @@ Teaching
     * [Solutions homework](https://drive.google.com/file/d/1xGBJWioO7S0GdIau9HI4E5tqdkdzc_XK/view?usp=drive_link)
     * [Solutions mideterm](https://drive.google.com/file/d/1bqeUG5EFT8T8gNoLYwBNE9c3Pqi8yx1J/view?usp=drive_link)
     * [Solutions final exam](https://drive.google.com/file/d/1SAgxtMtILDzOvqnPiDNjD0YTGmQzDSxU/view?usp=drive_link)
+  * Supplementary material on Dynamic Programming and Discrete Time Optimal Control
+    * [Discrete Time Optimal Control - Slides](https://drive.google.com/file/d/1gvu_acKkxKSj2NshpvMIbzxbJMlc8YFM/view?usp=drive_link)
+    * [Infinite horizon - Slides](https://drive.google.com/file/d/1eWWszCh086wLjFLGTVGXlAHNGKvd6thM/view?usp=drive_link)
+    * [Fundamentals of Dynamic Programming - Lecture Notes](https://drive.google.com/file/d/1wMEsDJjIKDGOk75LnUL8ZK23lt61EA-Z/view?usp=drive_link)
+    * [Discrete Time Optimal Control - Lecture Notes]
 
 * [Optimization I](https://MarceloGallardoB.github.io/files/SyllabusIOP224.pdf), 2024-1
   * Problem sets
