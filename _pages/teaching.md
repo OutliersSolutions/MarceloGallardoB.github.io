@@ -93,7 +93,7 @@ Teaching
     * [Homework related to the visit](https://drive.google.com/file/d/1PFN3y4387xCwSwqjKN-xz9ecO_JiEgc3/view?usp=drive_link)
     * [Banner](https://MarceloGallardoB.github.io/files/echenique_iop224.pdf) of the event co-organized with professors [Jorge R. Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes), [Percy Fernández](https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez) and [Jesus Zapata](https://www.pucp.edu.pe/profesor/jesus-zapata-samanez)
     
-* [Functional Analysis](https://drive.google.com/file/d/1DSzdSDx-IJXfnPs5kqGquuh4wy7iqpe-/view?usp=drive_link), 2024-1
+* [Functional Analysis](https://MarceloGallardoB.github.io/files/1MAT33-2024-1-SILABO.PDF), 2024-1
   * Problem sets
     *  [Problem set 1](https://drive.google.com/file/d/1qFp39QH2StwBK7QMRkQtZ0sLkOc7kXbW/view?usp=drive_link)   
   * Graded problem sets
