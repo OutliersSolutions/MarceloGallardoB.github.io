@@ -98,7 +98,7 @@ The following documents are not exempt from typos or other errors. In the case o
     *  [Kakutani fixed point theorem](https://drive.google.com/file/d/19FcFFm3e4nUrKWr7L-DeRg_rCyJmYEBY/view?usp=drive_link)
     *  [Observability of competitive equilibrium](https://drive.google.com/file/d/1vQclUt2RjPT0Rv8xneTGwaHmlQU5nLjL/view?usp=drive_link)
   * Visiting professor [Federico Echenique[(https://eml.berkeley.edu/~fechenique/index.html) (UC Berkeley)
-    * [Homework](https://drive.google.com/file/d/1gFH9te10ra_vK_qDu-59kHxhE_vnrdQz/view?usp=drive_link)
+    * [Homework](https://drive.google.com/file/d/1WT_JMAw12yf7rFHIu6oH_nrIEgHIq31t/view?usp=drive_link)
     * [Banner](https://MarceloGallardoB.github.io/files/echenique_iop224.pdf) of the event co-organized with professors [Jorge R. Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes), [Percy Fernández](https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez) and [Jesus Zapata](https://www.pucp.edu.pe/profesor/jesus-zapata-samanez)
     
 * [Functional Analysis](https://MarceloGallardoB.github.io/files/1MAT33-2024-1-SILABO.PDF), 2024-1
