@@ -55,7 +55,7 @@ Lecture notes
   <details> 
     <summary>
         Summary |
-        <a href=" https://MarceloGallardoB.github.io/files/lecture_notes_fundeco.pdf" role="button" target="_blank"> Lecture Notes </a> | 
+        <a href="https://MarceloGallardoB.github.io/files/lecture_notes_fundeco.pdf" role="button" target="_blank"> Lecture Notes </a> | 
     </summary> These lecture notes offer a deep dive into econometrics, structured around key themes from matrix algebra basics to sophisticated statistical models. The content begins with foundational matrix operations and their relevance to econometrics, advancing to static optimization, and exploring multivariate models with a focus on linear models and optimization issues. It also addresses qualitative variables, sampling methods, and experimental designs. Crucial econometric challenges such as multicollinearity, parameter stability, heteroscedasticity, and serial autocorrelation are thoroughly examined, alongside detection and correction techniques. The notes culminate in discussions on more advanced topics like maximum likelihood estimation and limited dependent variable, equipping readers with a broad understanding of econometric analysis and application.
   </details>
 
