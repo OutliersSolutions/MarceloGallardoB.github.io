@@ -22,18 +22,7 @@ Papers and working papers
     </summary> This study examines the impact of political uncertainty on key macroeconomic variables, including the USD to  PEN exchange rate, through a specialized index built from social media analysis. Tweets from prominent Peruvian figures (2018-2023) are analyzed and labeled by GPT-3.5 Turbo, determining their stance on Peru's political and economic situation. This process contributes to the creation of a political uncertainty time series. This series, indicative of Peru's economic climate, is integrated with a (chosen macroeconomic forecasting method) to enhance the prediction of macroeconomic trends, with a focus on currency exchange dynamics.
   </details>  
 
-//
- Innovation in Peruvian universities <br>
-  <u>Marcelo Gallardo</u> and [Juan León Jara](https://www.pucp.edu.pe/profesor/juan-leon-jara-almonte).<br>
-  Assistance from Nicolás Velarde. <br>
-  <details> 
-    <summary>
-        Abstract |
-        <a href="https://MarceloGallardoB.github.io/files/innovation_peruvian_universities_page_1.pdf" role="button" target="_blank"> Working paper </a> | 
-    </summary>
-   This paper proposes an innovation indicator for Peruvian universities, emphasizing scientific innovation in fields like engineering and pure sciences. The construction of this indicator is based on a selected dataset and employs confirmatory factor analysis for robust measurement. Additionally, K-means clustering is used to identify innovation clusters among universities. The validity of the indicator is examined through its correlation with university rankings and the exploration of the relationship between innovation levels and post-graduation income. This study provides a focused lens on scientific innovation in higher education, offering insights into academic and policy implications in Peru.
-  </details>
-//
+
 Books and working books
 ======
   
@@ -66,7 +55,7 @@ Lecture notes
   <details> 
     <summary>
         Summary |
-        <a href=" " role="button" target="_blank"> Lecture Notes </a> | 
+        <a href=" https://MarceloGallardoB.github.io/files/lecture_notes_fundeco.pdf" role="button" target="_blank"> Lecture Notes </a> | 
     </summary> These lecture notes offer a deep dive into econometrics, structured around key themes from matrix algebra basics to sophisticated statistical models. The content begins with foundational matrix operations and their relevance to econometrics, advancing to static optimization, and exploring multivariate models with a focus on linear models and optimization issues. It also addresses qualitative variables, sampling methods, and experimental designs. Crucial econometric challenges such as multicollinearity, parameter stability, heteroscedasticity, and serial autocorrelation are thoroughly examined, alongside detection and correction techniques. The notes culminate in discussions on more advanced topics like maximum likelihood estimation and limited dependent variable, equipping readers with a broad understanding of econometric analysis and application.
   </details>
 
