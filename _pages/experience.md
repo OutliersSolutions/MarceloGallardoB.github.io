@@ -22,10 +22,6 @@ Education
 * [École Polytechnique Fédérale de Lausanne Propédeutique Physique](https://www.epfl.ch/en/)
   * 2019-2020
 
-Main Courses and unofficial transcripts
-======
-
-Please refer to my [Academic Statement](https://MarceloGallardoB.github.io/files/academic_statement.pdf).
 
 Awards & Honors
 ======
