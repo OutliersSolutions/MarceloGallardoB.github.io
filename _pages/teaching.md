@@ -100,6 +100,9 @@ The following documents are not exempt from typos or other errors. In the case o
   * Visiting professor [Federico Echenique](https://eml.berkeley.edu/~fechenique/index.html) (UC Berkeley)
     * [Homework](https://drive.google.com/file/d/1WT_JMAw12yf7rFHIu6oH_nrIEgHIq31t/view?usp=drive_link)
     * [Banner](https://MarceloGallardoB.github.io/files/echenique_iop224.pdf) of the event co-organized with professors [Jorge R. Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes), [Percy Fernández](https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez) and [Jesus Zapata](https://www.pucp.edu.pe/profesor/jesus-zapata-samanez)
+    * [Partial Equilibrium](https://drive.google.com/file/d/1F8UaDEsdjOaNKGny9s5DszeY9ctaBVTN/view?usp=drive_link)
+    * [Two sided matching](https://drive.google.com/file/d/1ELkTVqpB0VC7J-iMpEwfo48o81CYSDQV/view?usp=drive_link)
+
     
 * [Functional Analysis](https://MarceloGallardoB.github.io/files/1MAT33-2024-1-SILABO.PDF), 2024-1
   * Problem sets
