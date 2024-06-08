@@ -19,8 +19,8 @@ Education
 * [QLab](https://qlab.pucp.edu.pe/)
   * Summer School 2022, 2023 and 2024 
 
-* [École Polytechnique Fédérale de Lausanne P](https://www.epfl.ch/en/)
-  * 2019-2020 (Cycle propédeutique Physique)
+* [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/)
+  * 2019-2020 (Cours du cycle propédeutique de physique)
 
 
 Awards & Honors
