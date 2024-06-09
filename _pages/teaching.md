@@ -119,5 +119,5 @@ The following documents are not exempt from typos or other errors. In the case o
 * [Microeconomics II](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-2/), 2024-2
   * Problem sets
     * [Recap: consumer and producer theory](https://drive.google.com/file/d/1QTBfMv7Vhy83xepc8ukgYjITb1nmDc8P/view?usp=drive_link)
-    * [General equilibrium theory](https://drive.google.com/file/d/1sEryfy8HRbXPS-Y4HuhuAepwCTilIHPe/view?usp=drive_link)
+    * [General equilibrium theory](https://drive.google.com/file/d/1hu_dkknlNg9An7DbJThGzzA3AB1LRWda/view?usp=drive_link)
     * [Choice under risk](https://drive.google.com/file/d/1QzHjI5hG4wx1eHM1jiCe6ey3FZ2PPvVK/view?usp=drive_link)
