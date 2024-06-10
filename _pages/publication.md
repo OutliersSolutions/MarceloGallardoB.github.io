@@ -65,9 +65,7 @@ Lecture notes
     <summary>
         Summary |
         <a href="https://MarceloGallardoB.github.io/files/brouwer_fixed_point_theorem.pdf" role="button" target="_blank"> Lecture Notes </a> | 
-    </summary> We develop a path towards the proof of Brouwer's Fixed Point Theorem, although based on several sources, of our construction. We also present an application in economic theory. Specifically, we focus on general equilibrium
-theory. We aim to provide the simplest possible proof, the only requirements are real analysis and general topology. Besides one Lemma which is not proved in its most general case, we provide proofs for all the results building up to the
-main theorem. The applications that we provide in general equilibrium, besides classical definitions, are by our constructions. It is important to mention that this work does not seek to be original or innovative in the sense that it does not present any new results in the literature. Our objective is simply to develop an understandable approach to Brouwer's Fixed Point Theorem and its application in general equilibrium.
+    </summary> We develop a path towards the proof of Brouwer's Fixed Point Theorem. We also present an application in economic theory: the existence of the Walrasian Equilibrium. We aim to provide the simplest possible proof for Brouwer's Fixed Point Theorem. The only requirements are real analysis and general topology. Besides one Lemma which is not proved in its most general case, we prove all the results building up to the main theorem. It is important to emphasize that this work does not seek to be original or innovative in the sense that it does not present any new results in the literature. Our objective is simply to develop an understandable approach to Brouwer's Fixed Point Theorem and its application in general equilibrium.
   </details>
 
 Talks
@@ -79,7 +77,7 @@ Talks
   <details> 
     <summary>
         Summary |
-        <a href="https://MarceloGallardoB.github.io/files/slides_escuela_invierno.pdf" role="button" target="_blank"> Slides </a> |   
+        <a href="https://MarceloGallardoB.github.io/files/slides_ot.pdf" role="button" target="_blank"> Slides </a> |   
     </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of PUCP. Based on Alfred Galichon's book, Optimal transport methods in economics, and his paper SISTA: learning optimal transport costs under sparsity constraints.   
   </details>
 
