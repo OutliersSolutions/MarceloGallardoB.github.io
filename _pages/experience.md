@@ -34,7 +34,7 @@ Awards & Honors
 Teaching Experience
 ======
 * Economics, PUCP
-  * 03/2022 to 07/2022, [Mathematics for Economists 3](https://marcelogallardob.github.io/mateco3/). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
+  * 03/2022 to 07/2022, [Mathematics for Economists 3](https://marcelogallardob.github.io/teaching/). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
   * 08/2022 to 12/2022, [Mathematics for Economists 4](https://marcelogallardob.github.io/teaching/). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
   * 08/2024 to 12/2024, [Microeconomics 2](https://marcelogallardob.github.io/teaching/). With PhD [Pavel Coronado](https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos).
 
