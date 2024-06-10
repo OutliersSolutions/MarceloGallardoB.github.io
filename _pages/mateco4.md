@@ -14,7 +14,7 @@
     * [Complementary slides for problem set 5](https://drive.google.com/file/d/1MJtQqaVEx09PMXPgFr_IIl2lNFLwxhzE/view?usp=drive_link)
     * [Problem set 6](https://drive.google.com/file/d/1Rur0jO8Ci55k8wG1N3zzq8y8LD2Vi3F8/view?usp=drive_link)
     * [Problem set 7](https://drive.google.com/file/d/1seBcheq4cAYzxZBwSFa4EIu0O7eot5R_/view?usp=drive_link)
-  * Graded problem sets and exams
+* Graded problem sets and exams
     * [Graded problem set 1](https://drive.google.com/file/d/1Q-Y78baZjurUrOD0OcmughOyr4J2PiNE/view?usp=drive_link)
     * [Solutions graded problem set 1](https://drive.google.com/file/d/1HaWyYUHpGkR9H8nrDNzVPcx1BQDNr0nL/view?usp=drive_link)
     * [Graded problem set 2](https://drive.google.com/file/d/1czuvjEYDy3Z-Mp4FYN_R_gOKECsxIA8S/view?usp=drive_link)
@@ -28,7 +28,7 @@
     * [Solutions homework](https://drive.google.com/file/d/1xGBJWioO7S0GdIau9HI4E5tqdkdzc_XK/view?usp=drive_link)
     * [Solutions mideterm](https://drive.google.com/file/d/1bqeUG5EFT8T8gNoLYwBNE9c3Pqi8yx1J/view?usp=drive_link)
     * [Solutions final exam](https://drive.google.com/file/d/1SAgxtMtILDzOvqnPiDNjD0YTGmQzDSxU/view?usp=drive_link)
-  * Supplementary material on Dynamic Programming and Discrete Time Optimal Control
+* Supplementary material on Dynamic Programming and Discrete Time Optimal Control
     * [Discrete Time Optimal Control - Slides](https://drive.google.com/file/d/1gvu_acKkxKSj2NshpvMIbzxbJMlc8YFM/view?usp=drive_link)
     * [Infinite horizon - Slides](https://drive.google.com/file/d/1eWWszCh086wLjFLGTVGXlAHNGKvd6thM/view?usp=drive_link)
     * [Fundamentals of Dynamic Programming - Lecture Notes](https://drive.google.com/file/d/1wMEsDJjIKDGOk75LnUL8ZK23lt61EA-Z/view?usp=drive_link)
