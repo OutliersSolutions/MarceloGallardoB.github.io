@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 
-* B.s in Mathematics, [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/carrera/matematicas/)
+* Grade (B.s) in Mathematics, [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/carrera/matematicas/)
   * 03/2020 - 2025 (E)
 
 * [QLab](https://qlab.pucp.edu.pe/)
@@ -27,7 +27,7 @@ Awards & Honors
 ======
 
 * 2018 Mention d’excellence au Baccalauréat Scientifique, Colegio Franco Peruano, Lima PE. [Diplôme](https://MarceloGallardoB.github.io/files/notes_bac.pdf).
-* 2019 [Admission](https://MarceloGallardoB.github.io/files/admission_l_X.pdf) to l’X Bachelor Program, Paris, France.
+* 2019 [Admission](https://MarceloGallardoB.github.io/files/admission_l_X.pdf) to l’X Bachelor Program, Paris, Fr.
 * 2020 Contest initiation to scientific research, Winner in the individual class, PUCP Lima, PE.  <a href="https://facultad.pucp.edu.pe/generales-ciencias/evento/ganadores-del-concurso-proyecto-iniciacion-la-investigacion-2020/" role="button" target="_blank"> Link </a>
 * 2021 Contest initiation to scientific research, Winner in the individual class, PUCP Lima, PE. <a href="https://facultad.pucp.edu.pe/generales-ciencias/nota-de-prensa/ganadores-ee-gg-cc-2021/" role="button" target="_blank"> Link </a>
 
