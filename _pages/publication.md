@@ -50,7 +50,7 @@ Books and working books
 Lecture notes
 ======
 
-* Introduction to econometrics <br>
+* Econometric Theory I <br>
   <u>Marcelo Gallardo</u> and Juan Leon. <br>
   <details> 
     <summary>
