@@ -23,7 +23,7 @@ Papers and working papers
   </details>  
 
 
-* Harnessing Twitter and GPT for a Novel Political Uncertainty Index for Peru: Implications for USD/PEN Exchange Rate Fluctuations <br>
+* Innovation and overeducation in Peruvian universities <br>
   [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), <u> Marcelo Gallardo </u> and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/). <br>
   <details> 
     <summary>
