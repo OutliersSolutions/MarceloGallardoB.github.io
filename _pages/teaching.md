@@ -94,7 +94,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Midterm](https://drive.google.com/file/d/12B95ogcrORhZgoF7Vn6eHfzZokMZJHOY/view?usp=drive_link)
     * [Solutions midterm](https://drive.google.com/file/d/1z8qohc-wn-iK0wgz0_V7npAG0clMVB4U/view?usp=drive_link)
   * Additional material
-    *  [About Brouwer Fixed Point Theorem - Topological perspective](https://drive.google.com/file/d/165SZt3Y_2LJmdgeS3chU_tk3ZZ-AmByg/view?usp=drive_link)
+    *  [About Brouwer Fixed Point Theorem - Topological perspective](https://MarceloGallardoB.github.io/files/brouwer_fixed_point_theorem.pdf)
     *  [Kakutani fixed point theorem](https://drive.google.com/file/d/19FcFFm3e4nUrKWr7L-DeRg_rCyJmYEBY/view?usp=drive_link)
     *  [Observability of competitive equilibrium](https://drive.google.com/file/d/1vQclUt2RjPT0Rv8xneTGwaHmlQU5nLjL/view?usp=drive_link)
   * Visiting professor [Federico Echenique](https://eml.berkeley.edu/~fechenique/index.html) (UC Berkeley)
@@ -103,7 +103,6 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Partial Equilibrium](https://drive.google.com/file/d/1F8UaDEsdjOaNKGny9s5DszeY9ctaBVTN/view?usp=drive_link)
     * [Two sided matching](https://drive.google.com/file/d/1ELkTVqpB0VC7J-iMpEwfo48o81CYSDQV/view?usp=drive_link)
 
-    
 * [Functional Analysis](https://MarceloGallardoB.github.io/files/1MAT33-2024-1-SILABO.PDF), 2024-1
   * Problem sets
     *  [Problem set 1](https://drive.google.com/file/d/1qFp39QH2StwBK7QMRkQtZ0sLkOc7kXbW/view?usp=drive_link)
