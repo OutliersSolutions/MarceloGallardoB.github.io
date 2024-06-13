@@ -61,7 +61,7 @@ Lecture notes
 ======
 
 * Econometric Theory I <br>
-  <u>Marcelo Gallardo</u> and Juan Leon. <br>
+  <u>Marcelo Gallardo</u> and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/). <br>
   <details> 
     <summary>
         Summary |
