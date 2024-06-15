@@ -12,6 +12,13 @@ redirect_from:
 Publications
 ======
 
+Papers and working papers
+======
+
+Coming soon!
+
+======
+
 <!-- * Harnessing Twitter and GPT for a Novel Political Uncertainty Index for Peru: Implications for USD/PEN Exchange Rate Fluctuations <br>
   [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), <u> Marcelo Gallardo </u> and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/). <br>
   <details> 
