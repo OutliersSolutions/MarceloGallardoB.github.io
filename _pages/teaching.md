@@ -122,8 +122,7 @@ The following documents are not exempt from typos or other errors. In the case o
       <u>Marcelo Gallardo</u>, Carlos Cosentino and Eduardo Llamoca . <br>
       <details> 
       <summary>
-        Summary |
-        <a href="https://MarceloGallardoB.github.io/files/brouwer_fixed_point_theorem.pdf" role="button" target="_blank"> Lecture Notes </a> | 
+        Summary |<a href="https://MarceloGallardoB.github.io/files/brouwer_fixed_point_theorem.pdf" role="button" target="_blank"> Lecture Notes </a> | 
     </summary> We develop a path towards the proof of Brouwer's Fixed Point Theorem. We also present an application in economic theory: the existence of the Walrasian Equilibrium. We aim to provide the simplest. or at least one of the simplest, proof for Brouwer's Fixed Point Theorem. The only requirements are real analysis and general topology. Besides one Lemma which is not proved in its most general case, we prove all the results building up to the main theorem. It is important to emphasize that this work does not seek to be original or innovative, we do not introduce any new results in the literature. Our goal is to develop a clear and understandable approach to Brouwer's Fixed Point Theorem and its applications in general equilibrium.
   </details>
   
