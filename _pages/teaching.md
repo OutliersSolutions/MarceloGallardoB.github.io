@@ -122,3 +122,4 @@ The following documents are not exempt from typos or other errors. In the case o
       <u>Marcelo Gallardo</u>, Carlos Cosentino and Eduardo Llamoca <br>
 
   
+* [Financial Microeconomics](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-financiera/), 2024-2
