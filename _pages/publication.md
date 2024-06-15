@@ -59,9 +59,6 @@ Books and working books
   Working book about Dynamical Systems and Optimal Control in Continuous Time for Economists. Ordinary scalar differential equations, linear systems, nonlinear systems, calculus of variations, and optimal control theory. Applications to economic growth models such as Solow, Ramsey‑Cass‑Koopsman, and Endogenous Growth models.
   </details>
 
-Lecture notes
-======
-
 * Econometric Theory I <br>
   <u>Marcelo Gallardo</u> and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/). <br>
   <details> 
@@ -71,14 +68,6 @@ Lecture notes
     </summary> These lecture notes offer a deep dive into econometrics, structured around key themes from matrix algebra basics to sophisticated statistical models. The content begins with foundational matrix operations and their relevance to econometrics, advancing to static optimization, and exploring multivariate models with a focus on linear models and optimization issues. It also addresses qualitative variables, sampling methods, and experimental designs. Crucial econometric challenges such as multicollinearity, parameter stability, heteroscedasticity, and serial autocorrelation are thoroughly examined, alongside detection and correction techniques. The notes culminate in discussions on more advanced topics like maximum likelihood estimation and limited dependent variable, equipping readers with a broad understanding of econometric analysis and application.
   </details>
 
-* Brouwer fixed point theorem and applications in general equilibrium <br>
-  <u>Marcelo Gallardo</u>, Carlos Cosentino and Eduardo Llamoca . <br>
-  <details> 
-    <summary>
-        Summary |
-        <a href="https://MarceloGallardoB.github.io/files/brouwer_fixed_point_theorem.pdf" role="button" target="_blank"> Lecture Notes </a> | 
-    </summary> We develop a path towards the proof of Brouwer's Fixed Point Theorem. We also present an application in economic theory: the existence of the Walrasian Equilibrium. We aim to provide the simplest. or at least one of the simplest, proof for Brouwer's Fixed Point Theorem. The only requirements are real analysis and general topology. Besides one Lemma which is not proved in its most general case, we prove all the results building up to the main theorem. It is important to emphasize that this work does not seek to be original or innovative, we do not introduce any new results in the literature. Our goal is to develop a clear and understandable approach to Brouwer's Fixed Point Theorem and its applications in general equilibrium.
-  </details>
 
 Talks
 ======
