@@ -114,6 +114,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Solutions graded problem set 1](https://drive.google.com/file/d/1SIkuLkN8mLWCvDylBfqG9HrpBFLGkaZ1/view?usp=drive_link)
     * [Graded problem set 2](https://drive.google.com/file/d/1IaCPqZospguZ--IaeI0YWQc3iv1g_33J/view?usp=drive_link)
     * [Solutions graded problem set 2](https://drive.google.com/file/d/1r3FUKWLHgBDfKvaFCPJf2XhyUECHFBfd/view?usp=drive_link)
+    * [Graded problem set 3](https://drive.google.com/file/d/1gPr38Jzx6aU9aRwDGH3s8-nvzL6u5d5x/view?usp=drive_link)
 
 * [Microeconomics II](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-2/), 2024-2
   * Problem sets
