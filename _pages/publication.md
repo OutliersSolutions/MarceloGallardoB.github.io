@@ -104,7 +104,7 @@ Others
   </details>
  -->
 * Dynamical systems for Economic Analysis <br>
- [Jorge Chávez]([https://www.pucp.edu.pe/profesor/waldo-mendoza-bellido](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes))  <br>
+ [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes))  <br>
   <details> 
     <summary>
         Summary |
