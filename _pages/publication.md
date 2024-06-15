@@ -59,7 +59,7 @@ Books and working books
   Working book about Dynamical Systems and Optimal Control in Continuous Time for Economists. Ordinary scalar differential equations, linear systems, nonlinear systems, calculus of variations, and optimal control theory. Applications to economic growth models such as Solow, Ramsey‑Cass‑Koopsman, and Endogenous Growth models.
   </details>
 
-* Econometric Theory I <br>
+* Fundamentals of Econometric Theory <br>
   <u>Marcelo Gallardo</u> and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/). <br>
   <details> 
     <summary>
