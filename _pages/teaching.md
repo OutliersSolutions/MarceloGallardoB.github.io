@@ -20,7 +20,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Consumer and producer theory](https://drive.google.com/file/d/19BBCR1oAnTGX6faNnpRycck-UsR4OF9U/view?usp=drive_link) 
   * Lecture notes
     * [Lecture notes in general equilibrium](https://drive.google.com/file/d/1QCaLy3ckmjQ6VhQpifYA9UER_f-a6XU7/view?usp=drive_link)   
-    * [Lecture notes in uncertainty](https://drive.google.com/file/d/1FxSD1IzqQwQIR__g90879B5MmAcqfmcg/view?usp=drive_link)
+    * [Lecture notes in uncertainty](https://drive.google.com/file/d/1_0osqOWALLqVP3bfTBpaIR1WM9PoCSTW/view?usp=sharing)
     * [Brouwer fixed point theorem and applications in general equilibrium](https://MarceloGallardoB.github.io/files/brouwer_fixed_point_theorem.pdf) <br>
       with Carlos Cosentino and Eduardo Llamoca <br>
 
