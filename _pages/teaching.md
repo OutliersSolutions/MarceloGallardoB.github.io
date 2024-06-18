@@ -32,8 +32,8 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Problem set 1](https://drive.google.com/file/d/18P5ovBJTmgzdq1eBq9uO0TcLOo9BuL6D/view?usp=drive_link)
     * [Problem set 2](https://drive.google.com/file/d/10OYPG9S1BLJb4vu5oCpMRakvEQR54Dk1/view?usp=drive_link)
     * [Problem set 3](https://drive.google.com/file/d/1Xe7xy6LZ7EJsF_V4Ws2i4tVhSxfxYXjQ/view?usp=drive_link)
-    * [Problem set 4]((https://drive.google.com/file/d/19BBCR1oAnTGX6faNnpRycck-UsR4OF9U/view?usp=drive_link) )
-    * [Midterm preparation](https://drive.google.com/file/d/1sQ1qs8cSM6ft0EIN1aVkBgdN--k3BDbX/view?usp=drive_link)
+    * [Problem set 4](https://drive.google.com/file/d/1QTBfMv7Vhy83xepc8ukgYjITb1nmDc8P/view?usp=drive_link)
+    * [Midterm preparation](https://drive.google.com/file/d/1puVZy3ps7dWIWpKAI4fER1yGppknoYVv/view?usp=drive_link)
   * Graded problem sets and exams
     * [Graded problem set 1](https://drive.google.com/file/d/1O2HdGYSiVLZJ-nlPn80aEWf93OW5SRfH/view?usp=drive_link)
     * [Solutions graded problem set 1](https://drive.google.com/file/d/1Txl88K13qRswzS3AQP73bZNuKHam4wT5/view?usp=drive_link)
