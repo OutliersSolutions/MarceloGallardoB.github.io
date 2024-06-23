@@ -41,6 +41,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Solutions graded problem set 2](https://drive.google.com/file/d/1bJJYf6K8Iq5O6seG6a-XNnK90lTSCvPf/view?usp=drive_link)
     * [Graded problem set 3](https://drive.google.com/file/d/1kIfVTzzclatBm6MVpbriPp3oD-hR_9l4/view?usp=drive_link)
     * [Solutions graded problem set 3](https://drive.google.com/file/d/1Uh5dlRALRIKab2h8LNPaW7rIFiejfQrM/view?usp=drive_link)
+    *  [Graded problem set 4](https://drive.google.com/file/d/1MOZLeNl7kU1FpAPWbQUHBkPsYgSASFfG/view?usp=drive_link)
     * [Midterm](https://drive.google.com/file/d/12B95ogcrORhZgoF7Vn6eHfzZokMZJHOY/view?usp=drive_link)
     * [Solutions midterm](https://drive.google.com/file/d/1z8qohc-wn-iK0wgz0_V7npAG0clMVB4U/view?usp=drive_link)
   * Additional material
