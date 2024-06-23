@@ -17,9 +17,9 @@ The following documents are not exempt from typos or other errors. In the case o
 
 * [Microeconomics II](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-2/), 2024-2
   * Problem sets
-    * [Consumer and producer theory](https://drive.google.com/file/d/19BBCR1oAnTGX6faNnpRycck-UsR4OF9U/view?usp=drive_link) 
+    * [Consumer and producer theory](https://drive.google.com/file/d/11LReMxRmdapSfcQloVNEvfASgSvVE1Yg/view?usp=drive_link) 
   * Lecture notes
-    * [Lecture notes in general equilibrium](https://drive.google.com/file/d/1QCaLy3ckmjQ6VhQpifYA9UER_f-a6XU7/view?usp=drive_link)   
+    * [Lecture notes in general equilibrium](https://drive.google.com/file/d/1xoDKNHP2JiQERhsoIq5UxKV0F3saMCR5/view?usp=drive_link)   
     * [Lecture notes in uncertainty](https://drive.google.com/file/d/1_0osqOWALLqVP3bfTBpaIR1WM9PoCSTW/view?usp=sharing)
     * [Brouwer fixed point theorem and applications in general equilibrium](https://MarceloGallardoB.github.io/files/brouwer_fixed_point_theorem.pdf) <br>
       with Carlos Cosentino and Eduardo Llamoca <br>
