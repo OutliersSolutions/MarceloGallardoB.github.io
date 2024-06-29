@@ -67,6 +67,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Graded problem set 2](https://drive.google.com/file/d/1IaCPqZospguZ--IaeI0YWQc3iv1g_33J/view?usp=drive_link)
     * [Solutions graded problem set 2](https://drive.google.com/file/d/1r3FUKWLHgBDfKvaFCPJf2XhyUECHFBfd/view?usp=drive_link)
     * [Graded problem set 3](https://drive.google.com/file/d/1gPr38Jzx6aU9aRwDGH3s8-nvzL6u5d5x/view?usp=drive_link)
+    * [Solutions graded problem set 3](https://drive.google.com/file/d/1O-d1l4ey8gz1txgtKSxRqyLFzUzj1U3K/view?usp=drive_link)
     * [Graded problem set 4](https://drive.google.com/file/d/1bfhlnU5uH1fc9z0Hpik9m5kfJD0Obo7X/view?usp=sharing)
     * [Solutions graded problem set 4](https://drive.google.com/file/d/1IepZpVBs_qAiUNlAF-vd-zNmxuxu1xdQ/view?usp=drive_link)
 * [Mathematics for Economists 4](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/matematicas-para-economistas/), 2022-2
