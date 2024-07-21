@@ -12,6 +12,16 @@ redirect_from:
 Papers and working papers
 ======
 
+* Rethinking Optimal Transport in Discrete Settings <br>
+ Marcelo Gallardo,  <u> [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes). <br>
+  <details> 
+    <summary>
+        Abstract |
+        <a href="" role="button" target="_blank"> Working paper </a> | 
+    </summary> This paper presents two models inspired by optimal transport, integrating a congestion factor into their cost structures. The first model modifies the classic transport problem by including congestion, and the second model introduces weighting and penalization terms instead of typical constraints. We provide theoretical insights and simulations, focusing on the application to student-university matching. Our findings highlight the potential of these models for future research in preference estimation in matching markets.
+  </details>  
+
+
 * Harnessing Twitter and GPT for a Novel Political Uncertainty Index for Peru: Implications for USD/PEN Exchange Rate Fluctuations <br>
   [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), <u> Marcelo Gallardo </u> and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/). <br>
   <details> 
@@ -42,7 +52,7 @@ Books and working books
         Summary |
         <a href="https://MarceloGallardoB.github.io/files/Index ALOECO.pdf" role="button" target="_blank"> Pre published book </a> | 
     </summary>
-  Pre-published  about Linear Algebra and Static Optimization for Economists. Linear algebra, topology in normed vector spaces, convex analysis, unconstrained static optimization, constrained static optimization, smooth comparative statics, preferences, consumer theory, pure exchange economies, and other applications to economics.
+  Pre-published  about Linear Algebra and Static Optimization for Economists. Linear algebra, topology in normed vector spaces, convex analysis, unconstrained static optimization, constrained static optimization, smooth comparative statics, preferences, consumer theory, pure exchange economies, and other economic applications.
   </details>
 
 
