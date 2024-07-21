@@ -13,7 +13,7 @@ Papers and working papers
 ======
 
 * Rethinking Optimal Transport in Discrete Settings <br>
- Marcelo Gallardo,  <u> [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) , and [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez). <br>
+ Marcelo Gallardo,  <u> [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes), and [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez). <br>
   <details> 
     <summary>
         Abstract |
