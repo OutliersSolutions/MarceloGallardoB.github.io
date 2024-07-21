@@ -13,7 +13,7 @@ Papers and working papers
 ======
 
 * Rethinking Optimal Transport in Discrete Settings <br>
- Marcelo Gallardo,  <u> [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes), and [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez). <br>
+ Marcelo Gallardo,   [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez). <br>
   <details> 
     <summary>
         Abstract |
@@ -23,7 +23,7 @@ Papers and working papers
 
 
 * Harnessing Twitter and GPT for a Novel Political Uncertainty Index for Peru: Implications for USD/PEN Exchange Rate Fluctuations <br>
-  [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), <u> Marcelo Gallardo </u> and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/). <br>
+[Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), <u> Marcelo Gallardo </u> and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/). <br>
   <details> 
     <summary>
         Abstract |
