@@ -38,6 +38,7 @@ Teaching Experience
   * 03/2022 to 07/2022, [Mathematics for Economists 3](https://marcelogallardob.github.io/teaching/). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
   * 08/2022 to 12/2022, [Mathematics for Economists 4](https://marcelogallardob.github.io/teaching/). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
   * 08/2024 to 12/2024, [Microeconomics 2](https://marcelogallardob.github.io/teaching/). With PhD [Pavel Coronado](https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos).
+  * 08/2024 to 12/2024, [Financial Microeconomics](https://marcelogallardob.github.io/teaching/). With PhD (a.b.d.) [José Gallardo](https://es.wikipedia.org/wiki/Jos%C3%A9_Gallardo_Ku).
 
 * Mathematics, PUCP
   * 03/2024-07/2024, [Optimization I](https://marcelogallardob.github.io/teaching/). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
@@ -52,12 +53,12 @@ Research Assistant
   * Quarter time
     
 * [PUCP](https://www.pucp.edu.pe/carrera/matematicas/)
-  * Working with Ph.D [Jorge Richard Chavez Fuentes](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes)
+  * Working with PhD [Jorge Richard Chavez Fuentes](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes)
   * 2022-now.
   * Part-time
     
 * [GRADE](https://www.grade.org.pe/en/) 
-  * Working with Ph.D [Juan León Jara-Almonte](https://www.grade.org.pe/investigadores/personal/jleon/)
+  * Working with PhD [Juan León Jara-Almonte](https://www.grade.org.pe/investigadores/personal/jleon/)
   * 2022-now
   * Quarter time
 
