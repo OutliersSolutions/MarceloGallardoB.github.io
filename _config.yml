@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "Peru"
-title                    : "Marcelo Gallardo"
+title                    : "Marcelo Gallardo Burga"
 title_separator          : "-"
-name                     : &name "Marcelo Gallardo"
+name                     : &name "Marcelo Gallardo Burga"
 description              : &description "Mathematics & Economics PUCP"
 url                      : https://MarceloGallardoB.github.io
 baseurl                  : ""
