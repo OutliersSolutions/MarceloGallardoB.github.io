@@ -56,7 +56,7 @@ Books and working books
   </details>
 
 
-* Optimal Control Theory and Dynamics for Economic Analysis in Continuous Time <br>
+* Optimal Control and Dynamical Systems for Economic Analysis in Continuous Time <br>
  [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u>Marcelo Gallardo</u>. <br>
   <details> 
     <summary>
