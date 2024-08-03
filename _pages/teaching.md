@@ -19,7 +19,7 @@ The following documents are not exempt from typos or other errors. In the case o
   * Problem sets
     * [Consumer and producer theory](https://drive.google.com/file/d/11LReMxRmdapSfcQloVNEvfASgSvVE1Yg/view?usp=drive_link) 
   * Lecture notes
-    * [Lecture notes in general equilibrium](https://drive.google.com/file/d/1xoDKNHP2JiQERhsoIq5UxKV0F3saMCR5/view?usp=drive_link)   
+    * [Lecture notes in general equilibrium](https://drive.google.com/file/d/1EWml_POo95nccyJEtleLCLJMu5w_hXVE/view?usp=drive_link)   
     * [Lecture notes in uncertainty](https://drive.google.com/file/d/1_0osqOWALLqVP3bfTBpaIR1WM9PoCSTW/view?usp=sharing)
     * [Brouwer fixed point theorem and applications in general equilibrium](https://MarceloGallardoB.github.io/files/brouwer_fixed_point_theorem.pdf) <br>
       with Carlos Cosentino and Eduardo Llamoca <br>
