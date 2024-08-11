@@ -17,7 +17,7 @@ Papers and working papers
   <details> 
     <summary>
         Abstract |
-        <a href="" role="button" target="_blank"> Working paper </a> | 
+        <a href="" role="button" target="_blank"> Draft coming soon </a> | 
     </summary> This paper presents two new models inspired by optimal transport, integrating a congestion factor into their cost structures. The first model modifies the classic transport problem by including congestion, and the second one introduces weighting and penalization terms instead of typical constraints. We provide theoretical insights and simulations, focusing on the application to student-university matching. Our findings highlight the potential of these models for future research in preference estimation in matching markets.
   </details>  
 
