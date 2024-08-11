@@ -28,7 +28,7 @@ Papers and working papers
     <summary>
         Abstract |
         <a href="https://MarceloGallardoB.github.io/files/twitter_political_indicator_page_1.pdf" role="button" target="_blank"> Working paper </a> | 
-    </summary> This study examines the impact of political uncertainty on key macroeconomic variables, including the USD to  PEN exchange rate, through a specialized index built from social media analysis. Tweets from prominent Peruvian figures (2018-2023) are analyzed and labeled by GPT-3.5 Turbo, determining their stance on Peru's political and economic situation. This process contributes to the creation of a political uncertainty time series. This series, indicative of Peru's economic climate, is integrated with a (chosen macroeconomic forecasting method) to enhance the prediction of macroeconomic trends, with a focus on currency exchange dynamics.
+    </summary> This study examines the impact of political uncertainty on key macroeconomic variables, including the USD to  PEN exchange rate, through a specialized index built from social media analysis. Tweets from prominent Peruvian figures (2018-2023) are analyzed and labeled by GPT-3.5 Turbo, determining their stance on Peru's political and economic situation. This process contributes to the creation of a political uncertainty time series. This series, indicative of Peru's economic climate, is integrated with a (chosen macroeconomic forecasting method to be determined) to enhance the prediction of macroeconomic trends, with a focus on currency exchange dynamics.
   </details>  
 
 
@@ -71,7 +71,7 @@ Books and working books
   <details> 
     <summary>
         Summary |
-        <a href="https://MarceloGallardoB.github.io/files/lecture_notes_econometrics.pdf" role="button" target="_blank"> Lecture Notes </a> | 
+        <a href="https://MarceloGallardoB.github.io/files/lecture_notes_teoria_econometrica.pdf" role="button" target="_blank"> Lecture Notes </a> | 
     </summary> These lecture notes offer a deep dive into econometrics, structured around key themes from matrix algebra basics to statistical models. The content begins with foundational matrix operations and their relevance to econometrics, advancing to static optimization, and exploring multivariate models with a focus on linear models and optimization issues. It also addresses qualitative variables, sampling methods, and experimental designs. Crucial econometric challenges such as multicollinearity, parameter stability, heteroscedasticity, and serial autocorrelation are thoroughly examined, alongside detection and correction techniques. The notes culminate in discussions on more advanced topics like instrumental variables, maximum likelihood estimation, and an appendix on probability theory, equipping readers with a broad understanding of econometric analysis and application.
   </details>
 
