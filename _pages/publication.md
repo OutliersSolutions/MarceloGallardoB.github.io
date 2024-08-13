@@ -12,7 +12,7 @@ redirect_from:
 Papers and working papers
 ======
 
-* Congestion and Penalization in discrete matching <br>
+* Congestion and Penalization in Discrete Matching <br>
  Marcelo Gallardo,   [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez). <br>
   <details> 
     <summary>
