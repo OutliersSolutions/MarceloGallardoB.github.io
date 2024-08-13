@@ -12,7 +12,7 @@ redirect_from:
 Papers and working papers
 ======
 
-* Novel Approaches to Discrete Matching: Integrating Congestion and Penalization <br>
+* Congestion and Penalization in discrete matching <br>
  Marcelo Gallardo,   [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez). <br>
   <details> 
     <summary>
