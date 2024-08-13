@@ -104,7 +104,8 @@ Others
  -->
 
 * Notes on Optimal Transport Theory and Its Applications in Economics and Finance: Entropic Regularization Problems and Computational Methods <br>
- and supervised by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez)  <br>
+
+ With Carlos Cosentino and supervised by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez)  <br>
   <details> 
     <summary>
         Summary |
