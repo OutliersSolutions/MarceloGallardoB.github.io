@@ -12,13 +12,13 @@ redirect_from:
 Papers and working papers
 ======
 
-* Rethinking Optimal Transport in Discrete Settings <br>
+* Novel Approaches to Discrete Matching: Integrating Congestion and Penalization <br>
  Marcelo Gallardo,   [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez). <br>
   <details> 
     <summary>
         Abstract |
         <a href="" role="button" target="_blank"> Draft coming soon </a> | 
-    </summary> This paper presents two new models inspired by optimal transport, integrating a congestion factor into their cost structures. The first model modifies the classic transport problem by including congestion, and the second one introduces weighting and penalization terms instead of typical constraints. We provide theoretical insights and simulations, focusing on the application to student-university matching. Our findings highlight the potential of these models for future research in preference estimation in matching markets.
+    </summary> This paper presents two models inspired by optimal transport, integrating a congestion factor into their cost structures. The first model modifies the classic transport problem by including congestion, and the second model introduces weighting and penalization terms instead of typical constraints. We provide theoretical insights and simulations, including the analysis of interior or corner solutions, and comparative statics. Our findings highlight the potential of these models for future research in preference or cost estimation in matching markets.
   </details>  
 
 
