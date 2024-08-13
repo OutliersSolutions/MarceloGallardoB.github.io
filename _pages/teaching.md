@@ -109,7 +109,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Solutions graded problem set 4](https://drive.google.com/file/d/1LSilB3M5kdmedhEfsRGtx3Rt1F9_XfXo/view?usp=drive_link)
     * [Homework](https://drive.google.com/file/d/1rhFVvYJI5bcPwvvXgn5Yyjp4XjBcm2ZS/view?usp=drive_link)
     * [Solutions homework](https://drive.google.com/file/d/1xGBJWioO7S0GdIau9HI4E5tqdkdzc_XK/view?usp=drive_link)
-    * [Solutions mideterm](https://drive.google.com/file/d/1bqeUG5EFT8T8gNoLYwBNE9c3Pqi8yx1J/view?usp=drive_link)
+    * [Solutions midterm](https://drive.google.com/file/d/1bqeUG5EFT8T8gNoLYwBNE9c3Pqi8yx1J/view?usp=drive_link)
     * [Solutions final exam](https://drive.google.com/file/d/1SAgxtMtILDzOvqnPiDNjD0YTGmQzDSxU/view?usp=drive_link)
   * Supplementary material on Dynamic Programming and Discrete Time Optimal Control
     * [Discrete Time Optimal Control - Slides](https://drive.google.com/file/d/1gvu_acKkxKSj2NshpvMIbzxbJMlc8YFM/view?usp=drive_link)
