@@ -118,6 +118,6 @@ Others
   <details> 
     <summary>
         Summary |
-        <a href="https://repositorio.pucp.edu.pe/index/handle/123456789/187345" role="button" target="_blank"> Book </a> | 
-    </summary> Assistance with problem sets, LaTeX and some proofs.
+        <a href="https://repositorio.pucp.edu.pe/index/handle/123456789/187345" role="button" target="_blank"> Book </a> 
+  </summary> Assistance with problem sets, LaTeX and some proofs.
   </details>
