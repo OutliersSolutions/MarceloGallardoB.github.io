@@ -92,9 +92,10 @@ Others
 
 * Notes on Optimal Transport Theory and its Applications in Economics and Finance: The Problems of Entropic Regularization and Computational Methods <br>
 Marcelo Gallardo and Carlos Cosentino. supervised by <a href="https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez" target="_blank">Johel Beltrán</a> <br>
-<details>
-    <summary> Summary | <a href="https://MarceloGallardoB.github.io/files/trabajo_ot_2023.pdf" role="button" target="_blank"> Lecture notes </a> | </summary>
-    <p>This document discusses applications of optimal transport theory in economics and finance, with a focus on computational methods like entropic regularization and the Sinkhorn-Knopp algorithm. It covers topics such as matching markets, cost structure estimation, Credit Value Adjustment, and risk measures, aiming to provide detailed explanations and translations of complex results for students with a strong mathematical background. The document includes an appendix to support understanding and is intended for advanced students interested in economic and financial applications of optimal transport.</p>
+
+<details style="display: inline-block; vertical-align: top;">
+    <summary>Summary | <a href="https://MarceloGallardoB.github.io/files/trabajo_ot_2023.pdf" role="button" target="_blank">Lecture notes</a> |</summary>
+    <p style="margin: 0;">This document discusses applications of optimal transport theory in economics and finance, with a focus on computational methods like entropic regularization and the Sinkhorn-Knopp algorithm. It covers topics such as matching markets, cost structure estimation, Credit Value Adjustment, and risk measures, aiming to provide detailed explanations and translations of complex results for students with a strong mathematical background. The document includes an appendix to support understanding and is intended for advanced students interested in economic and financial applications of optimal transport.</p>
 </details>
 
 
