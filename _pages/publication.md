@@ -98,10 +98,10 @@ Talks
 
 * Optimal Transport and some other mathematical models with applications in Economics <br>
  <u>Marcelo Gallardo</u> <br>
- [Certification](https://MarceloGallardoB.github.io/files/adeem.pdf). 
-  <details> 
-    <summary>
-        Summary |
-        <a href="https://MarceloGallardoB.github.io/files/slides_ot.pdf" role="button" target="_blank"> Slides </a> |   
-    </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of PUCP. Based on Alfred Galichon's book, Optimal transport methods in economics, and his co-autohored paper SISTA: learning optimal transport costs under sparsity constraints.   
-  </details>
+ [Certification](https://MarceloGallardoB.github.io/files/adeem.pdf).<br>
+    <details> 
+      <summary>
+          Summary |
+          <a href="https://MarceloGallardoB.github.io/files/slides_ot.pdf" role="button" target="_blank"> Slides </a> |   
+      </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of PUCP. Based on Alfred Galichon's book, Optimal transport methods in economics, and his co-autohored paper SISTA: learning optimal transport costs under sparsity constraints.   
+    </details>
