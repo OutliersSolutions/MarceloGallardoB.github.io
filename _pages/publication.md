@@ -91,7 +91,7 @@ Others
 ======
 
 * Notes on Optimal Transport Theory and its Applications in Economics and Finance: The Problems of Entropic Regularization and Computational Methods. <br>
-<u> Marcelo Gallardo</u> and Carlos Cosentino. supervised by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez) <br>
+<u> Marcelo Gallardo</u> and Carlos Cosentino. Supervised by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez) <br>
   <details> 
       <summary> Summary | 
         <a href="https://MarceloGallardoB.github.io/files/trabajo_ot_2023.pdf" role="button" target="_blank"> Lecture notes   </a> | 
