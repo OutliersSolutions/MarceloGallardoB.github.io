@@ -63,6 +63,9 @@ Books and working books
   Working book about Dynamical Systems and Optimal Control in Continuous Time for Economists. Ordinary scalar differential equations, linear systems, nonlinear systems, calculus of variations, and optimal control theory. Applications to economic growth models such as Solow, Ramsey‑Cass‑Koopsman, and Endogenous Growth models.
   </details>
 
+Lecture notes and others
+======
+
 * Fundamentals of Econometric Theory <br>
   <u>Marcelo Gallardo</u> and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/). <br>
   <details> 
@@ -71,24 +74,6 @@ Books and working books
         <a href="https://MarceloGallardoB.github.io/files/lecture_notes_teoria_econometrica.pdf" role="button" target="_blank"> Lecture Notes </a> | 
     </summary> These lecture notes offer a deep dive into econometrics, structured around key themes from matrix algebra basics to statistical models. The content begins with foundational matrix operations and their relevance to econometrics, advancing to static optimization, and exploring multivariate models with a focus on linear models and optimization issues. It also addresses qualitative variables, sampling methods, and experimental designs. Crucial econometric challenges such as multicollinearity, parameter stability, heteroscedasticity, and serial autocorrelation are thoroughly examined, alongside detection and correction techniques. The notes culminate in discussions on more advanced topics like instrumental variables, maximum likelihood estimation, and an appendix on probability theory, equipping readers with a broad understanding of econometric analysis and application.
   </details>
-
-
-Talks
-======
-
-* Optimal Transport and some other mathematical models with applications in Economics <br>
- <u>Marcelo Gallardo</u> <br>
- [Certification](https://MarceloGallardoB.github.io/files/adeem.pdf). 
-  <details> 
-    <summary>
-        Summary |
-        <a href="https://MarceloGallardoB.github.io/files/slides_ot.pdf" role="button" target="_blank"> Slides </a> |   
-    </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of PUCP. Based on Alfred Galichon's book, Optimal transport methods in economics, and his co-autohored paper SISTA: learning optimal transport costs under sparsity constraints.   
-  </details>
-
-
-Others
-======
 
 * Notes on Optimal Transport Theory and its Applications in Economics and Finance: The Problems of Entropic Regularization and Computational Methods. <br>
 <u> Marcelo Gallardo</u> and Carlos Cosentino. Supervised by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez) <br>
@@ -106,4 +91,17 @@ Others
         Summary |
         <a href="https://repositorio.pucp.edu.pe/index/handle/123456789/187345" role="button" target="_blank"> Book </a> 
   </summary> Assistance with problem sets, LaTeX and some proofs.
+  </details>
+
+Talks
+======
+
+* Optimal Transport and some other mathematical models with applications in Economics <br>
+ <u>Marcelo Gallardo</u> <br>
+ [Certification](https://MarceloGallardoB.github.io/files/adeem.pdf). 
+  <details> 
+    <summary>
+        Summary |
+        <a href="https://MarceloGallardoB.github.io/files/slides_ot.pdf" role="button" target="_blank"> Slides </a> |   
+    </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of PUCP. Based on Alfred Galichon's book, Optimal transport methods in economics, and his co-autohored paper SISTA: learning optimal transport costs under sparsity constraints.   
   </details>
