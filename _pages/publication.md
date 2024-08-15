@@ -63,7 +63,7 @@ Books and working books
   Working book about Dynamical Systems and Optimal Control in Continuous Time for Economists. Ordinary scalar differential equations, linear systems, nonlinear systems, calculus of variations, and optimal control theory. Applications to economic growth models such as Solow, Ramsey‑Cass‑Koopsman, and Endogenous Growth models.
   </details>
 
-Lecture notes and others
+Lecture notes
 ======
 
 * Fundamentals of Econometric Theory <br>
@@ -84,7 +84,7 @@ Lecture notes and others
 </details>
 
 
-Talks and assistance
+Talks
 ======
 
 * Optimal Transport and some other mathematical models with applications in Economics <br>
