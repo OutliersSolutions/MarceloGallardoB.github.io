@@ -83,17 +83,8 @@ Lecture notes and others
       </summary> This document discusses applications of optimal transport theory in economics and finance, with a focus on computational methods like entropic regularization and the Sinkhorn-Knopp algorithm. It covers topics such as matching markets, cost structure estimation, Credit Value Adjustment, and risk measures, aiming to provide detailed explanations and translations of complex results for students with a strong mathematical background. The document includes an appendix to support understanding and is intended for advanced students interested in economic and financial applications of optimal transport.
 </details>
 
- 
-* Dynamical systems for Economic Analysis <br>
- [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes)  <br>
-  <details> 
-    <summary>
-        Summary |
-        <a href="https://repositorio.pucp.edu.pe/index/handle/123456789/187345" role="button" target="_blank"> Book </a> 
-  </summary> Assistance with problem sets, LaTeX and some proofs.
-  </details>
 
-Talks
+Talks and assistance
 ======
 
 * Optimal Transport and some other mathematical models with applications in Economics <br>
@@ -105,3 +96,6 @@ Talks
           <a href="https://MarceloGallardoB.github.io/files/slides_ot.pdf" role="button" target="_blank"> Slides </a> |   
       </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of PUCP. Based on Alfred Galichon's book, Optimal transport methods in economics, and his co-autohored paper SISTA: learning optimal transport costs under sparsity constraints.   
     </details>
+
+ 
+
