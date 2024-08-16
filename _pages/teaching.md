@@ -18,11 +18,6 @@ The following documents are not exempt from typos or other errors. In the case o
 * [Microeconomics II](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-2/), 2024-2
   * Problem sets
     * [Consumer and producer theory](https://drive.google.com/file/d/11LReMxRmdapSfcQloVNEvfASgSvVE1Yg/view?usp=drive_link)
-    * [Problem set 1](https://MarceloGallardoB.github.io/files/micro2/pd1_microeconomics_2.pdf)
-    * [Problem set 2](https://MarceloGallardoB.github.io/files/micro2/pd2_micro_2.pdf)
-    * [Problem set 3](https://MarceloGallardoB.github.io/files/micro2/pd3_micro_2.pdf)
-    * [Problem set 4](https://MarceloGallardoB.github.io/files/micro2/pd4_micro_2.pdf)
-    * [Problem set 5](https://MarceloGallardoB.github.io/files/micro2/pd5_micro_2.pdf)
   * Lecture notes
     * [Lecture notes in general equilibrium](https://drive.google.com/file/d/1LMAbqAiGHOKlqkblqWc5l8tysyhQNwkK/view?usp=drive_link)   
     * [Lecture notes in uncertainty](https://drive.google.com/file/d/1_0osqOWALLqVP3bfTBpaIR1WM9PoCSTW/view?usp=sharing)
