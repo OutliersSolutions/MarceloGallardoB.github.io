@@ -25,7 +25,7 @@ Complementary education
 * [QLab](https://qlab.pucp.edu.pe/)
   * Summer School 2022, 2023 and 2024 
 
-* [Harvard](https://MarceloGallardoB.github.io/files/Constancia PUCP - Gallardo Burga.pdf)
+* [Harvard](https://MarceloGallardoB.github.io/files/harvard_pucp.pdf)
   * Aug. 2024
   * Professor [Mark Esposito](https://professional.dce.harvard.edu/faculty/mark-esposito/)
 
