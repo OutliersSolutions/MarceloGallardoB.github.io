@@ -16,11 +16,18 @@ Education
 * Grade (B.s) in Mathematics, [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/carrera/matematicas/)
   * 03/2020 - 2025 (E)
 
+* [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/)
+  * 2019-2020 (Cours du cycle propédeutique de physique)
+
+Complementary education
+======
+
 * [QLab](https://qlab.pucp.edu.pe/)
   * Summer School 2022, 2023 and 2024 
 
-* [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/)
-  * 2019-2020 (Cours du cycle propédeutique de physique)
+* [Harvard](https://MarceloGallardoB.github.io/files/Constancia PUCP - Gallardo Burga.pdf)
+  * Aug. 2024
+  * Professor [Mark Esposito](https://professional.dce.harvard.edu/faculty/mark-esposito/)
 
 
 Awards & Honors
