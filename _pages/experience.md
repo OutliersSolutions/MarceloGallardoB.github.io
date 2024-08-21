@@ -13,11 +13,11 @@ redirect_from:
 Education
 ======
 
-* Grade (B.s) in Mathematics, [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/carrera/matematicas/)
-  * 03/2020 - 2025 (E)
-
+* Grade (B.s, Lic.) in Mathematics, [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/carrera/matematicas/)
+  * 03/2020 - 05/2025 (E)
 * [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/)
-  * 2019-2020 (Cours du cycle propédeutique de physique)
+  * 2019-2020
+  * Cours du cycle propédeutique de physique. 
 
 Complementary education
 ======
