@@ -29,6 +29,7 @@ The following documents are not exempt from typos or other errors. In the case o
       with Carlos Cosentino and Eduardo Llamoca <br>
       
 * [Financial Microeconomics](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-financiera/), 2024-2
+  * Problem sets
     * [Problem set 1](https://MarceloGallardoB.github.io/files/micro2/PD1_Micro_Fin.pdf)
     * [Solution problem set 1](https://MarceloGallardoB.github.io/files/micro2/Sol_PD1_Micro_Fin.pdf)
 
