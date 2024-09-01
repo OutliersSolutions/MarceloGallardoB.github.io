@@ -18,7 +18,7 @@ The following documents are not exempt from typos or other errors. In the case o
 * [Microeconomics II](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-2/), 2024-2
   * Problem sets
     * [Recitation 1](https://MarceloGallardoB.github.io/files/micro2/recitation_1.pdf)
-    * [Solution Recitation 1](https://MarceloGallardoB.github.io/files/micro2/recitation_1_sol.pdf)
+    * [Solutions Recitation 1](https://MarceloGallardoB.github.io/files/micro2/recitation_1_sol.pdf)
     * [Recitation 2](https://MarceloGallardoB.github.io/files/micro2/Recitation_2_Micro_2.pdf)
   * Lecture notes 
   * Supplementary material
@@ -31,7 +31,7 @@ The following documents are not exempt from typos or other errors. In the case o
 * [Financial Microeconomics](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-financiera/), 2024-2
   * Problem sets
     * [Problem set 1](https://MarceloGallardoB.github.io/files/micro2/PD1_Micro_Fin.pdf)
-    * [Solution problem set 1](https://MarceloGallardoB.github.io/files/micro2/Sol_PD1_Micro_Fin.pdf)
+    * [Solutions problem set 1](https://MarceloGallardoB.github.io/files/micro2/Sol_PD1_Micro_Fin.pdf)
 
 * [Optimization I](https://MarceloGallardoB.github.io/files/SyllabusIOP224.pdf), 2024-1
   * Problem sets
@@ -53,7 +53,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Mock final exam 1](https://drive.google.com/file/d/1jrD6ecnj-NqUJYmLYkUvgRALuZ1PIfNU/view?usp=drive_link)
     * [Mock final exam 2](https://drive.google.com/file/d/1BcIMQopqKXgLARkZopQE7oXpFbGSOw6L/view?usp=drive_link)
     * [Final exam](https://drive.google.com/file/d/1zBFmJQlMwiHYnIH-LRY8n-PERQ7zVYvp/view?usp=drive_link)
-    * [Solution final exam](https://drive.google.com/file/d/1LuobOuv8l2Z4QAZAhF9lNj2WPy9Vglbv/view?usp=sharing)
+    * [Solutions final exam](https://drive.google.com/file/d/1LuobOuv8l2Z4QAZAhF9lNj2WPy9Vglbv/view?usp=sharing)
   * Additional material
     * [About Brouwer Fixed Point Theorem - Topological perspective](https://MarceloGallardoB.github.io/files/brouwer_fixed_point_theorem.pdf)
     * [Kakutani fixed point theorem](https://drive.google.com/file/d/19FcFFm3e4nUrKWr7L-DeRg_rCyJmYEBY/view?usp=drive_link)
