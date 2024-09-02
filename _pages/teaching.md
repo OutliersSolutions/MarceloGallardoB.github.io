@@ -20,6 +20,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Recitation 1](https://MarceloGallardoB.github.io/files/micro2/recitation_1.pdf)
     * [Solutions Recitation 1](https://MarceloGallardoB.github.io/files/micro2/recitation_1_sol.pdf)
     * [Recitation 2](https://MarceloGallardoB.github.io/files/micro2/Recitation_2_Micro_2.pdf)
+    * [Recitation 2](https://MarceloGallardoB.github.io/files/micro2/Sol_recitation_2.pdf)
   * Lecture notes 
   * Supplementary material
     * [Consumer and producer theory](https://drive.google.com/file/d/11LReMxRmdapSfcQloVNEvfASgSvVE1Yg/view?usp=drive_link)
