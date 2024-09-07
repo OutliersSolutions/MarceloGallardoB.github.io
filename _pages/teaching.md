@@ -33,6 +33,8 @@ The following documents are not exempt from typos or other errors. In the case o
   * Problem sets
     * [Problem set 1](https://MarceloGallardoB.github.io/files/micro2/PD1_Micro_Fin.pdf)
     * [Solutions problem set 1](https://MarceloGallardoB.github.io/files/micro2/Sol_PD1_Micro_Fin.pdf)
+    * [Problem set 2](https://MarceloGallardoB.github.io/files/micro2/PD2 Micro Financiera.pdf)
+    * [Solutions problem set 1](https://MarceloGallardoB.github.io/files/micro2/Sol PD2 Micro Financiera.pdf)
 
 * [Optimization I](https://MarceloGallardoB.github.io/files/SyllabusIOP224.pdf), 2024-1
   * Problem sets
