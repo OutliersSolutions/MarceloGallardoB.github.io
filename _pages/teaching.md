@@ -21,6 +21,10 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Solutions recitation 1](https://MarceloGallardoB.github.io/files/micro2/recitation_1_sol.pdf)
     * [Recitation 2](https://MarceloGallardoB.github.io/files/micro2/Recitation_2_Micro_2.pdf)
     * [Solutions recitation 2](https://MarceloGallardoB.github.io/files/micro2/Sol_Recitation_2.pdf)
+    * [Recitation 3](https://MarceloGallardoB.github.io/files/micro2/pd3_micro_2.pdf)
+  * Graded problem sets
+    * [Test 1](https://MarceloGallardoB.github.io/files/micro2/pc_1_micro_2.pdf)
+    * [Solutions test 1](https://MarceloGallardoB.github.io/files/micro2/sol_pc1_micro_2.pdf)
   * Lecture notes 
     * [Lecture notes in general equilibrium](https://drive.google.com/file/d/1LMAbqAiGHOKlqkblqWc5l8tysyhQNwkK/view?usp=drive_link)   
     * [Lecture notes in uncertainty](https://drive.google.com/file/d/1_0osqOWALLqVP3bfTBpaIR1WM9PoCSTW/view?usp=sharing)
