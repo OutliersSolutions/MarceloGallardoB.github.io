@@ -22,6 +22,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Recitation 2](https://MarceloGallardoB.github.io/files/micro2/Recitation_2_Micro_2.pdf)
     * [Solutions recitation 2](https://MarceloGallardoB.github.io/files/micro2/Sol_Recitation_2.pdf)
     * [Recitation 3](https://MarceloGallardoB.github.io/files/micro2/pd3_micro_2.pdf)
+    * [Slides recitation 3](https://MarceloGallardoB.github.io/files/micro2/slides_recitation_3.pdf)
   * Graded problem sets
     * [Test 1](https://MarceloGallardoB.github.io/files/micro2/pc_1_micro_2.pdf)
     * [Solutions test 1](https://MarceloGallardoB.github.io/files/micro2/sol_pc1_micro_2.pdf)
