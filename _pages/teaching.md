@@ -62,7 +62,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Solutions graded problem set 3](https://drive.google.com/file/d/1Uh5dlRALRIKab2h8LNPaW7rIFiejfQrM/view?usp=drive_link)
     * [Graded problem set 4](https://drive.google.com/file/d/1MOZLeNl7kU1FpAPWbQUHBkPsYgSASFfG/view?usp=drive_link)
     * [Midterm](https://drive.google.com/file/d/12B95ogcrORhZgoF7Vn6eHfzZokMZJHOY/view?usp=drive_link)
-    * [Solutions midterm](https://drive.google.com/file/d/1RV8MfTEcRn7-fLgXvPKyfeRMOVmg7KCI/view?usp=sharing)
+    * [Solutions midterm](https://drive.google.com/file/d/1sxDyMejyccmzYXRTBPxiPqmkGgYZcRlR/view?usp=drive_link)
     * [Mock final exam 1](https://drive.google.com/file/d/1jrD6ecnj-NqUJYmLYkUvgRALuZ1PIfNU/view?usp=drive_link)
     * [Mock final exam 2](https://drive.google.com/file/d/1BcIMQopqKXgLARkZopQE7oXpFbGSOw6L/view?usp=drive_link)
     * [Final exam](https://drive.google.com/file/d/1zBFmJQlMwiHYnIH-LRY8n-PERQ7zVYvp/view?usp=drive_link)
