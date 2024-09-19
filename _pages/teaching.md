@@ -36,7 +36,8 @@ The following documents are not exempt from typos or other errors. In the case o
       
 * [Financial Microeconomics](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-financiera/), 2024-2
   * Lecture notes
-    * [Existence Walrasian Equilibrium](https://MarceloGallardoB.github.io/files/micro2/Existencia_Equilibrio_Walrasiano.pdf) 
+    * [Existence Walrasian Equilibrium](https://MarceloGallardoB.github.io/files/micro2/Existencia_Equilibrio_Walrasiano.pdf)
+     * [Stolper-Samuelson](https://MarceloGallardoB.github.io/files/micro2/stolper_samuelson.pdf) 
   * Problem sets
     * [Problem set 1](https://MarceloGallardoB.github.io/files/micro2/PD1_Micro_Fin.pdf)
     * [Solutions problem set 1](https://MarceloGallardoB.github.io/files/micro2/Sol_PD1_Micro_Fin.pdf)
