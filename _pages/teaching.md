@@ -22,7 +22,9 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Recitation 2](https://MarceloGallardoB.github.io/files/micro2/Recitation_2_Micro_2.pdf)
     * [Solutions recitation 2](https://MarceloGallardoB.github.io/files/micro2/Sol_Recitation_2.pdf)
     * [Recitation 3](https://MarceloGallardoB.github.io/files/micro2/pd3_micro_2.pdf)
-    * [Slides recitation 3](https://MarceloGallardoB.github.io/files/micro2/slides_recitation_3.pdf)
+    * [Slides with solutions recitation 3](https://MarceloGallardoB.github.io/files/micro2/slides_recitation_3.pdf)
+    * [Recitation 4](https://MarceloGallardoB.github.io/files/micro2/recitation_4_micro_2.pdf)
+    * [Slides with solutions recitation 4](https://MarceloGallardoB.github.io/files/micro2/slides_recitation_4_micro_2.pdf)
   * Graded problem sets
     * [Test 1](https://MarceloGallardoB.github.io/files/micro2/pc_1_micro_2.pdf)
     * [Solutions test 1](https://MarceloGallardoB.github.io/files/micro2/sol_pc1_micro_2.pdf)
@@ -134,7 +136,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Infinite horizon - Slides](https://drive.google.com/file/d/1eWWszCh086wLjFLGTVGXlAHNGKvd6thM/view?usp=drive_link)
     * [Fundamentals of Dynamic Programming - Lecture Notes](https://drive.google.com/file/d/1wMEsDJjIKDGOk75LnUL8ZK23lt61EA-Z/view?usp=drive_link)
     * [Discrete Time Optimal Control - Lecture Notes](https://drive.google.com/file/d/17XYW4zwBoIhWzWEA6Mxd38Hvo_bNwV52/view?usp=drive_link)
-
+    * [Students comments](https://MarceloGallardoB.github.io/files/micro2/encuesta_docente_mateco_4.pdf)
 
 * [Mathematics for Economists 3](https://facultad.pucp.edu.pe/generales-letras/curso/matematica-para-economistas-3/), 2022-1
   * Problem sets
