@@ -49,7 +49,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Solutions problem set 2](https://MarceloGallardoB.github.io/files/micro2/Sol_PD2_Micro_Financiera.pdf)
     * [Problem set 3](https://MarceloGallardoB.github.io/files/micro2/PD3_Micro_Financiera.pdf)
     * [Slides problem set 3](https://MarceloGallardoB.github.io/files/micro2/slides_pd3_micro_fin.pdf)
-    * [Problem set 4](https://MarceloGallardoB.github.io/files/micro2/Problem_set_4_Micro_Fin)
+    * [Problem set 4](https://MarceloGallardoB.github.io/files/micro2/Problem_set_4_Micro_Fin.pdf)
     * [Slides problem set 4](https://MarceloGallardoB.github.io/files/micro2/slides_pd4_micro_fin.pdf)
   * Graded problem sets
     * [Graded problem set 1](https://MarceloGallardoB.github.io/files/micro2/PC1_micro_financiera.pdf)
