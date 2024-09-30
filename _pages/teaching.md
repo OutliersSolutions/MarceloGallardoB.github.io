@@ -40,7 +40,8 @@ The following documents are not exempt from typos or other errors. In the case o
   * Lecture notes
     * [Existence Walrasian Equilibrium](https://MarceloGallardoB.github.io/files/micro2/Existencia_Equilibrio_Walrasiano.pdf)
      * [Stolper-Samuelson](https://MarceloGallardoB.github.io/files/micro2/stolper_samuelson.pdf)
-     * [2x2x2](https://MarceloGallardoB.github.io/files/micro2/2x2x2.pdf) 
+     * [2x2x2](https://MarceloGallardoB.github.io/files/micro2/2x2x2.pdf)
+     * [Advanced exercises choice under uncertainty](https://MarceloGallardoB.github.io/files/micro2/ejercicios_incertidumbre_avanzados.pdf)
   * Problem sets
     * [Problem set 1](https://MarceloGallardoB.github.io/files/micro2/PD1_Micro_Fin.pdf)
     * [Solutions problem set 1](https://MarceloGallardoB.github.io/files/micro2/Sol_PD1_Micro_Fin.pdf)
@@ -48,6 +49,8 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Solutions problem set 2](https://MarceloGallardoB.github.io/files/micro2/Sol_PD2_Micro_Financiera.pdf)
     * [Problem set 3](https://MarceloGallardoB.github.io/files/micro2/PD3_Micro_Financiera.pdf)
     * [Slides problem set 3](https://MarceloGallardoB.github.io/files/micro2/slides_pd3_micro_fin.pdf)
+    * [Problem set 4](https://MarceloGallardoB.github.io/files/micro2/Problem_set_4_Micro_Fin)
+    * [Slides problem set 4](https://MarceloGallardoB.github.io/files/micro2/slides_pd4_micro_fin.pdf)
   * Graded problem sets
     * [Graded problem set 1](https://MarceloGallardoB.github.io/files/micro2/PC1_micro_financiera.pdf)
     * [Solutions graded problem set 1](https://MarceloGallardoB.github.io/files/micro2/Sol_PC1_micro_financiera.pdf)
