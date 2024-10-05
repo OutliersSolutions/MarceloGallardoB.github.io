@@ -12,10 +12,12 @@ redirect_from:
 Papers and working papers
 ======
 
-* Congestion and Penalization in Discrete Matching <br>
+* Congestion and Penalization in Discrete Optimal Transport <br>
  Marcelo Gallardo,   [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez). <br>
   <details>    <summary> Abstract |<a href="" role="button" target="_blank"> Draft coming soon </a> | 
-    </summary> This paper presents two models inspired by optimal transport, integrating a congestion factor into their cost structures. The first model modifies the classic transport problem by including congestion, and the second model introduces weighting and penalization terms instead of typical constraints. We provide theoretical insights and simulations, including the analysis of interior or corner solutions, and comparative statics. Our findings highlight the potential of these models for future research in preference or cost estimation in matching markets.
+    </summary> To the best of our knowledge, this paper introduces two novel models derived from the discrete optimal transport problem. The first model extends the traditional transport problem by adding a quadratic congestion factor directly into the cost function, while the second model replaces conventional constraints with weighted penalization terms.  We present theoretical contributions, including the characterization of interior and boundary solutions for some specific cases, convergence to the optimal solutions, as well as comparative statics analysis.
+Finally, we propose an \(O((N+L)(NL)^2)\) algorithm for computing the optimal plan
+for the penalized model assuming interior solutions.
   </details>  
 
 
