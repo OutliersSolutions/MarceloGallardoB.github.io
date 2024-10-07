@@ -25,6 +25,8 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Slides with solutions recitation 3](https://MarceloGallardoB.github.io/files/micro2/slides_recitation_3.pdf)
     * [Recitation 4](https://MarceloGallardoB.github.io/files/micro2/recitation_4_micro_2.pdf)
     * [Slides with solutions recitation 4](https://MarceloGallardoB.github.io/files/micro2/slides_recitation_4_micro_2.pdf)
+    * [Recitation 5](https://MarceloGallardoB.github.io/files/micro2/PD5_Micro_2.pdf)
+    * [Slides recitation 5](https://MarceloGallardoB.github.io/files/micro2/slides_recitation_5_micro_2.pdf)
   * Graded problem sets
     * [Test 1](https://MarceloGallardoB.github.io/files/micro2/pc_1_micro_2.pdf)
     * [Solutions test 1](https://MarceloGallardoB.github.io/files/micro2/sol_pc1_micro_2.pdf)
@@ -56,6 +58,8 @@ The following documents are not exempt from typos or other errors. In the case o
   * Graded problem sets
     * [Graded problem set 1](https://MarceloGallardoB.github.io/files/micro2/PC1_micro_financiera.pdf)
     * [Solutions graded problem set 1](https://MarceloGallardoB.github.io/files/micro2/Sol_PC1_micro_financiera.pdf)
+    * [Graded problem set 2](https://MarceloGallardoB.github.io/files/micro2/PC2_Micro_Fin.pdf)
+    * [Solutions graded problem set 2](https://MarceloGallardoB.github.io/files/micro2/PC2_Micro_Fin.pdf)
 
 * [Optimization I](https://MarceloGallardoB.github.io/files/SyllabusIOP224.pdf), 2024-1
   * Problem sets
