@@ -15,7 +15,7 @@ Papers and working papers
 * Congestion and Penalization in Optimal Transport <br>
  Marcelo Gallardo,   [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez). <br>
   <details>    <summary> Abstract |<a href="https://arxiv.org/pdf/2410.07363" role="button" target="_blank">Pre-print </a> | 
-    </summary> In this paper we introduce two novel models derived from the discrete optimal transport problem. The first model extends the traditional transport problem by adding a quadratic congestion factor directly into the cost function, while the second model replaces conventional constraints with weighted penalization terms. We present theoretical results, for the characterization of interior and corner solution for some specific cases, and we perform smooth comparative statics analysis. We also propose an\(O((N+L)(NL)2)\) algorithm for computing the optimal plan for the penalized model assuming interior solutions.
+    </summary> In this paper we introduce two novel models derived from the discrete optimal transport problem. The first model extends the traditional transport problem by adding a quadratic congestion factor directly into the cost function, while the second model replaces conventional constraints with weighted penalization terms. We present theoretical results, for the characterization of interior and corner solution for some specific cases, and we perform smooth comparative statics analysis. We also propose an O((N+L)(NL)2) algorithm for computing the optimal plan for the penalized model assuming interior solutions.
   </details>  
 
 
