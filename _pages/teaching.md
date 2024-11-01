@@ -67,7 +67,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Graded problem set 1](https://MarceloGallardoB.github.io/files/micro2/PC1_micro_financiera.pdf)
     * [Solutions graded problem set 1](https://MarceloGallardoB.github.io/files/micro2/Sol_PC1_micro_financiera.pdf)
     * [Graded problem set 2](https://MarceloGallardoB.github.io/files/micro2/PC2_Micro_Fin.pdf)
-    * [Solutions graded problem set 2](https://MarceloGallardoB.github.io/files/micro2/PC2_Micro_Fin.pdf)
+    * [Solutions graded problem set 2](https://MarceloGallardoB.github.io/files/micro2/Sol_PC2_Micro_Fin.pdf)
     * [Homework for problem set 3](https://MarceloGallardoB.github.io/files/micro2/Tarea_3_micro_fin.pdf)
 
 * [Optimization I](https://MarceloGallardoB.github.io/files/SyllabusIOP224.pdf), 2024-1
