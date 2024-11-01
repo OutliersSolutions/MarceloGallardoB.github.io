@@ -24,7 +24,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Problem set 3](https://MarceloGallardoB.github.io/files/micro2/pd3_micro_2.pdf)
     * [Slides with solutions to problem set 3](https://MarceloGallardoB.github.io/files/micro2/slides_recitation_3.pdf)
     * [Problem set 4](https://MarceloGallardoB.github.io/files/micro2/recitation_4_micro_2.pdf)
-    * [Slides with solutions to problem set 4] https://MarceloGallardoB.github.io/files/micro2/slides_recitation_4_micro_2.pdf)
+    * [Slides with solutions to problem set 4](https://MarceloGallardoB.github.io/files/micro2/slides_recitation_4_micro_2.pdf)
     * [Problem set 5](https://MarceloGallardoB.github.io/files/micro2/PD5_Micro_2.pdf)
     * [Solutions to problem set 5](https://MarceloGallardoB.github.io/files/micro2/Sol_recitation_5_Micro_2.pdf)
     * [Problem set 6](https://MarceloGallardoB.github.io/files/micro2/PD6_micro_2.pdf)
