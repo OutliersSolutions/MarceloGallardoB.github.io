@@ -67,7 +67,7 @@ Research Assistant
     
 * [GRADE](https://www.grade.org.pe/en/) 
   * Working with PhD [Juan León Jara-Almonte](https://www.grade.org.pe/investigadores/personal/jleon/)
-  * 2022-now
+  * 2022-2024
   * Quarter time
 
 
