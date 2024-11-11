@@ -29,6 +29,8 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Solutions to problem set 5](https://MarceloGallardoB.github.io/files/micro2/Sol_recitation_5_Micro_2.pdf)
     * [Problem set 6](https://MarceloGallardoB.github.io/files/micro2/PD6_micro_2.pdf)
     * [Solutions to problem set 6](https://MarceloGallardoB.github.io/files/micro2/recitation_6_micro_2.pdf)
+    * [Problem set 7](https://MarceloGallardoB.github.io/files/micro2/recitation_7_micro_2.pdf)
+
 
   * Graded problem sets
     * [Test 1](https://MarceloGallardoB.github.io/files/micro2/pc_1_micro_2.pdf)
@@ -61,7 +63,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Problem set 4](https://MarceloGallardoB.github.io/files/micro2/Problem_set_4_Micro_Fin.pdf)
     * [Slides with solutions to problem set 4](https://MarceloGallardoB.github.io/files/micro2/slides_pd4_micro_fin.pdf)
     * [Solutions to problem set 5](https://MarceloGallardoB.github.io/files/micro2/pd5_micro_fin.pdf)
-    * [Problem set 6](https://MarceloGallardoB.github.io/files/micro2/PD6_Micro_fin.pdf)
+    * [Problem set 6](https://MarceloGallardoB.github.io/files/micro2/PD6_Micro_Fin.pdf)
     * [Solutions to problem set 6](https://MarceloGallardoB.github.io/files/micro2/pd6_micro_fin.pdf)
   * Graded problem sets
     * [Graded problem set 1](https://MarceloGallardoB.github.io/files/micro2/PC1_micro_financiera.pdf)
