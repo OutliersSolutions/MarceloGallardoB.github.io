@@ -100,7 +100,7 @@ Talks
       <summary>
           Summary |
           <a href="https://MarceloGallardoB.github.io/files/slides_ot.pdf" role="button" target="_blank"> Slides </a> |   
-      </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of PUCP. Based on [Alfred Galichon](https://alfredgalichon.com/)'s book, Optimal transport methods in economics, and his co-autohored paper [SISTA: learning optimal transport costs under sparsity constraints](https://arxiv.org/abs/2009.08564).   
+      </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of PUCP. Based on [Alfred Galichon](https://alfredgalichon.com/)'s book, Optimal transport methods in economics, and his co-autohored paper [SISTA: learning optimal transport costs under sparsity constraints](https://arxiv.org/abs/2009.08564)<br>.   
     </details>
 
 * [Finding a Walrasian equilibrium is easy for a fixed number of agents](https://eml.berkeley.edu/~fechenique/published/sperner.pdf) by [F. Echenique](https://eml.berkeley.edu/~fechenique/index.html) and [A. Wierman](https://adamwierman.com/) <br>
