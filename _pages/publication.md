@@ -103,7 +103,7 @@ Talks
       </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of PUCP. Based on Alfred Galichon's book, Optimal transport methods in economics, and his co-autohored paper SISTA: learning optimal transport costs under sparsity constraints.   
     </details>
 
-* Finding a Walrasian equilibrium is easy for a fixed number of agents - F. Echenique and A. Wierman <br>
+* [Finding a Walrasian equilibrium is easy for a fixed number of agents](https://eml.berkeley.edu/~fechenique/published/sperner.pdf) by [F. Echenique](https://eml.berkeley.edu/~fechenique/index.html) and [A. Wierman](https://adamwierman.com/) <br>
  <u>Marcelo Gallardo</u> <br>
     <details> 
       <summary>
