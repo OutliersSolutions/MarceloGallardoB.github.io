@@ -43,8 +43,7 @@ The following documents are not exempt from typos or other errors. In the case o
 
   * Lecture notes 
     * [Lecture notes in general equilibrium](https://drive.google.com/file/d/1LMAbqAiGHOKlqkblqWc5l8tysyhQNwkK/view?usp=drive_link)   
-    * [Lecture notes in uncertainty](https://drive.google.com/file/d/1_0osqOWALLqVP3bfTBpaIR1WM9PoCSTW/view?usp=sharing)
-  * Supplementary material
+    * Supplementary material
     * [Consumer and producer theory](https://drive.google.com/file/d/11LReMxRmdapSfcQloVNEvfASgSvVE1Yg/view?usp=drive_link)
     * [Brouwer fixed point theorem and applications in general equilibrium](https://MarceloGallardoB.github.io/files/brouwer_fixed_point_theorem.pdf) <br>
       with Carlos Cosentino and Eduardo Llamoca <br>
@@ -68,6 +67,9 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Solutions to problem set 5](https://MarceloGallardoB.github.io/files/micro2/pd5_micro_fin.pdf)
     * [Problem set 6](https://MarceloGallardoB.github.io/files/micro2/PD6_Micro_Fin.pdf)
     * [Solutions to problem set 6](https://MarceloGallardoB.github.io/files/micro2/pd6_micro_fin.pdf)
+    * [Problem set 7](https://MarceloGallardoB.github.io/files/micro2/pd7_micro_fin.pdf)
+    * [Problem set 8](https://MarceloGallardoB.github.io/files/micro2/pd8_juegos_bayesianos.pdf)
+    * [Problem set 8](https://MarceloGallardoB.github.io/files/micro2/sol_pd8.pdf)
   * Graded problem sets
     * [Graded problem set 1](https://MarceloGallardoB.github.io/files/micro2/PC1_micro_financiera.pdf)
     * [Solutions graded problem set 1](https://MarceloGallardoB.github.io/files/micro2/Sol_PC1_micro_financiera.pdf)
