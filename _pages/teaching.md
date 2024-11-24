@@ -40,6 +40,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Test 3](https://MarceloGallardoB.github.io/files/micro2/test_3_v2.pdf)
     * [Solutions to test 3](https://MarceloGallardoB.github.io/files/micro2/sol_test_3.pdf)
     * [Test 4](https://MarceloGallardoB.github.io/files/micro2/PC4_Micro_2.pdf)
+    * [Solutions to test 4](https://MarceloGallardoB.github.io/files/micro2/sol_test_4.pdf)
 
   * Lecture notes 
     * [Lecture notes in general equilibrium](https://drive.google.com/file/d/1LMAbqAiGHOKlqkblqWc5l8tysyhQNwkK/view?usp=drive_link)   
