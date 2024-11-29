@@ -36,7 +36,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Solutions to test 1](https://MarceloGallardoB.github.io/files/micro2/sol_pc1_micro_2.pdf)
     * [Test 2](https://MarceloGallardoB.github.io/files/micro2/test_2_micro_2.pdf)
     * [Solutions to test 2](https://MarceloGallardoB.github.io/files/micro2/Solution_test_2_micro_2.pdf)
-    * [Supplementary test 2](https://MarceloGallardoB.github.io/files/micro2/Test_2_v2_Micro_2.pdf)\
+    * [Supplementary test 2](https://MarceloGallardoB.github.io/files/micro2/Test_2_v2_Micro_2.pdf)
     * [Test 3](https://MarceloGallardoB.github.io/files/micro2/test_3_v2.pdf)
     * [Solutions to test 3](https://MarceloGallardoB.github.io/files/micro2/sol_test_3.pdf)
     * [Test 4](https://MarceloGallardoB.github.io/files/micro2/PC4_Micro_2.pdf)
