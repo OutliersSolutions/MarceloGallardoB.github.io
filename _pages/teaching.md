@@ -31,6 +31,8 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Solutions to problem set 6](https://MarceloGallardoB.github.io/files/micro2/recitation_6_micro_2.pdf)
     * [Problem set 7](https://MarceloGallardoB.github.io/files/micro2/recitation_7_micro_2.pdf)
     * [Solutions to problem set 7](https://MarceloGallardoB.github.io/files/micro2/Sol_PD7_Micro_2.pdf)
+    * [Problem set 8](https://MarceloGallardoB.github.io/files/micro2/recitation_8.pdf)
+    * [Solutions to problem set 8](https://MarceloGallardoB.github.io/files/micro2/sol_recitation_8.pdf)
   * Graded problem sets
     * [Test 1](https://MarceloGallardoB.github.io/files/micro2/pc_1_micro_2.pdf)
     * [Solutions to test 1](https://MarceloGallardoB.github.io/files/micro2/sol_pc1_micro_2.pdf)
@@ -50,7 +52,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [General equilibrium under uncertainty](https://MarceloGallardoB.github.io/files/micro2/general_equilibrium_uncertainty.pdf) 
       
 * [Financial Microeconomics](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-financiera/), 2024-2
-  * Lecture notes
+  * Lecture notes with Karen Montoya
     * [Existence Walrasian Equilibrium](https://MarceloGallardoB.github.io/files/micro2/Existencia_Equilibrio_Walrasiano.pdf)
      * [Stolper-Samuelson](https://MarceloGallardoB.github.io/files/micro2/stolper_samuelson.pdf)
      * [2x2x2](https://MarceloGallardoB.github.io/files/micro2/2x2x2.pdf)
@@ -74,6 +76,8 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Problem set 7](https://MarceloGallardoB.github.io/files/micro2/pd7_micro_fin.pdf)
     * [Problem set 8](https://MarceloGallardoB.github.io/files/micro2/pd8_juegos_bayesianos.pdf)
     * [Solutions to problem set 8](https://MarceloGallardoB.github.io/files/micro2/sol_pd8.pdf)
+    * [Problem set 9](https://MarceloGallardoB.github.io/files/micro2/pd9_micro_fin.pdf)
+
   * Graded problem sets
     * [Graded problem set 1](https://MarceloGallardoB.github.io/files/micro2/PC1_micro_financiera.pdf)
     * [Solutions graded problem set 1](https://MarceloGallardoB.github.io/files/micro2/Sol_PC1_micro_financiera.pdf)
