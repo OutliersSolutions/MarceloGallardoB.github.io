@@ -41,13 +41,13 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Solutions to test 3](https://MarceloGallardoB.github.io/files/micro2/sol_test_3.pdf)
     * [Test 4](https://MarceloGallardoB.github.io/files/micro2/PC4_Micro_2.pdf)
     * [Solutions to test 4](https://MarceloGallardoB.github.io/files/micro2/sol_test_4.pdf)
-
   * Lecture notes 
     * [Lecture notes in general equilibrium](https://drive.google.com/file/d/1LMAbqAiGHOKlqkblqWc5l8tysyhQNwkK/view?usp=drive_link)   
     * Supplementary material
     * [Consumer and producer theory](https://drive.google.com/file/d/11LReMxRmdapSfcQloVNEvfASgSvVE1Yg/view?usp=drive_link)
     * [Brouwer fixed point theorem and applications in general equilibrium](https://MarceloGallardoB.github.io/files/brouwer_fixed_point_theorem.pdf) <br>
       with Carlos Cosentino and Eduardo Llamoca <br>
+    * [General equilibrium under uncertainty](https://MarceloGallardoB.github.io/files/micro2/general_equilibrium_uncertainty.pdf) 
       
 * [Financial Microeconomics](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-financiera/), 2024-2
   * Lecture notes
@@ -55,7 +55,10 @@ The following documents are not exempt from typos or other errors. In the case o
      * [Stolper-Samuelson](https://MarceloGallardoB.github.io/files/micro2/stolper_samuelson.pdf)
      * [2x2x2](https://MarceloGallardoB.github.io/files/micro2/2x2x2.pdf)
      * [Advanced exercises choice under uncertainty](https://MarceloGallardoB.github.io/files/micro2/ejercicios_incertidumbre_avanzados.pdf)
+     * [Advanced exercises choice under uncertainty]
      * [Expected utility representation](https://MarceloGallardoB.github.io/files/micro2/utilidad_esperada.pdf)
+     * [Introduction to game theory](https://MarceloGallardoB.github.io/files/micro2/lecture_notes_juegos.pdf)
+     * [Asymmetric information](https://MarceloGallardoB.github.io/files/micro2/informacion_asimetrica.pdf)
   * Problem sets
     * [Problem set 1](https://MarceloGallardoB.github.io/files/micro2/PD1_Micro_Fin.pdf)
     * [Solutions to problem set 1](https://MarceloGallardoB.github.io/files/micro2/Sol_PD1_Micro_Fin.pdf)
