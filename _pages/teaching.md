@@ -77,16 +77,17 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Problem set 8](https://MarceloGallardoB.github.io/files/micro2/pd8_juegos_bayesianos.pdf)
     * [Solutions to problem set 8](https://MarceloGallardoB.github.io/files/micro2/sol_pd8.pdf)
     * [Problem set 9](https://MarceloGallardoB.github.io/files/micro2/pd9_micro_fin.pdf)
-
+    * [Solutions to problem set 9](https://MarceloGallardoB.github.io/files/micro2/sol_pd9.pdf)
   * Graded problem sets
     * [Graded problem set 1](https://MarceloGallardoB.github.io/files/micro2/PC1_micro_financiera.pdf)
-    * [Solutions graded problem set 1](https://MarceloGallardoB.github.io/files/micro2/Sol_PC1_micro_financiera.pdf)
+    * [Solutions to graded problem set 1](https://MarceloGallardoB.github.io/files/micro2/Sol_PC1_micro_financiera.pdf)
     * [Graded problem set 2](https://MarceloGallardoB.github.io/files/micro2/PC2_Micro_Fin.pdf)
-    * [Solutions graded problem set 2](https://MarceloGallardoB.github.io/files/micro2/Sol_PC2_Micro_Fin.pdf)
+    * [Solutions to graded problem set 2](https://MarceloGallardoB.github.io/files/micro2/Sol_PC2_Micro_Fin.pdf)
     * [Homework for problem set 3](https://MarceloGallardoB.github.io/files/micro2/Tarea_3_micro_fin.pdf)
     * [Graded problem set 3](https://MarceloGallardoB.github.io/files/micro2/pc3_micro_fin.pdf)
-    * [Solutions graded problem set 3](https://MarceloGallardoB.github.io/files/micro2/sol_pc3_micro_fin.pdf)
-
+    * [Solutions to graded problem set 3](https://MarceloGallardoB.github.io/files/micro2/sol_pc3_micro_fin.pdf)
+    * [Graded problem set 4](https://MarceloGallardoB.github.io/files/micro2/pc4_micro_fin.pdf)
+    * [Solutions to graded problem set 4](https://MarceloGallardoB.github.io/files/micro2/sol_pc4.pdf)
 * [Optimization I](https://MarceloGallardoB.github.io/files/SyllabusIOP224.pdf), 2024-1
   * Problem sets
     * [Problem set 1](https://drive.google.com/file/d/18P5ovBJTmgzdq1eBq9uO0TcLOo9BuL6D/view?usp=drive_link)
