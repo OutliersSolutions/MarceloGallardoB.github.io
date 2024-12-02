@@ -56,7 +56,7 @@ Books and working books
         Summary |
         <a href="https://MarceloGallardoB.github.io/files/Index ALOECO.pdf" role="button" target="_blank"> Pre published book </a> | 
     </summary>
-  Pre-published  about Linear Algebra and Static Optimization for Economists. Linear algebra, topology in normed vector spaces, convex analysis, unconstrained static optimization, constrained static optimization, smooth comparative statics, preferences, consumer theory, pure exchange economies, and other economic applications.
+  Pre-published book about Linear Algebra and Static Optimization for Economists. Linear algebra, topology in normed vector spaces, convex analysis, unconstrained static optimization, constrained static optimization, smooth comparative statics, preferences, consumer theory, pure exchange economies, and other economic applications.
   </details>
 
 
@@ -73,13 +73,13 @@ Books and working books
 Lecture notes
 ======
 
-* Fundamentals of Econometric Theory <br>
+* Fundamentals of Econometric Theory (R&R to Decon PUCP) <br>
   <u>Marcelo Gallardo</u> and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/). <br>
   <details> 
     <summary>
         Summary |
         <a href="https://MarceloGallardoB.github.io/files/lecture_notes_teoria_econometrica.pdf" role="button" target="_blank"> Lecture Notes </a> | 
-    </summary> These lecture notes offer a deep dive into econometrics, structured around key themes from matrix algebra basics to statistical models. The content begins with foundational matrix operations and their relevance to econometrics, advancing to static optimization, and exploring multivariate models with a focus on linear models and optimization issues. It also addresses qualitative variables, sampling methods, and experimental designs. Crucial econometric challenges such as multicollinearity, parameter stability, heteroscedasticity, and serial autocorrelation are thoroughly examined, alongside detection and correction techniques. The notes culminate in discussions on more advanced topics like instrumental variables, maximum likelihood estimation, and an appendix on probability theory, equipping readers with a broad understanding of econometric analysis and application.
+    </summary> Very preliminary, R&R for Decon PUCP. These lecture notes offer a deep dive into econometrics, structured around key themes from matrix algebra basics to statistical models. The content begins with foundational matrix operations and their relevance to econometrics, advancing to static optimization, and exploring multivariate models with a focus on linear models and optimization issues. It also addresses qualitative variables, sampling methods, and experimental designs. Crucial econometric challenges such as multicollinearity, parameter stability, heteroscedasticity, and serial autocorrelation are thoroughly examined, alongside detection and correction techniques. The notes culminate in discussions on more advanced topics like instrumental variables, maximum likelihood estimation, and an appendix on probability theory, equipping readers with a broad understanding of econometric analysis and application. New: secon version will include more examples and introduction to time series. 
   </details>
 
 * Notes on Optimal Transport Theory and its Applications in Economics and Finance: The Problems of Entropic Regularization and Computational Methods. <br>
@@ -87,7 +87,7 @@ Lecture notes
   <details> 
       <summary> Summary | 
         <a href="https://MarceloGallardoB.github.io/files/trabajo_ot_2023.pdf" role="button" target="_blank"> Lecture notes   </a> | 
-      </summary> This document discusses applications of optimal transport theory in economics and finance, with a focus on computational methods like entropic regularization and the Sinkhorn-Knopp algorithm. It covers topics such as matching markets, cost structure estimation, Credit Value Adjustment, and risk measures, aiming to provide detailed explanations and translations of complex results for students with a strong mathematical background. The document includes an appendix to support understanding and is intended for advanced students interested in economic and financial applications of optimal transport.</details>
+      </summary> This document discusses applications of optimal transport theory in economics and finance, with a focus on computational methods like entropic regularization and the Sinkhorn-Knopp algorithm. It covers topics such as matching markets, cost structure estimation, Credit Value Adjustment, and risk measures, aiming to provide detailed explanations and translations of complex results for students with a strong mathematical background. The document includes an appendix to support understanding and is intended for advanced students interested in economic and financial applications of optimal transport. </details>
 
 
 Talks
@@ -109,7 +109,7 @@ Talks
       <summary>
           Summary |
           <a href="https://MarceloGallardoB.github.io/files/walrasian_equilibrium_echenique_wierman.pdf" role="button" target="_blank"> Slides </a> |   
-      </summary> As part of the midterm assignment for the Numerical Analysis course, I presented the article by Echenique and Wierman, Finding a Walrasian Equilibrium is Easy for a Finite Number of Agents. The article introduces an algorithm that computes, in polynomial time with respect to the number of goods and a parameter epsilon, an epsilon-Walrasian equilibrium. In my presentation, I delved into some of the technical details and provided a comprehensive introduction for those unfamiliar with general equilibrium theory. I also proposed some insights on one of the lemmas discussed in the article.
+      </summary> As part of the midterm assignment for the Numerical Analysis course (2024-2), I presented the article by Echenique and Wierman, Finding a Walrasian Equilibrium is Easy for a Finite Number of Agents. The article introduces an algorithm that computes, in polynomial time with respect to the number of goods and a parameter epsilon, an epsilon-Walrasian equilibrium. In my presentation, I delved into some of the technical details and provided a comprehensive introduction for those unfamiliar with general equilibrium theory. I also proposed some insights on one of the lemmas discussed in the article.
     </details>
 
     
