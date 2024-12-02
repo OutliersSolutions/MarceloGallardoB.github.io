@@ -107,7 +107,7 @@ Talks
       <summary>
           Summary |
           <a href="https://MarceloGallardoB.github.io/files/walrasian_equilibrium_echenique_wierman.pdf" role="button" target="_blank"> Slides </a> |   
-      </summary> As part of the midterm assignment for the Numerical Analysis course (2024-2), I presented the article by Echenique and Wierman, Finding a Walrasian Equilibrium is Easy for a Finite Number of Agents. The article introduces an algorithm that computes, in polynomial time with respect to the number of goods and a parameter epsilon, an epsilon-Walrasian equilibrium. In my presentation, I delved into some of the technical details and provided a comprehensive introduction for those unfamiliar with general equilibrium theory. I also proposed some insights on one of the lemmas discussed in the article.
+      </summary> As part of the midterm assignment for the course Numerical Analysis (2024-2), I presented the article Finding a Walrasian Equilibrium is Easy for a Finite Number of Agents by Federico Echenique and Adam Wierman. The article introduces an algorithm that computes, in polynomial time with respect to the number of goods and a parameter epsilon, an epsilon-Walrasian equilibrium. In my presentation, I delved into some of the technical details and provided a comprehensive introduction for those unfamiliar with general equilibrium theory. I also proposed some insights on one of the lemmas discussed in the article.
     </details>
 
     
