@@ -57,8 +57,7 @@ The following documents are not exempt from typos or other errors. In the case o
      * [Stolper-Samuelson](https://MarceloGallardoB.github.io/files/micro2/stolper_samuelson.pdf)
      * [2x2x2](https://MarceloGallardoB.github.io/files/micro2/2x2x2.pdf)
      * [Advanced exercises choice under uncertainty](https://MarceloGallardoB.github.io/files/micro2/ejercicios_incertidumbre_avanzados.pdf)
-     * [Advanced exercises choice under uncertainty]
-     * [Expected utility representation](https://MarceloGallardoB.github.io/files/micro2/utilidad_esperada.pdf)
+    * [Expected utility representation](https://MarceloGallardoB.github.io/files/micro2/utilidad_esperada.pdf)
      * [Introduction to game theory](https://MarceloGallardoB.github.io/files/micro2/lecture_notes_juegos.pdf)
      * [Asymmetric information](https://MarceloGallardoB.github.io/files/micro2/informacion_asimetrica.pdf)
   * Problem sets
