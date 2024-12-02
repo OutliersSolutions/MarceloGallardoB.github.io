@@ -47,7 +47,7 @@ Papers and working papers
 Books and working books
 ======
   
-* Linear Algebra and Optimization for Economists <br>
+* Linear Algebra and Optimization for Economists - Send for publication <br>
  [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u>Marcelo Gallardo</u>. <br>
   <details> 
     <summary>
@@ -71,7 +71,7 @@ Books and working books
 Lecture notes
 ======
 
-* Fundamentals of Econometric Theory (R&R to Decon PUCP) <br>
+* Fundamentals of Econometric Theory - R&R to Decon PUCP <br>
   <u>Marcelo Gallardo</u> and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/). <br>
   <details> 
     <summary>
