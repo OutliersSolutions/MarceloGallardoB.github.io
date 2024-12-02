@@ -48,8 +48,8 @@ Innovation and overeducation in Peruvian universities <br>
 Books and working books
 ======
   
-* Linear Algebra and Optimization for Economists - Send for publication to [Fondo Editorial PUCP]([https://www.fondoeditorial.pucp.edu.pe/]) <br>
- [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u>Marcelo Gallardo</u>. <br>
+* Linear Algebra and Optimization for Economists - Send for publication to [Fondo Editorial PUCP](https://www.fondoeditorial.pucp.edu.pe/) <br>
+ [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u>[Marcelo Gallardo](https://marcelogallardob.github.io/)</u>. <br>
   <details> 
     <summary>
         Summary |
@@ -60,7 +60,7 @@ Books and working books
 
 
 * Optimal Control and Dynamical Systems for Economic Analysis in Continuous Time <br>
- [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u>Marcelo Gallardo</u>. <br>
+ [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u>[Marcelo Gallardo](https://marcelogallardob.github.io/)</u>. <br>
   <details> 
     <summary>
         Summary |
@@ -73,7 +73,7 @@ Lecture notes
 ======
 
 * Fundamentals of Econometric Theory - R&R to [Decon PUCP](https://departamento-economia.pucp.edu.pe/) <br>
-  <u>Marcelo Gallardo</u> and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/). <br>
+[Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/) and </u> [Marcelo Gallardo](https://marcelogallardob.github.io/). <br>
   <details> 
     <summary>
         Summary |
