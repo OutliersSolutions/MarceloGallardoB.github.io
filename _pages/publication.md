@@ -17,7 +17,7 @@ Papers and working papers
   <details>    <summary> Abstract |<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025651" role="button" target="_blank">Pre-print </a> | 
     </summary> In this paper we introduce two novel models derived from the discrete optimal transport problem. The first model extends the traditional transport problem by adding a quadratic congestion factor directly into the cost function, while the second model replaces conventional constraints with weighted penalization terms. We present theoretical results, for the characterization of interior and corner solution for some specific cases, and we perform smooth comparative statics analysis. We also propose an O((N+L)(NL)2) algorithm for computing the optimal plan for the penalized model assuming interior solutions. Pre-print in arXiv differs slightly from the last version in SSRN.  </details>  
 
-* Random wave fields within the Burgers equation <br>
+* Irregular wave dynamics driven by a random force within the Burgers equation <br>
 [Marcelo Flamarion](https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-vasconcellos-) and Marcelo Gallardo. <br>
   <details>    <summary> Abstract |<a href="" role="button" target="_blank">Working paper </a> | 
     </summary> Comming soon!
