@@ -47,7 +47,7 @@ ADEEM Winter School,  [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez) an
 Books and working books
 ======
   
-* Linear Algebra and Optimization for Economists - Send for publication to [https://www.fondoeditorial.pucp.edu.pe/](Fondo Editorial PUCP) <br>
+* Linear Algebra and Optimization for Economists - Send for publication to [Fondo Editorial PUCP]([https://www.fondoeditorial.pucp.edu.pe/]) <br>
  [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u>Marcelo Gallardo</u>. <br>
   <details> 
     <summary>
