@@ -13,7 +13,7 @@ Papers and working papers
 ======
 
 * [Congestion and Penalization in Optimal Transport](https://arxiv.org/pdf/2410.07363) - Submitted <br>
- Marcelo Gallardo,  [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez) and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes). <br>
+ADEEM Winter School,  [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez) and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes). <br>
   <details>    <summary> Abstract |<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025651" role="button" target="_blank">Pre-print </a> | 
     </summary> In this paper we introduce two novel models derived from the discrete optimal transport problem. The first model extends the traditional transport problem by adding a quadratic congestion factor directly into the cost function, while the second model replaces conventional constraints with weighted penalization terms. We present theoretical results, for the characterization of interior and corner solution for some specific cases, and we perform smooth comparative statics analysis. We also propose an O((N+L)(NL)2) algorithm for computing the optimal plan for the penalized model assuming interior solutions. Pre-print in arXiv differs slightly from the last version in SSRN.  </details>  
 
@@ -47,7 +47,7 @@ Papers and working papers
 Books and working books
 ======
   
-* Linear Algebra and Optimization for Economists - Send for publication <br>
+* Linear Algebra and Optimization for Economists - Send for publication to [https://www.fondoeditorial.pucp.edu.pe/](Fondo Editorial PUCP) <br>
  [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u>Marcelo Gallardo</u>. <br>
   <details> 
     <summary>
@@ -102,7 +102,7 @@ Talks
     </details>
 
 * On the conference paper [Finding a Walrasian equilibrium is easy for a fixed number of agents](https://eml.berkeley.edu/~fechenique/published/sperner.pdf) by [F. Echenique](https://eml.berkeley.edu/~fechenique/index.html) and [A. Wierman](https://adamwierman.com/) <br>
- <u> slides by Marcelo Gallardo</u> <br>
+ <u> for Numerical Analysis </u> <br>
     <details> 
       <summary>
           Summary |
