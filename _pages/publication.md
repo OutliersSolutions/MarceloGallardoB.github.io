@@ -23,7 +23,7 @@ Papers and working papers
     </summary> Comming soon!
   </details>  
 
-
+<!--
 * Harnessing Twitter and GPT for a Novel Political Uncertainty Index for Peru: Implications for USD/PEN Exchange Rate Fluctuations <br>
 [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), <u> Marcelo Gallardo </u> and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/). <br>
   <details> 
@@ -32,7 +32,7 @@ Papers and working papers
         <a href="https://MarceloGallardoB.github.io/files/twitter_political_indicator_page_1.pdf" role="button" target="_blank"> Working paper </a> | 
     </summary> This study examines the impact of political uncertainty on key macroeconomic variables, including the USD to  PEN exchange rate, through a specialized index built from social media analysis. Tweets from prominent Peruvian figures (2018-2023) are analyzed and labeled by GPT-3.5 Turbo, determining their stance on Peru's political and economic situation. This process contributes to the creation of a political uncertainty time series. This series, indicative of Peru's economic climate, is used to enhance the prediction of macroeconomic trends, with a focus on currency exchange dynamics.
   </details>  
-
+--!>
 
 * Innovation and overeducation in Peruvian universities <br>
  <u> Marcelo Gallardo </u> and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/). <br>
