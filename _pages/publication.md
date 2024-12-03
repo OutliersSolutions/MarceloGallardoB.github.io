@@ -102,7 +102,7 @@ Talks
     </details>
 
 * On the conference paper [Finding a Walrasian equilibrium is easy for a fixed number of agents](https://eml.berkeley.edu/~fechenique/published/sperner.pdf) by [F. Echenique](https://eml.berkeley.edu/~fechenique/index.html) and [A. Wierman](https://adamwierman.com/) <br>
- <u> for Numerical Analysis, [Mathematics PUCP](https://www.pucp.edu.pe/carrera/matematicas/) </u> <br>
+ <u> for Numerical Analysis, Mathematics PUCP </u> <br>
     <details> 
       <summary>
           Summary |
