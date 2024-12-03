@@ -52,7 +52,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [General equilibrium under uncertainty](https://MarceloGallardoB.github.io/files/micro2/general_equilibrium_uncertainty.pdf) 
       
 * [Financial Microeconomics](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-financiera/), 2024-2
-  * Lecture notes with Karen Montoya
+  * Lecture notes with [Karen Montoya](https://www.linkedin.com/in/karen-m-3b9279133/)
     * [Existence Walrasian Equilibrium](https://MarceloGallardoB.github.io/files/micro2/Existencia_Equilibrio_Walrasiano.pdf)
      * [Stolper-Samuelson](https://MarceloGallardoB.github.io/files/micro2/stolper_samuelson.pdf)
      * [2x2x2](https://MarceloGallardoB.github.io/files/micro2/2x2x2.pdf)
