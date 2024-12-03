@@ -48,7 +48,7 @@ Books and working books
 ======
   
 * Linear Algebra and Optimization for Economists - Send for publication to [Fondo Editorial PUCP](https://www.fondoeditorial.pucp.edu.pe/) <br>
- [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u>[Marcelo Gallardo](https://marcelogallardob.github.io/)</u>. <br>
+ [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u> Marcelo Gallardo </u>. <br>
   <details> 
     <summary>
         Summary |
@@ -59,7 +59,7 @@ Books and working books
 
 
 * Optimal Control and Dynamical Systems for Economic Analysis in Continuous Time <br>
- [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u>[Marcelo Gallardo](https://marcelogallardob.github.io/)</u>. <br>
+ [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u> Marcelo Gallardo </u>. <br>
   <details> 
     <summary>
         Summary |
