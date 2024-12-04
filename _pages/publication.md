@@ -72,7 +72,7 @@ Lecture notes
 ======
 
 * Fundamentals of Econometric Theory - R&R to [Decon PUCP](https://departamento-economia.pucp.edu.pe/) <br>
-[Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/) and </u> [Marcelo Gallardo](https://marcelogallardob.github.io/). <br>
+[Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/) and  [Marcelo Gallardo](https://marcelogallardob.github.io/). <br>
   <details> 
     <summary>
         Summary |
