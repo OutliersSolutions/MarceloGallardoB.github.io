@@ -60,6 +60,7 @@ The following documents are not exempt from typos or other errors. In the case o
     * [Expected utility representation](https://MarceloGallardoB.github.io/files/micro2/utilidad_esperada.pdf)
      * [Introduction to game theory](https://MarceloGallardoB.github.io/files/micro2/lecture_notes_juegos.pdf)
      * [Asymmetric information](https://MarceloGallardoB.github.io/files/micro2/informacion_asimetrica.pdf)
+     * [Introduction to contract theory](https://MarceloGallardoB.github.io/files/micro2/teoria_contratos.pdf)
   * Problem sets
     * [Problem set 1](https://MarceloGallardoB.github.io/files/micro2/PD1_Micro_Fin.pdf)
     * [Solutions to problem set 1](https://MarceloGallardoB.github.io/files/micro2/Sol_PD1_Micro_Fin.pdf)
