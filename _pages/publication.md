@@ -18,14 +18,14 @@ Papers and working papers
     </summary> In this paper we introduce two novel models derived from the discrete optimal transport problem. The first model extends the traditional transport problem by adding a quadratic congestion factor directly into the cost function, while the second model replaces conventional constraints with weighted penalization terms. We present theoretical results, for the characterization of interior and corner solution for some specific cases, and we perform smooth comparative statics analysis. We also propose an O((N+L)(NL)2) algorithm for computing the optimal plan for the penalized model assuming interior solutions. Pre-print in arXiv differs slightly from the last version in SSRN.  </details>  
 
 * Irregular wave dynamics driven by a random force within the Burgers equation <br>
-[Marcelo Flamarion](https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-vasconcellos-) and [Marcelo Gallardo](https://marcelogallardob.github.io/). <br>
+[Marcelo Flamarion](https://www.pucp.edu.pe/profesor/marcelo-velloso-flamarion-vasconcellos-) and Marcelo Gallardo. <br>
   <details>    <summary> Abstract |<a href="" role="button" target="_blank">Working paper </a> | 
     </summary> Comming soon!
   </details>  
 
 <!--
 * Harnessing Twitter and GPT for a Novel Political Uncertainty Index for Peru: Implications for USD/PEN Exchange Rate Fluctuations <br>
-[Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), <u> Marcelo Gallardo </u> and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/). <br>
+[Manuel Loaiza](https://github.com/ManuelLoaizaVasquez),  Marcelo Gallardo  and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/). <br>
   <details> 
     <summary>
         Abstract |
@@ -35,7 +35,7 @@ Papers and working papers
 -->
 
 * Innovation and overeducation in Peruvian universities <br>
- <u> Marcelo Gallardo </u> and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/). <br>
+ Marcelo Gallardo and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/). <br>
   <details> 
     <summary>
         Abstract |
@@ -48,7 +48,7 @@ Books and working books
 ======
   
 * Linear Algebra and Optimization for Economists - Send for publication to [Fondo Editorial PUCP](https://www.fondoeditorial.pucp.edu.pe/) <br>
- [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u> Marcelo Gallardo </u>. <br>
+ [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and Marcelo Gallardo. <br>
   <details> 
     <summary>
         Summary |
@@ -59,7 +59,7 @@ Books and working books
 
 
 * Optimal Control and Dynamical Systems for Economic Analysis in Continuous Time <br>
- [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and <u> Marcelo Gallardo </u>. <br>
+ [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and  Marcelo Gallardo . <br>
   <details> 
     <summary>
         Summary |
@@ -72,7 +72,7 @@ Lecture notes
 ======
 
 * Fundamentals of Econometric Theory - R&R to [Decon PUCP](https://departamento-economia.pucp.edu.pe/) <br>
-[Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/) and  [Marcelo Gallardo](https://marcelogallardob.github.io/). <br>
+Marcelo Gallardo and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/) (https://marcelogallardob.github.io/). <br>
   <details> 
     <summary>
         Summary |
@@ -81,7 +81,7 @@ Lecture notes
   </details>
 
 * Notes on Optimal Transport Theory and its Applications in Economics and Finance: The Problems of Entropic Regularization and Computational Methods. <br>
-<u> Marcelo Gallardo</u> and Carlos Cosentino. Supervised by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez) <br>
+ Marcelo Gallardo and Carlos Cosentino. Supervised by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez) <br>
   <details> 
       <summary> Summary | 
         <a href="https://MarceloGallardoB.github.io/files/trabajo_ot_2023.pdf" role="button" target="_blank"> Lecture notes   </a> | 
