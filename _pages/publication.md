@@ -91,7 +91,7 @@ Marcelo Gallardo and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/invest
 Talks
 ======
 
-* Optimal Transport and some other mathematical models with applications in Economics <br>
+* Optimal transport and some other mathematical models with applications in economics <br>
  <u> for ADEEM winter school</u> <br>
  [Certification](https://MarceloGallardoB.github.io/files/adeem.pdf).<br>
     <details> 
