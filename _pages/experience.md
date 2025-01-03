@@ -49,7 +49,7 @@ Teaching Experience
   * 03/2024-07/2024, [Optimization I](https://marcelogallardob.github.io/teaching/). With PhD [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).
   * 03/2024-07/2024, [Functional Analysis](https://marcelogallardob.github.io/teaching/). With PhD [Percy Fernández](https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez).
 
-Research Assistant
+Research Assistance
 ======
 
 * [UNSW](https://www.unsw.edu.au/business/our-schools/economics)
