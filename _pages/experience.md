@@ -55,17 +55,16 @@ Research Assistance
 * [UNSW](https://www.unsw.edu.au/business/our-schools/economics)
   * Working with PhD [Juan Carlos Carbajal](https://sites.google.com/site/carbajaleconomics/home) 
   * 2024-now
-  * Quarter time
-    
+
 * [PUCP](https://www.pucp.edu.pe/carrera/matematicas/)
   * Working with PhD [Jorge Richard Chavez Fuentes](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes)
   * 2022-now.
-  * Part-time
+
     
 * [GRADE](https://www.grade.org.pe/en/) 
   * Working with PhD [Juan León Jara-Almonte](https://www.grade.org.pe/investigadores/personal/jleon/)
   * 2022-2024
-  * Quarter time
+
 
 
 
