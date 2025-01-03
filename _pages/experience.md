@@ -14,7 +14,9 @@ Education
 ======
 
 * Grade (B.s, Lic.) in Mathematics, [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/carrera/matematicas/)
-  * 03/2020 - 05/2025 (E)
+  * 03/2020 - 05/2025 (E)  
+* Baccaluréat Scientifique, Lycée Franco Péruvien.
+  * 03/2017 - 11/2018 
 
 Complementary education
 ======
