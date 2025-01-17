@@ -10,6 +10,8 @@ redirect_from:
 About Me
 ======
 
-I am a fifth-year student at the Pontifical Catholic University of Peru (PUCP), majoring in Mathematics. I am also a teaching and research assistant. I am broadly interested in Microeconomic Theory, Matching Theory, Optimal Control, and Optimal Transport applied to Economics.
+Mathematician from the Pontifical Catholic University of Peru (PUCP) with a concentration in economics. I am also a teaching and research assistant. My research interests include Consumer Theory, Matching Theory, Optimal Control, and Optimal Transport applied to Economics.
+
+I recentyl co-authored two books on applied mathematics for economics.
 
 For more information about my background, please refer to my [CV](https://MarceloGallardoB.github.io/files/cv_mg.pdf).
