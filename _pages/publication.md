@@ -45,7 +45,7 @@ Marcelo Gallardo and [Marcelo Flamarion](https://www.pucp.edu.pe/profesor/marcel
 Books and working books
 ======
   
-* Linear Algebra and Optimization for Economists - Send for publication to [Fondo Editorial PUCP](https://www.fondoeditorial.pucp.edu.pe/) <br>
+* Linear Algebra and Optimization for Economists - Sent for publication to [Fondo Editorial PUCP](https://www.fondoeditorial.pucp.edu.pe/) <br>
  [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and Marcelo Gallardo. <br>
   <details> 
     <summary>
