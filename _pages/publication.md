@@ -56,7 +56,7 @@ Books and working books
   </details>
 
 
-* Optimal Control and Dynamical Systems for Economic Analysis in Continuous Time <br>
+* Dynamical Systems and Optimal Control for Economists <br>
  [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and  Marcelo Gallardo . <br>
   <details> 
     <summary>
