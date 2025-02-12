@@ -56,7 +56,7 @@ Books and working books
   </details>
 
 
-* Dynamical Systems and Optimal Control for Economists - Under review ([Springer Verlag](https://www.springer.com/la?srsltid=AfmBOoqdNkvgq1IHhOvi2nGJhgss-fVtpzDGsP6dFNOO5l9MH9K5piWV)) <br>
+* Dynamical Systems and Optimal Control for Economists - Under review <br>
  [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and  Marcelo Gallardo . <br>
   <details> 
     <summary>
