@@ -23,7 +23,7 @@ Marcelo Gallardo and [Marcelo Flamarion](https://www.pucp.edu.pe/profesor/marcel
     </summary> In this article, we study the classical Burgers equation as a model for random fields. First, we consider initial data defined as a sum of harmonics with random phases and compute the blow-up time. Several simulations are performed, revealing that, while the critical blow-up time is approximately distributed according to a Gaussian law, the statistical tests reject the normality hypothesis. For the viscous case, we analyze waves driven by a random force. Using the Cole-Hopf transformation, the averaged wave field is computed numerically. Through a change of variables, we demonstrate that randomness primarily affects the phase of the wave field. Assuming the phase follows a uniform distribution, we show that the averaged field spreads and diminishes over time.
   </details>  
 
-* New: X political and economic uncertainty index for Peru <br>
+* New: X political and economic uncertainty index for Peru - New version coming soon <br>
 [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez),  Marcelo Gallardo  and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/). <br>
   <details> 
     <summary>
@@ -32,7 +32,7 @@ Marcelo Gallardo and [Marcelo Flamarion](https://www.pucp.edu.pe/profesor/marcel
     </summary> In this paper we construct and examine the impact of political-economic uncertainty on key macroeconomic variables, focusing on the Lima Stock Exchange (BVL) and the USD/PEN exchange rate. The construction of the uncertainty index is based on social media analysis, using tweets from influential Peruvian figures (2018-2023). These tweets are analyzed and classified by GPT-3.5 Turbo to assess their stance on Peru’s political and economic situation, generating a political-economic uncertainty time series. The aggregation is performed following novel machine learning techniques. We then test the correlation between this index, BVL returns, and exchange rate fluctuations. To capture the effects of uncertainty on market volatility, we consider GARCH models, which allow for a robust analysis of conditional variance dynamics.
   </details>  
 
-* Innovation and overeducation in Peruvian universities <br>
+* Innovation and overeducation in Peruvian universities - New version coming soon <br>
  Marcelo Gallardo and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/). <br>
   <details> 
     <summary>
