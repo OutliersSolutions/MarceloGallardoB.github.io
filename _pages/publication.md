@@ -63,7 +63,7 @@ Books and working books
         Summary |
         <a href="https://MarceloGallardoB.github.io/files/index_dynamical_systems_optimal_control.pdf" role="button" target="_blank"> Working book </a> | 
     </summary>
-  Working book about Dynamical Systems and Optimal Control in Continuous Time for Economists. Ordinary scalar differential equations, linear systems, nonlinear systems, calculus of variations, and optimal control theory. Applications to economic models include Solow's model, Ramsey‑Cass‑Koopsman model and Tobin's Q.
+  Working book about Dynamical Systems and Optimal Control in Continuous Time for Economists. Ordinary scalar differential equations, linear systems, nonlinear systems, calculus of variations, and optimal control theory. Applications to economic models include Solow's model, Ramsey‑Cass‑Koopsman's model, Tobin's Q, and many others.
   </details>
 
 Lecture notes
