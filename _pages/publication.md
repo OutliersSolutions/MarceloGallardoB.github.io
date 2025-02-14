@@ -32,7 +32,7 @@ Marcelo Gallardo and [Marcelo Flamarion](https://www.pucp.edu.pe/profesor/marcel
     </summary> In this paper we construct and examine the impact of political-economic uncertainty on key macroeconomic variables, focusing on the Lima Stock Exchange (BVL) and the USD/PEN exchange rate. The construction of the uncertainty index is based on social media analysis, using tweets from influential Peruvian figures (2018-2023). These tweets are analyzed and classified by GPT-3.5 Turbo to assess their stance on Peru’s political and economic situation, generating a political-economic uncertainty time series. The aggregation is performed following novel machine learning techniques. We then test the correlation between this index, BVL returns, and exchange rate fluctuations. To capture the effects of uncertainty on market volatility, we consider GARCH models, which allow for a robust analysis of conditional variance dynamics.
   </details>  
 
-* Novel innovation indicator for Peruvian universities - Under review soon <br>
+* Novel innovation indicator for Peruvian universities - Under review <br>
  Marcelo Gallardo and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/). <br>
   <details> 
     <summary>
@@ -69,7 +69,7 @@ Books and working books
 Lecture notes
 ======
 
-* Fundamentals of Econometric Theory - Published at [Decon PUCP](https://departamento-economia.pucp.edu.pe/) <br>
+* Fundamentals of Econometric Theory - Published at [Decon PUCP](https://departamento-economia.pucp.edu.pe/investigacion/materiales-de-ensenanza) <br>
 Marcelo Gallardo and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/) . <br>
   <details> 
     <summary>
