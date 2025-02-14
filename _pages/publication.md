@@ -69,7 +69,7 @@ Books and working books
 Lecture notes
 ======
 
-* Fundamentals of Econometric Theory - To appear in [Decon PUCP](https://departamento-economia.pucp.edu.pe/) <br>
+* Fundamentals of Econometric Theory - Published at [Decon PUCP](https://departamento-economia.pucp.edu.pe/) <br>
 Marcelo Gallardo and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/) . <br>
   <details> 
     <summary>
