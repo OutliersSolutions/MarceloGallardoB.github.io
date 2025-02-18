@@ -78,7 +78,7 @@ Marcelo Gallardo and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/invest
     </summary> These lecture notes offer a deep dive into econometrics, structured around key themes from matrix algebra basics to statistical models. The content begins with foundational matrix operations and their relevance to econometrics, advancing to the multivariate models with a focus on linear models and optimization issues. It also addresses qualitative variables, sampling methods, and experimental designs. Crucial econometric challenges such as multicollinearity, parameter stability, heteroscedasticity, and serial autocorrelation are thoroughly examined, alongside detection and correction techniques. The notes culminate in discussions on more advanced topics like instrumental variables, maximum likelihood estimation, and an appendix on probability theory, equipping readers with a broad understanding of econometric analysis and application. New: second version will include more examples and an introduction to time series. 
   </details>
 
-* Notes on Optimal Transport Theory and its Applications in Economics and Finance: The Problems of Entropic Regularization and Computational Methods. <br>
+* Notes on Optimal Transport Theory and its Applications in Economics and Finance. <br>
  Marcelo Gallardo and Carlos Cosentino. Final project for the course Introduction to Optimal Transport, taught by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez) <br>
   <details> 
       <summary> Summary | 
