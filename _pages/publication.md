@@ -69,7 +69,7 @@ based on Twitter and GTP-3.5 Turbo - New version coming soon <br>
 Books
 ======
   
-* Linear Algebra and Optimization for Economists - Sent for publication to [Fondo Editorial PUCP](https://www.fondoeditorial.pucp.edu.pe/) <br>
+* Linear Algebra and Optimization for Economists - Submitted to [Fondo Editorial PUCP](https://www.fondoeditorial.pucp.edu.pe/) <br>
  [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes) and Marcelo Gallardo. <br>
   <details> 
     <summary>
