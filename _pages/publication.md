@@ -92,7 +92,7 @@ Lecture notes
 ======
 
 * Fundamentals of Econometric Theory - Published at [Decon PUCP](https://departamento-economia.pucp.edu.pe/investigacion/materiales-de-ensenanza) <br>
-Marcelo Gallardo and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/) . <br>
+[Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/) and Marcelo Gallardo. <br>
   <details> 
     <summary>
         Summary |
