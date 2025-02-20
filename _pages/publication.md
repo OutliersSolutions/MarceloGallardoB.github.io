@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Papers and working papers
+Completed Papers 
 ======
 
 * [Congestion and Penalization in Optimal Transport](https://arxiv.org/pdf/2410.07363) - Under review <br>
@@ -23,14 +23,6 @@ Marcelo Gallardo and [Marcelo Flamarion](https://www.pucp.edu.pe/profesor/marcel
     </summary> In this article, we study the classical Burgers equation as a model for random fields. First, we consider initial data defined as a sum of harmonics with random phases and compute the blow-up time. Several simulations are performed, revealing that, while the critical blow-up time is approximately distributed according to a Gaussian law, the statistical tests reject the normality hypothesis. For the viscous case, we analyze waves driven by a random force. Using the Cole-Hopf transformation, the averaged wave field is computed numerically. Through a change of variables, we demonstrate that randomness primarily affects the phase of the wave field. Assuming the phase follows a uniform distribution, we show that the averaged field spreads and diminishes over time.
   </details>  
 
-* New: X political and economic uncertainty index for Peru - New version coming soon <br>
-[Manuel Loaiza](https://github.com/ManuelLoaizaVasquez),  Marcelo Gallardo  and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/). <br>
-  <details> 
-    <summary>
-        Abstract |
-        <a href="" role="button" target="_blank"> Working paper </a> | 
-    </summary> In this paper we construct and examine the impact of political-economic uncertainty on key macroeconomic variables, focusing on the Lima Stock Exchange (BVL) and the USD/PEN exchange rate. The construction of the uncertainty index is based on social media analysis, using tweets from influential Peruvian figures (2018-2023). These tweets are analyzed and classified by GPT-3.5 Turbo to assess their stance on Peru’s political and economic situation, generating a political-economic uncertainty time series. The aggregation is performed following novel machine learning techniques. We then test the correlation between this index, BVL returns, and exchange rate fluctuations. To capture the effects of uncertainty on market volatility, we consider GARCH models, which allow for a robust analysis of conditional variance dynamics.
-  </details>  
 
 * Novel innovation indicator for Peruvian universities - Under review <br>
  Marcelo Gallardo and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/). <br>
@@ -40,6 +32,32 @@ Marcelo Gallardo and [Marcelo Flamarion](https://www.pucp.edu.pe/profesor/marcel
         <a href="https://MarceloGallardoB.github.io/files/innovation_peruvian_universities.pdf" role="button" target="_blank"> Working paper </a> | 
     </summary> This paper proposes an innovation indicator for Peruvian universities, focusing on scientific innovation in fields such as engineering and pure sciences. The indicator is constructed using a selected dataset and confirmatory factor analysis (CFA) to ensure robust measurement, with Tucker-Lewis Index (TLI) and Comparative Fit Index (CFI) used to validate the model fit. K-means clustering is applied to identify innovation clusters among universities. Its validity is examined through standard correlation with university rankings and econometric analysis linking the indicator with wage per hour and overeducation. To address potential sample selection bias, we implement a Heckman two-step correction, incorporating the inverse Mills ratio (IMR) into the wage equation. Additionally, we correct for heteroscedasticity by employing heteroscedasticity-robust standard errors (HC3) and assess model reliability through diagnostic tests such as the Breusch-Pagan and White tests.
   </details>  
+
+
+Working Papers 
+======
+
+* New: X political and economic uncertainty index for Peru - New version coming soon <br>
+[Manuel Loaiza](https://github.com/ManuelLoaizaVasquez),  Marcelo Gallardo  and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/). <br>
+  <details> 
+    <summary>
+        Abstract |
+        <a href="" role="button" target="_blank"> Working paper </a> | 
+    </summary> In this paper we construct and examine the impact of political-economic uncertainty on key macroeconomic variables, focusing on the Lima Stock Exchange (BVL) and the USD/PEN exchange rate. The construction of the uncertainty index is based on social media analysis, using tweets from influential Peruvian figures (2018-2023). These tweets are analyzed and classified by GPT-3.5 Turbo to assess their stance on Peru’s political and economic situation, generating a political-economic uncertainty time series. The aggregation is performed following novel machine learning techniques. We then test the correlation between this index, BVL returns, and exchange rate fluctuations. To capture the effects of uncertainty on market volatility, we consider GARCH models, which allow for a robust analysis of conditional variance dynamics.
+  </details>  
+
+* Price Information and Oligopolistic Competition with Seller Cost Uncertainty and Advertising <br>
+[Marcelo Gallardo](https://marcelogallardob.github.io/),  [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez) and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes). <br>
+  <details> 
+    <summary>
+        Abstract |
+        <a href="" role="button" target="_blank"> Working paper </a> | 
+    </summary> We build on Martinelli and Xiao (2024) by introducing a new model for oligopolistic competition that incorporates seller cost uncertainty and advertising. Unlike Martinelli and Xiao (2024), our model explicitly includes advertising. This addition leads to a more complex expression for expected demand, yet more flexible as it accounts for the impact of advertising expenditures by each firm. We present two scenarios: one where advertising is exogenous and the
+optimization focuses solely on pricing, and another where advertising is treated as an endogenous
+decision variable. For the exogenous case with J = 2, we derive analytical results, while for the
+remaining cases, we conduct a numerical analysis. 
+  </details>  
+
 
 
 Books and working books
