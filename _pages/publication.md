@@ -37,13 +37,14 @@ Marcelo Gallardo and [Marcelo Flamarion](https://www.pucp.edu.pe/profesor/marcel
 Working Papers 
 ======
 
-* New: X political and economic uncertainty index for Peru - New version coming soon <br>
+* Political and economic uncertainty indicator for Peru
+based on Twitter and GTP-3.5 Turbo - New version coming soon <br>
 [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez),  Marcelo Gallardo  and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/). <br>
   <details> 
     <summary>
         Abstract |
         <a href="" role="button" target="_blank"> Working paper </a> | 
-    </summary> In this paper we construct and examine the impact of political-economic uncertainty on key macroeconomic variables, focusing on the Lima Stock Exchange (BVL) and the USD/PEN exchange rate. The construction of the uncertainty index is based on social media analysis, using tweets from influential Peruvian figures (2018-2023). These tweets are analyzed and classified by GPT-3.5 Turbo to assess their stance on Peru’s political and economic situation, generating a political-economic uncertainty time series. The aggregation is performed following novel machine learning techniques. We then test the correlation between this index, BVL returns, and exchange rate fluctuations. To capture the effects of uncertainty on market volatility, we consider GARCH models, which allow for a robust analysis of conditional variance dynamics.
+    </summary> In this paper, we focus on developing a new political-economic uncertainty index based on tweets from influential figures in Peruvian politics and economics with accounts on Twitter (now X) from 2018 to 2023. These tweets are analyzed and classified using GPT-3.5 Turbo to determine their stance on Peru’s political and economic landscape, generating a time series of political-economic uncertainty. The aggregation process employs novel machine learning techniques to enhance the robustness of the index. To evaluate the impact of this index, we conduct time series and count-based econometric analyses using key macroeconomic variables, such as the Lima Stock Exchange (BVL) returns and the USD/PEN exchange rate.
   </details>  
 
 * Price Information and Oligopolistic Competition with Seller Cost Uncertainty and Advertising <br>
