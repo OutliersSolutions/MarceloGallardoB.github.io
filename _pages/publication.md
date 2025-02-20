@@ -109,7 +109,7 @@ Marcelo Gallardo and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/invest
         <a href="https://MarceloGallardoB.github.io/files/books/optimal_transport_para_economistas.pdf" role="button" target="_blank"> Lecture notes   </a> | 
       </summary> This document discusses applications of optimal transport theory in economics and finance, with a focus on computational methods like entropic regularization and the Sinkhorn-Knopp algorithm. It covers topics such as matching markets, cost structure estimation, Credit Value Adjustment, and risk measures, aiming to provide detailed explanations and translations of complex results for students with a strong mathematical background. The document includes an appendix to support understanding and is intended for advanced students interested in economic and financial applications of optimal transport. </details>
 
-* About Brouwer fixed point theorem and its applications in general equilibrium <br>
+* About Brouwer fixed point theorem and its application in general equilibrium <br>
  Marcelo Gallardo, Carlos Cosentino and Eduardo Llamoca.  <br>
   <details> 
       <summary> Summary | 
