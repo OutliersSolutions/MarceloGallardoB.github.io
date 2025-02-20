@@ -55,13 +55,13 @@ Working Papers
   </details>  
 
 
-* Price Information and Oligopolistic Competition with Seller Cost Uncertainty and Advertising - New version coming soon <br>
+* Price Information and Duopolistic Competition with Seller Cost Uncertainty and Advertising - New version coming soon <br>
 [Marcelo Gallardo](https://marcelogallardob.github.io/),  [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez) and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes). <br>
   <details> 
     <summary>
         Abstract |
-        <a href="" role="button" target="_blank"> Working paper </a> | 
-    </summary> We build on Martinelli and Xiao (2024) by introducing a new model for oligopolistic competition that incorporates seller cost uncertainty and advertising. Unlike Martinelli and Xiao (2024), our model explicitly includes advertising. This addition leads to a more complex expression for expected demand, yet more flexible as it accounts for the impact of advertising expenditures by each firm. We present two scenarios: one where advertising is exogenous and the optimization focuses solely on pricing, and another where advertising is treated as an endogenous decision variable. For the exogenous case with J = 2, we derive analytical results, while for the remaining cases, we conduct a numerical analysis. 
+        <a href="https://MarceloGallardoB.github.io/files/papers/" role="button" target="_blank"> Working paper </a> | 
+    </summary> We build on \cite{martinelli2024} by introducing a new model of duopolistic competition that incorporates seller cost uncertainty and advertising. Unlike \cite{martinelli2024}, our model explicitly includes advertising as a decision variable, leading to a more intricate yet realistic formulation of expected demand. This extension captures the impact of advertising expenditures by each firm, adding a crucial strategic dimension to the analysis. Although our model is formulated for an arbitrary positive integer number of firms, most of our analysis focuses on the case of two firms, placing it within the framework of a duopoly. This choice is driven by the algebraic complexity introduced by advertising, which significantly complicates the transition to a more general setting. We examine two scenarios: one where advertising is exogenous, limiting the optimization to pricing decisions, and another where advertising is treated as an endogenous strategic variable. For the exogenous case with \( J = 2 \), we derive analytical results, while for the more general cases, we rely on numerical analysis to explore the equilibrium outcomes.
   </details>  
 
 
@@ -74,7 +74,7 @@ Books
   <details> 
     <summary>
         Summary |
-        <a href="https://MarceloGallardoB.github.io/files/Index ALOECO.pdf" role="button" target="_blank"> Pre published book </a> | 
+        <a href="https://MarceloGallardoB.github.io/files/books/Index_ALOECO.pdf" role="button" target="_blank"> Pre published book </a> | 
     </summary>
   Pre-published book about Linear Algebra and Static Optimization for Economists. Linear algebra, topology in normed vector spaces, convex analysis, unconstrained static optimization, constrained static optimization, smooth comparative statics, preferences, consumer theory, pure exchange economies, and other economic applications.
   </details>
@@ -85,7 +85,7 @@ Books
   <details> 
     <summary>
         Summary |
-        <a href="https://MarceloGallardoB.github.io/files/index_dynamical_systems_optimal_control.pdf" role="button" target="_blank"> Working book </a> | 
+        <a href="https://MarceloGallardoB.github.io/files/books/Index_DSOC.pdf" role="button" target="_blank"> Working book </a> | 
     </summary>
   Working book about Dynamical Systems and Optimal Control in Continuous Time for Economists. Ordinary scalar differential equations, linear systems, nonlinear systems, calculus of variations, and optimal control theory. Applications to economic models include Solow's model, Ramsey‑Cass‑Koopsman's model, Tobin's Q, and many others.
   </details>
@@ -102,12 +102,21 @@ Marcelo Gallardo and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/invest
     </summary> These lecture notes offer a deep dive into econometrics, structured around key themes from matrix algebra basics to statistical models. The content begins with foundational matrix operations and their relevance to econometrics, advancing to the multivariate models with a focus on linear models and optimization issues. It also addresses qualitative variables, sampling methods, and experimental designs. Crucial econometric challenges such as multicollinearity, parameter stability, heteroscedasticity, and serial autocorrelation are thoroughly examined, alongside detection and correction techniques. The notes culminate in discussions on more advanced topics like instrumental variables, maximum likelihood estimation, and an appendix on probability theory, equipping readers with a broad understanding of econometric analysis and application. New: second version will include more examples and an introduction to time series. 
   </details>
 
-* Notes on Optimal Transport Theory and its Applications in Economics and Finance. <br>
+* Notes on Optimal Transport Theory and its Applications in Economics and Finance <br>
  Marcelo Gallardo and Carlos Cosentino. Final project for the course Introduction to Optimal Transport, taught by [Johel Beltrán](https://emap.fgv.br/en/professors/johel-victorino-beltran-ramirez) <br>
   <details> 
       <summary> Summary | 
-        <a href="https://MarceloGallardoB.github.io/files/optimal_transport_para_economistas.pdf" role="button" target="_blank"> Lecture notes   </a> | 
+        <a href="https://MarceloGallardoB.github.io/files/books/optimal_transport_para_economistas.pdf" role="button" target="_blank"> Lecture notes   </a> | 
       </summary> This document discusses applications of optimal transport theory in economics and finance, with a focus on computational methods like entropic regularization and the Sinkhorn-Knopp algorithm. It covers topics such as matching markets, cost structure estimation, Credit Value Adjustment, and risk measures, aiming to provide detailed explanations and translations of complex results for students with a strong mathematical background. The document includes an appendix to support understanding and is intended for advanced students interested in economic and financial applications of optimal transport. </details>
+
+* About Brouwer fixed point theorem and its applications in general equilibrium <br>
+ Marcelo Gallardo, Carlos Cosentino and Eduardo Llamoca.  <br>
+  <details> 
+      <summary> Summary | 
+        <a href="https://MarceloGallardoB.github.io/files/books/brouwer_fixed_point_theorem.pdf" role="button" target="_blank"> Lecture notes   </a> | 
+      </summary> We develop a path towards the proof of Brouwer's Fixed Point Theorem. We also present an application in economic theory: the existence of the Walrasian Equilibrium. We aim to provide the simplest, or at least one of the simplest, proofs for Brouwer's Fixed Point Theorem. The only requirements are real analysis and general topology. Besides one Lemma which is not proved in its most general case, we prove all the results building up to the main theorem. It is important to emphasize that this work does not seek to be original or innovative, we do not introduce any new results in the literature. Our goal is to develop a clear and understandable approach to Brouwer's Fixed Point Theorem and its applications in general equilibrium. </details>
+
+
 
 
 Academic presentations
@@ -123,7 +132,7 @@ Academic presentations
       </summary> Seminar for the Winter School 2023 organized by the Association of Students and Alumni of Mathematics and the Association of Physics Students of PUCP. Based on Alfred Galichon's book, Optimal transport methods in economics, and his co-autohored paper SISTA: learning optimal transport costs under sparsity constraints.   
     </details>
 
-* On the conference paper [Finding a Walrasian equilibrium is easy for a fixed number of agents](https://eml.berkeley.edu/~fechenique/published/sperner.pdf) by [F. Echenique](https://eml.berkeley.edu/~fechenique/index.html) and [A. Wierman](https://adamwierman.com/) <br>
+* On the conference paper [Finding a Walrasian equilibrium is easy for a fixed number of agents](https://eml.berkeley.edu/~fechenique/published/sperner.pdf) by [F. Echenique](https://eml.berkeley.edu/~fechenique/index.html) and [A. Wierman](https://adamwierman.com/)<br>
  <u> for Numerical Analysis, Mathematics PUCP </u> <br>
     <details> 
       <summary>
