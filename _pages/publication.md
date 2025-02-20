@@ -73,7 +73,7 @@ Books
   <details> 
     <summary>
         Summary |
-        <a href="https://MarceloGallardoB.github.io/files/books/Index_ALOECO.pdf" role="button" target="_blank"> Pre published book </a> | 
+        <a href="https://MarceloGallardoB.github.io/files/books/Index_ALOECO.pdf" role="button" target="_blank"> Index </a> | 
     </summary>
   Pre-published book about Linear Algebra and Static Optimization for Economists. Linear algebra, topology in normed vector spaces, convex analysis, unconstrained static optimization, constrained static optimization, smooth comparative statics, preferences, consumer theory, pure exchange economies, and other economic applications.
   </details>
@@ -84,7 +84,7 @@ Books
   <details> 
     <summary>
         Summary |
-        <a href="https://MarceloGallardoB.github.io/files/books/Index_DSOC.pdf" role="button" target="_blank"> Working book </a> | 
+        <a href="https://MarceloGallardoB.github.io/files/books/Index_DSOC.pdf" role="button" target="_blank"> Index </a> | 
     </summary>
   Working book about Dynamical Systems and Optimal Control in Continuous Time for Economists. Ordinary scalar differential equations, linear systems, nonlinear systems, calculus of variations, and optimal control theory. Applications to economic models include Solow's model, Ramsey‑Cass‑Koopsman's model, Tobin's Q, and many others.
   </details>
