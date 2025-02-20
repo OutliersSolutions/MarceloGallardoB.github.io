@@ -45,8 +45,7 @@ Marcelo Gallardo and [Marcelo Flamarion](https://www.pucp.edu.pe/profesor/marcel
 Working Papers 
 ======
 
-* Political and economic uncertainty indicator for Peru
-based on Twitter and GTP-3.5 Turbo - New version coming soon <br>
+* Political and economic uncertainty indicator for Peru based on Twitter and GTP-3.5 Turbo - New version coming soon <br>
 [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez),  Marcelo Gallardo  and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/). <br>
   <details> 
     <summary>
@@ -55,8 +54,6 @@ based on Twitter and GTP-3.5 Turbo - New version coming soon <br>
 " role="button" target="_blank"> Working paper </a> | 
     </summary> In this paper, we focus on developing a new political-economic uncertainty index based on tweets from influential figures in Peruvian politics and economics with accounts on Twitter (now X) from 2018 to 2023. These tweets are analyzed and classified using GPT-3.5 Turbo to determine their stance on Peru’s political and economic landscape, generating a time series of political-economic uncertainty. The aggregation process employs novel machine learning techniques to enhance the robustness of the index. To evaluate the impact of this index, we conduct time series and count-based econometric analyses using key macroeconomic variables, such as the Lima Stock Exchange (BVL) returns and the USD/PEN exchange rate.
   </details>  
-
-
 
 
 * Price Information and Oligopolistic Competition with Seller Cost Uncertainty and Advertising - New version coming soon <br>
