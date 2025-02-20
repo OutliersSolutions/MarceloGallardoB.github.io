@@ -58,7 +58,7 @@ based on Twitter and GTP-3.5 Turbo - New version coming soon <br>
 
 
 
-Books and working books
+Books
 ======
   
 * Linear Algebra and Optimization for Economists - Sent for publication to [Fondo Editorial PUCP](https://www.fondoeditorial.pucp.edu.pe/) <br>
