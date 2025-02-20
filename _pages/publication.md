@@ -53,8 +53,7 @@ based on Twitter and GTP-3.5 Turbo - New version coming soon <br>
     <summary>
         Abstract |
         <a href="" role="button" target="_blank"> Working paper </a> | 
-    </summary> We build on Martinelli and Xiao (2024) by introducing a new model for oligopolistic competition that incorporates seller cost uncertainty and advertising. Unlike Martinelli and Xiao (2024), our model explicitly includes advertising. This addition leads to a more complex expression for expected demand, yet more flexible as it accounts for the impact of advertising expenditures by each firm. We present two scenarios: one where advertising is exogenous and the
-optimization focuses solely on pricing, and another where advertising is treated as an endogenous decision variable. For the exogenous case with J = 2, we derive analytical results, while for the remaining cases, we conduct a numerical analysis. 
+    </summary> We build on Martinelli and Xiao (2024) by introducing a new model for oligopolistic competition that incorporates seller cost uncertainty and advertising. Unlike Martinelli and Xiao (2024), our model explicitly includes advertising. This addition leads to a more complex expression for expected demand, yet more flexible as it accounts for the impact of advertising expenditures by each firm. We present two scenarios: one where advertising is exogenous and the optimization focuses solely on pricing, and another where advertising is treated as an endogenous decision variable. For the exogenous case with J = 2, we derive analytical results, while for the remaining cases, we conduct a numerical analysis. 
   </details>  
 
 
