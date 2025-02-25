@@ -1,5 +1,14 @@
 # main links links
 main:
   - title: "Home"
-    url: /    
+    url: /
+
+  - title: "Education & experience"
+    url: /experience/
+
+  - title: "Books & papers"
+    url: /publication/
+
+  - title: "Teaching"
+    url: /teaching/
 

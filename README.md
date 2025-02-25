@@ -56,5 +56,3 @@ Deberías ver la versión instalada de Ruby.
    Esto ejecutará el servidor y se mostrará la URL para visualizar tu sitio en el navegador.
 
 ---
-
-¡Con estos pasos tendrás tu entorno listo para desarrollar y visualizar tu sitio localmente!
