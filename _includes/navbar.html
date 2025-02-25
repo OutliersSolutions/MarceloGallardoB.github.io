@@ -1,9 +1,9 @@
-
-
 <nav>
-    <ul>
-      {% for link in site.data.navigation.main %}
+  <ul>
+    {% for link in site.data.navigation.main %}
+      {% unless link.url contains '/courses/' %}
         <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </nav>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</nav>
