@@ -164,6 +164,43 @@ img {
     border-radius: 15px;
 }
 
+
+nav {
+    background-color: #fff;
+    padding: 10px 0;
+    margin-bottom: 50px;
+    ul {
+      list-style: none;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  
+      li {
+        margin: 0 15px;
+  
+        a {
+          text-decoration: none;
+          color: #333;
+          font-size: 16px;
+          font-weight: 500;
+          transition: color 0.3s ease;
+          animation: all 300ms ease;
+  
+          &:hover {
+            color: #007BFF;
+            border-bottom: 2px solid #007BFF;
+            animation: all 300ms ease;
+          }
+        }
+      }
+    }
+  }
+  
+
+
 // Header
 header {
     width: 270px;
