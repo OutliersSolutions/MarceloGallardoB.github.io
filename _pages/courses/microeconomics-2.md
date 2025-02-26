@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: pages
 title: "Microeconomics II - 2024-2"
 permalink: /courses/microeconomics-2/
 ---

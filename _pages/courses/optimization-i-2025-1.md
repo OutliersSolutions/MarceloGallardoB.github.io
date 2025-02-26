@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: pages
 title: "Optimization I - 2025-1"
 permalink: /courses/optimization-i-2025-1/
 ---

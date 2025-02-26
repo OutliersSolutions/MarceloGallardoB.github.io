@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: pages
 title: "Books & papers"
 permalink: /publication/
 ---

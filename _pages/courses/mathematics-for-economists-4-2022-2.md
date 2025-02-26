@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: pages
 title: "Mathematics for Economists 4 - 2022-2"
 permalink: /courses/mathematics-for-economists-4-2022-2/
 ---

@@ -27,7 +27,7 @@
   src: url("../fonts/Noto-Sans-700italic.eot?#iefix") format("embedded-opentype"), local("Noto Sans Bold Italic"), local("Noto-Sans-700italic"), url("../fonts/Noto-Sans-700italic.woff2") format("woff2"), url("../fonts/Noto-Sans-700italic.woff") format("woff"), url("../fonts/Noto-Sans-700italic.ttf") format("truetype"), url("../fonts/Noto-Sans-700italic.svg#NotoSans") format("svg");
 }
 body {
-  background-color: #fff;
+  background-color: #EBF0F5;
   padding: 50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #3b3b3b;
@@ -98,6 +98,10 @@ h1 {
 
 h2 {
   color: #000000;
+}
+
+#profile-name {
+  margin-top: 15px;
 }
 
 h3,
@@ -180,7 +184,7 @@ img {
 }
 
 nav {
-  background-color: #fff;
+  background-color: #EBF0F5;
   padding: 10px 0;
   margin-bottom: 50px;
 }
@@ -201,65 +205,122 @@ nav ul li a {
   color: #333;
   font-size: 16px;
   font-weight: 500;
+  position: relative;
   transition: color 0.3s ease;
-  animation: all 300ms ease;
 }
 nav ul li a:hover {
   color: #007BFF;
-  border-bottom: 2px solid #007BFF;
-  animation: all 300ms ease;
+  transition: color 0.3s ease 100ms;
+}
+nav ul li a::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 2px;
+  background-color: #007BFF;
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s ease 100ms;
+}
+nav ul li a:hover::after {
+  transform: scaleX(1);
 }
 
 header {
   width: 270px;
   float: right;
   -webkit-font-smoothing: subpixel-antialiased;
+  text-align: center;
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ddd;
+}
+header #img-profile {
+  border-radius: 15px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+header #profile-name {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+header p {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 20px;
+}
+header hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #ccc, transparent);
+  margin: 10px 0;
+}
+header .contact {
+  background: #EBF0F5;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 14px;
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 10px;
+}
+header h4 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #444;
+  margin-top: 15px;
+  text-transform: uppercase;
 }
 header ul {
   list-style: none;
-  height: 40px;
   padding: 0;
-  background: #f4f4f4;
-  border-radius: 5px;
-  border: 1px solid #e0e0e0;
-  width: 270px;
+  margin: 0;
 }
 header ul li {
-  width: 89px;
-  float: left;
-  border-right: 1px solid #e0e0e0;
-  height: 40px;
-}
-header ul li:first-child a {
-  border-radius: 5px 0 0 5px;
-}
-header ul li:last-child a {
-  border-radius: 0 5px 5px 0;
-}
-header ul li a {
-  line-height: 1;
-  font-size: 11px;
-  color: #676767;
-  display: block;
-  text-align: center;
-  padding-top: 6px;
-  height: 34px;
-}
-header ul li a:hover, header ul li a:focus {
-  color: #675C5C;
-  font-weight: bold;
-}
-header ul li a:active {
-  background-color: #f0f0f0;
-}
-header ul li a strong {
   font-size: 14px;
-  display: block;
-  color: #222;
+  color: #666;
+  background: #EBF0F5;
+  padding: 5px 10px;
+  margin-bottom: 5px;
+  border-radius: 4px;
 }
-header ul li + li + li {
-  border-right: none;
-  width: 89px;
+
+.research-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 10px;
+}
+.research-cards .research-card {
+  background: #f9f9f9;
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: background 0.3s ease;
+}
+.research-cards .research-card:hover {
+  background: #EBF0F5;
+}
+
+#contact ul.social-links {
+  padding: 0px;
+}
+#contact ul.social-links li {
+  list-style: none;
+  margin: 15px;
+}
+#contact ul.social-links li a {
+  transition: transform 0.3s ease;
 }
 
 section {
@@ -575,4 +636,36 @@ footer {
     font-size: 12pt;
     color: #444;
   }
+}
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  padding: 20px;
+  box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+  background-color: #f9f9f9a1;
+  margin-bottom: 15px;
+}
+.card .card-header {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+.card .card-header img {
+  max-width: 40px;
+  height: auto;
+}
+.card .card-body {
+  flex: 11;
+  padding: 5px;
+}
+.card .card-body .card-title {
+  font-size: 15px;
+  margin: 0px;
+  margin-bottom: 15px;
+}
+.card .card-body .card-text {
+  margin: 0px;
 }

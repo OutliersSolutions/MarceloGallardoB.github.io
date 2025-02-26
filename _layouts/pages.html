@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        {% include head.html %}
+        <style>
+            section {
+                width: 100%;
+            }
+            header{
+                display: none;
+            }
+        </style>
+    </head>
+    <body>
+
+        {% include navbar.html %}
+
+        <div class="wrapper">
+
+            <!-- Aquí se carga el contenido de cada página -->
+
+            <main>
+                {{ content }}
+            </main>
+
+            {% include footer.html %}
+        </div>
+        {% include scripts.html %}
+    </body>
+</html>

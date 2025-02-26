@@ -12,6 +12,12 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Academic Presentations"
+    url: /academic-presentation/
+
+  - title: "Information Contact"
+    url: /contact/
+
 # Estas de abajo no quiero que se muestren en mi links navbars:
 
   - title: "Microeconomics II - 2024-2"
