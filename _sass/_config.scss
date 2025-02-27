@@ -5,7 +5,21 @@ body {
     font: 14px/1.5 $base-font;
     color: $text-color;
     font-weight: 400;
+    height: 100%;
 }
+
+.wrapper {
+    flex: 1; 
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1060px;
+    margin: 0 auto;
+}
+
+main {
+    flex: 1;
+}
+
 
 h1,
 h2,
@@ -112,11 +126,6 @@ a {
     }
 }
 
-.wrapper {
-    width: 1060px;
-    margin: 0 auto;
-}
-
 blockquote {
     border-left: 1px solid #e5e5e5;
     margin: 0;
@@ -196,7 +205,7 @@ nav {
 
                 &:hover {
                     color: #007BFF;
-                    transition: color 0.3s ease 100ms; // Delay de 100ms en la transición del color
+                    transition: color 0.3s ease 100ms;
                 }
 
                 &::after {
@@ -206,11 +215,11 @@ nav {
                     height: 2px;
                     background-color: #007BFF;
                     position: absolute;
-                    bottom: -4px; // Aumenta la separación del borde con el texto
+                    bottom: -4px;
                     left: 0;
                     transform: scaleX(0);
                     transform-origin: left;
-                    transition: transform 0.3s ease 100ms; // Delay en la animación del borde
+                    transition: transform 0.3s ease 100ms;
                 }
 
                 &:hover::after {
@@ -223,23 +232,36 @@ nav {
 }
 
 
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul li {
+        margin: 10px 0;
+    }
+}
+
 
 // Header
 header {
     width: 270px;
     float: right;
+    height: fit-content;
     -webkit-font-smoothing: subpixel-antialiased;
-    text-align: center; // Alineación centrada para un diseño más armonioso
-    background-color: #f9f9f9; // Fondo sutil
+    text-align: center;
+    background-color: #f9f9f9;
     padding: 15px;
-    border-radius: 10px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); // Pequeña sombra para destacar
-    border: 1px solid #ddd; // Borde sutil
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ddd;
+    margin: 20px;
 
     #img-profile {
 
-        border-radius: 15px; // Imagen redonda para perfil
-        object-fit: cover; // Evita deformaciones
+        border-radius: 15px;
+        object-fit: cover;
         margin-bottom: 10px;
     }
 
@@ -264,7 +286,7 @@ header {
 
     .contact {
         background: $body-bg;
-        border-radius: 5px;
+        border-radius: 15px;
         font-weight: bold;
         font-size: 14px;
         color: #333;
@@ -298,6 +320,13 @@ header {
     }
 }
 
+@media (min-width: 1160px) {
+    #img-profile {
+        width: 100%;
+        max-width: none;
+    }
+}
+
 .research-cards {
     display: flex;
     flex-direction: column;
@@ -324,24 +353,23 @@ header {
 
     ul.social-links {
         padding: 0px;
-        li{
+
+        li {
             list-style: none;
             margin: 15px;
 
             a {
                 transition: transform 0.3s ease;
-    
+
             }
 
         }
 
-       
+
 
     }
 
 }
-
-
 
 // Section
 section {
@@ -361,15 +389,8 @@ hr {
     margin: 20px 0;
 }
 
-footer {
-    width: 270px;
-    float: left;
-    position: fixed;
-    bottom: 50px;
-    -webkit-font-smoothing: subpixel-antialiased;
-}
 
-// Estilos para .highlight
+
 .highlight {
     background-color: $highlight-bg;
 
