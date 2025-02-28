@@ -1,0 +1,864 @@
+[33m30bed18[m[33m ([m[1;36mHEAD -> [m[1;32melvis-dev[m[33m, [m[1;31morigin/elvis-dev[m[33m)[m Finalización del sitio web, corrección y adaptaciones finales
+[33m6d97107[m Requerimiento 6, 7, 8, 9, 10 completado.
+[33ma15a453[m Teaching linkeado correctamente con sus respectivos documentos guardados en local
+[33mbff1b1e[m Carga de pdfs, página Teaching linkeada perfectamente
+[33maccc636[m Links, paginas y contenido cargados
+[33m199d032[m Adaptación del Layout con estilos en SASS
+[33mcab0a06[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Update publication.md
+[33me23e8f8[m Add files via upload
+[33m7e29188[m Add files via upload
+[33m952fc77[m Update publication.md
+[33m9b10605[m Add files via upload
+[33ma3db10f[m Add files via upload
+[33ma77be65[m Add files via upload
+[33m7e08022[m Update publication.md
+[33m51ad83a[m Update publication.md
+[33m6ad3132[m Update publication.md
+[33m955d971[m Update publication.md
+[33m8cb28be[m Update publication.md
+[33m3702171[m Update publication.md
+[33ma3eb28f[m Update publication.md
+[33m35124b5[m Add files via upload
+[33m5dd1915[m Update publication.md
+[33m55bfa3a[m Update publication.md
+[33m2ee1544[m Create README.md
+[33m1a33fda[m Delete files/trabajo_ot_2023.pdf
+[33m49e0c13[m Delete files/twitter_political_indicator_page_1.pdf
+[33ma4431a2[m Delete files/optimal_transport_para_economistas.pdf
+[33m2772c2a[m Delete files/index_dynamical_systems_optimal_control.pdf
+[33m15757d3[m Delete files/Index ALOECO.pdf
+[33m8085637[m Delete files/lecture_notes_teoria_econometrica.pdf
+[33me5d4a8e[m Delete files/innovation_peruvian_universities.pdf
+[33m071d62c[m Delete files/Congestion_and_Penalization_in_Discrete_Matching.pdf
+[33m1919ad2[m Add files via upload
+[33m2978aa6[m Add files via upload
+[33m159a2c9[m Update publication.md
+[33ma25a976[m Update publication.md
+[33mcc7d57d[m Update publication.md
+[33m06011c8[m Update publication.md
+[33m29be080[m Update publication.md
+[33m657efc8[m Update publication.md
+[33m34a52e0[m Add files via upload
+[33mbfccff9[m Create README.md
+[33m06d3e71[m Delete papers
+[33m81fef42[m Create papers
+[33m6dc7591[m Delete files/papers
+[33m7ac6206[m Create papers
+[33mc0551ca[m Update publication.md
+[33me64c333[m Update publication.md
+[33mabb65d7[m Update publication.md
+[33m3ef0b97[m Update publication.md
+[33mb18fe47[m Update publication.md
+[33mc8c439c[m Update publication.md
+[33m362dd19[m Update publication.md
+[33m08628fd[m Update publication.md
+[33mee5f924[m Update publication.md
+[33mb24d0ed[m Update publication.md
+[33mef5fef5[m Update publication.md
+[33m4d3ff70[m Update publication.md
+[33me75f74c[m Update publication.md
+[33m7a66bf8[m Update publication.md
+[33m1d7e494[m Update publication.md
+[33mad21e86[m Update publication.md
+[33m5ba2ade[m Add files via upload
+[33m2b92188[m Add files via upload
+[33m44df3b4[m Update publication.md
+[33md411cba[m Add files via upload
+[33m2828e61[m Update about.md
+[33m8470565[m Add files via upload
+[33m4cc462c[m Update publication.md
+[33me246996[m Update publication.md
+[33m0b46b79[m Update publication.md
+[33m9f9b6f0[m Update publication.md
+[33ma009e60[m Update publication.md
+[33mc6799c9[m Add files via upload
+[33mab1cc68[m Update publication.md
+[33m62c81b7[m Update publication.md
+[33m1982ad7[m Update about.md
+[33m54e15bd[m Update about.md
+[33m4263ead[m Update publication.md
+[33mf6d172c[m Add files via upload
+[33m8485077[m Add files via upload
+[33m39ff1ea[m Delete files/innovation_peruvian_universities-abstract.pdf
+[33mc96cd78[m Update publication.md
+[33m9f24f86[m Update about.md
+[33m65bf07c[m Update about.md
+[33ma5059b8[m Update publication.md
+[33m0b42e30[m Update publication.md
+[33m8a4ab83[m Update publication.md
+[33ma75988d[m Update publication.md
+[33m1b4a5ff[m Add files via upload
+[33m77191a2[m Add files via upload
+[33mee1cd7e[m Add files via upload
+[33m70a2e9a[m Add files via upload
+[33m9eb46ea[m Add files via upload
+[33me82dde1[m Add files via upload
+[33mfa23d5f[m Add files via upload
+[33m92847dd[m Update publication.md
+[33m6e1b261[m Add files via upload
+[33m92d9d4f[m Add files via upload
+[33ma4ab92d[m Add files via upload
+[33m774cb1c[m Update publication.md
+[33mce7810b[m Update about.md
+[33m96c6f7a[m Update publication.md
+[33m48eb2e8[m Add files via upload
+[33m39a00c1[m Add files via upload
+[33m530d7da[m Add files via upload
+[33m80a64d8[m Add files via upload
+[33m310d6f9[m Update publication.md
+[33mbdece99[m Add files via upload
+[33m9c670b8[m Update about.md
+[33m0a53002[m Update experience.md
+[33m957e81b[m Update publication.md
+[33mf421930[m Update publication.md
+[33m846e289[m Update publication.md
+[33mc461a36[m Update publication.md
+[33m50f2c10[m Update publication.md
+[33mc40422a[m Update experience.md
+[33m7ad206f[m Update experience.md
+[33mfc035b5[m Update experience.md
+[33mcd31b64[m Update experience.md
+[33md4b513b[m Update experience.md
+[33m88095a3[m Add files via upload
+[33mea5cb2e[m Add files via upload
+[33m158c167[m Add files via upload
+[33meea5e11[m Update publication.md
+[33m47fe8fd[m Update publication.md
+[33m0b4c0b6[m Update publication.md
+[33m90e6323[m Update publication.md
+[33mce0afdc[m Update publication.md
+[33m94337e6[m Update publication.md
+[33m2bc3776[m Update publication.md
+[33m4e9277b[m Add files via upload
+[33m186a0a6[m Rename Index ALOECO.pdf.pdf to Index ALOECO.pdf
+[33mb5842a1[m Delete files/Index ALOECO.pdf
+[33mfd2c2ad[m Add files via upload
+[33m0f54505[m Add files via upload
+[33macc839f[m Add files via upload
+[33m747541e[m Add files via upload
+[33md1fda18[m Update publication.md
+[33m2a0e9c9[m Update publication.md
+[33m5b17a9a[m Add files via upload
+[33me198017[m Update teaching.md
+[33m0173665[m Add files via upload
+[33md872a96[m Add files via upload
+[33m8299fdb[m Add files via upload
+[33m1f75040[m Add files via upload
+[33m3e09d9d[m Update publication.md
+[33m40e1f94[m Update publication.md
+[33me331f80[m Add files via upload
+[33mb828d86[m Add files via upload
+[33meaea63b[m Add files via upload
+[33me21bf2e[m Update publication.md
+[33m41658e1[m Update publication.md
+[33mc8cc15d[m Update teaching.md
+[33m3a9fba3[m Update publication.md
+[33m4681be2[m Update publication.md
+[33m3053d37[m Update publication.md
+[33m5a33d1c[m Update publication.md
+[33m8aa6f55[m Update publication.md
+[33m3efad49[m Update publication.md
+[33m7afe7b1[m Update publication.md
+[33m9e7d4d9[m Update publication.md
+[33m6fdeab4[m Update publication.md
+[33mb9e7440[m Update publication.md
+[33m99b4962[m Update publication.md
+[33m9b68ecf[m Update publication.md
+[33m09ffbcb[m Update publication.md
+[33m089bc72[m Update publication.md
+[33m9aaf336[m Update publication.md
+[33m1761889[m Update publication.md
+[33m50d0f16[m Update publication.md
+[33m9296b86[m Update publication.md
+[33m1e68dc4[m Update publication.md
+[33m457662b[m Update publication.md
+[33m198b3a1[m Update publication.md
+[33m8eaf049[m Update publication.md
+[33mca53dab[m Update publication.md
+[33md0ff94a[m Update publication.md
+[33m9aa5ac6[m Update publication.md
+[33med8b1a6[m Update teaching.md
+[33me4195da[m Add files via upload
+[33mc988605[m Add files via upload
+[33m38d8f8b[m Add files via upload
+[33m1c3643d[m Update teaching.md
+[33mbbfa223[m Add files via upload
+[33mf12dfe8[m Add files via upload
+[33m925e6d7[m Update teaching.md
+[33m9cb387b[m Update teaching.md
+[33m00a1268[m Add files via upload
+[33m31057b9[m Update teaching.md
+[33m2e351cd[m Update teaching.md
+[33mc0a8ad1[m Add files via upload
+[33m86bc69c[m Add files via upload
+[33m5413f2f[m Update teaching.md
+[33m242df8e[m Add files via upload
+[33m69c3962[m Update publication.md
+[33m5248acd[m Update publication.md
+[33m6c8a1fc[m Add files via upload
+[33m7f99bfa[m Update publication.md
+[33m38bd309[m Update publication.md
+[33m78f079d[m Update publication.md
+[33mb76f23b[m Update publication.md
+[33mbcd2929[m Update publication.md
+[33m0503e35[m Update publication.md
+[33m37d8063[m Update publication.md
+[33m5aa0199[m Add files via upload
+[33mb171c7b[m Add files via upload
+[33m03b6398[m Update teaching.md
+[33md70d699[m Update teaching.md
+[33m54e9512[m Add files via upload
+[33mfc60562[m Update teaching.md
+[33m891e31e[m Update publication.md
+[33mc50ac5d[m Update publication.md
+[33mef36a6d[m Update publication.md
+[33m89e8b2d[m Update publication.md
+[33m6b84ab5[m Update publication.md
+[33m6c792f0[m Update publication.md
+[33ma119090[m Add files via upload
+[33m2df8e87[m Update teaching.md
+[33maad3133[m Add files via upload
+[33m10eba65[m Add files via upload
+[33m62e5a99[m Delete files/micro2/pd5_micro_fin.pdf
+[33mfe4dceb[m Delete files/micro2/PD5_Micro_2.pdf.pdf
+[33mffbf9d0[m Add files via upload
+[33m36e5de6[m Add files via upload
+[33m4507ef5[m Rename recitation_6.pdf to recitation_6_micro_2.pdf
+[33mdddefa8[m Delete files/micro2/recitation_6_micro_2.pdf
+[33me9e3a5a[m Add files via upload
+[33m6ea219b[m Update publication.md
+[33m732d2ca[m Update publication.md
+[33me6f02f8[m Update publication.md
+[33me182487[m Update publication.md
+[33mefff2e0[m Update teaching.md
+[33m7d97e4a[m Add files via upload
+[33mc1f4b6b[m Update publication.md
+[33m0b96d8b[m Update experience.md
+[33m8f849e6[m Update teaching.md
+[33m37a7ab9[m Update teaching.md
+[33mfd2c02f[m Delete files/micro2/PD6_micro_fin.pdf
+[33m0c325bb[m Add files via upload
+[33me65c3e8[m Rename PD6.pdf to PD6_micro_fin.pdf
+[33mff2d1c6[m Add files via upload
+[33m631186b[m Rename PD6.pdf to PD6_micro_2.pdf
+[33me8f2231[m Add files via upload
+[33md8a926b[m Update publication.md
+[33m18c8285[m Update publication.md
+[33m81a081b[m Update publication.md
+[33md9a43c7[m Update publication.md
+[33m1624464[m Update publication.md
+[33m6ed0643[m Add files via upload
+[33mf3d001b[m Add files via upload
+[33m0072237[m Rename recitation_6.pdf to recitation_6_micro_2.pdf
+[33m955b8d2[m Delete files/micro2/recitation_6_micro_2.pdf
+[33mbfa52b9[m Add files via upload
+[33mcd32eac[m Update teaching.md
+[33m21104f0[m Update teaching.md
+[33me203059[m Add files via upload
+[33m671598e[m Rename recitation_6.pdf to recitation_6_micro_2.pdf
+[33m1a195bc[m Add files via upload
+[33mf0b8b53[m Add files via upload
+[33mf0653d2[m Update publication.md
+[33m3f82bd5[m Update publication.md
+[33m1a84ef7[m Update publication.md
+[33mb3f4701[m Update publication.md
+[33meebd35d[m Add files via upload
+[33me332714[m Add files via upload
+[33m828ed68[m Add files via upload
+[33m90965a9[m Add files via upload
+[33m1171a75[m Update teaching.md
+[33me372f8b[m Add files via upload
+[33mcc8e52e[m Add files via upload
+[33m1aa2e6c[m Update publication.md
+[33mac0954a[m Add files via upload
+[33m8954afb[m Delete files/micro2/Sol_Recitation_2.pdf
+[33mc919262[m Delete files/micro2/ejercicios_incertidumbre_avanzados.pdf
+[33m5163ae5[m Rename recitation_5.pdf to slides_recitation_5_micro_2.pdf
+[33m0e08565[m Add files via upload
+[33me14e9c6[m Delete files/micro2/slides_recitation_5_micro_2.pdf
+[33m08c398a[m Update teaching.md
+[33ma241bc4[m Add files via upload
+[33m427c220[m Update teaching.md
+[33m3d7fc24[m Rename recitation_5.pdf to slides_recitation_5_micro_2.pdf
+[33m55d68c1[m Add files via upload
+[33md00fb3d[m Rename Sol_PC_2_Micr_Fin.pdf to Sol_PC_2_Micro_Fin.pdf
+[33mf07b170[m Add files via upload
+[33ma00353a[m Update publication.md
+[33mc1d6ea1[m Rename eleccion_incertidumbre_avanzado.pdf to ejercicios_incertidumbre_avanzados.pdf
+[33m7775f32[m Delete files/micro2/ejercicios_incertidumbre_avanzados.pdf
+[33m002ce1c[m Add files via upload
+[33m7567ff0[m Delete files/phys_num
+[33m43fdbe4[m Create phys_num
+[33meca8fc2[m Add files via upload
+[33m97d21fc[m Delete files/deuda_publica.pdf
+[33m66bf41c[m Delete files/stolper_samuelson.pdf
+[33m2a019ad[m Update teaching.md
+[33m3be7c0e[m Add files via upload
+[33ma3b0dc9[m Add files via upload
+[33mc2e89e4[m Rename Prácticas_Microeconomía_Financiera_2024_2.pdf to Problem_set_4_Micro_Fin.pdf
+[33m0148ae0[m Delete files/micro2/Problem_set_4_Micro_Fin.pdf
+[33mec4b0a1[m Add files via upload
+[33m3f5d078[m Update teaching.md
+[33m063806f[m Update teaching.md
+[33mee7f139[m Rename notas_de_clase_ejercicios_incertidumbre_avanzados.pdf to ejercicios_incertidumbre_avanzados.pdf
+[33m2df388c[m Add files via upload
+[33ma68a997[m Rename slides_pd4.pdf to slides_pd4_micro_fin.pdf
+[33ma067126[m Add files via upload
+[33m5151ebe[m Add files via upload
+[33m27b56c5[m Rename slides_pd3.pdf to slides_pd3_micro_fin.pdf
+[33mb24fa0d[m Add files via upload
+[33mb6afc7d[m Delete files/micro2/slides_pd3_micro_fin
+[33mb986b13[m Rename slides_recitation_4.pdf to slides_recitation_4_micro_2.pdf
+[33mb8c1b47[m Delete files/micro2/slides_recitation_4_miro_2.pdf
+[33m9ac32a4[m Add files via upload
+[33m9501890[m Rename slides_recitation_4.pdf to slides_recitation_4_miro_2.pdf
+[33m38ed3e2[m Delete files/micro2/slides_recitation_4_micro_2.pdf
+[33md5148c5[m Add files via upload
+[33mb1360d4[m Update teaching.md
+[33m00c0fa8[m Update teaching.md
+[33m9650054[m Update teaching.md
+[33mce76ce5[m Rename slides_recitation_4.pdf to slides_recitation_4_micro_2.pdf
+[33m280df37[m Add files via upload
+[33m33deba3[m Rename slides_pd3.pdf to slides_pd3_micro_fin
+[33mc005bd6[m Delete files/micro2/slides_pd3_micro_fin.pdf
+[33ma2fd100[m Add files via upload
+[33m30f8347[m Rename slides_pd3.pdf to slides_pd3_micro_fin.pdf
+[33m4967274[m Delete files/micro2/slides_pd3_micro_fin.pdf
+[33m0494d7c[m Add files via upload
+[33me58e966[m Update teaching.md
+[33mb62d102[m Rename slides_pd3.pdf to slides_pd3_micro_fin.pdf
+[33mf0bc69f[m Rename PD3 Micro Financiera.pdf to PD3_Micro_Financiera.pdf
+[33mbd754a8[m Add files via upload
+[33m9662f1c[m Update teaching.md
+[33m2aae9e8[m Add files via upload
+[33m3f44ae5[m Add files via upload
+[33mde69e79[m Add files via upload
+[33m9ba8b8c[m Update teaching.md
+[33m524a11c[m Add files via upload
+[33m903b18f[m Add files via upload
+[33m9ceaae7[m Add files via upload
+[33m57995ca[m Add files via upload
+[33m917adaa[m Update teaching.md
+[33m7104636[m Add files via upload
+[33mff78fbe[m Add files via upload
+[33mb8b1152[m Add files via upload
+[33m2306834[m Add files via upload
+[33m551a172[m Update teaching.md
+[33m0f4a16c[m Add files via upload
+[33m251d415[m Update teaching.md
+[33ma5da992[m Add files via upload
+[33mb8349f6[m Add files via upload
+[33mabb6fe7[m Update teaching.md
+[33m82c1d68[m Add files via upload
+[33mde693e4[m Add files via upload
+[33mf48288d[m Add files via upload
+[33mcdd9005[m Add files via upload
+[33mf00ab2c[m Add files via upload
+[33mcad4839[m Update teaching.md
+[33mda4510d[m Update teaching.md
+[33m0b38e21[m Update teaching.md
+[33maae53e5[m Add files via upload
+[33ma04ed0c[m Add files via upload
+[33mc4e2120[m Update teaching.md
+[33m3c81afb[m Add files via upload
+[33m5a82c3c[m Delete files/micro2/Sol PD2 Micro Financiera.pdf
+[33mbaf043e[m Delete files/micro2/PD2 Micro Financiera.pdf
+[33me2e737e[m Update teaching.md
+[33m6d2cc83[m Add files via upload
+[33medb23e1[m Add files via upload
+[33mf8d381e[m Add files via upload
+[33m2cb0b8e[m Add files via upload
+[33mef76504[m Delete pd2_micro_2.pdf
+[33m4473961[m Add files via upload
+[33m40ca450[m Update teaching.md
+[33mfcdf0c8[m Add files via upload
+[33mb3818ab[m Delete files/micro2/Sol_recitation_2.pdf
+[33mca4c2a7[m Update teaching.md
+[33me7918a2[m Update teaching.md
+[33m3ee591b[m Add files via upload
+[33meb6eeb2[m Update teaching.md
+[33m759224d[m Update teaching.md
+[33m87dd53e[m Update teaching.md
+[33mb626db2[m Add files via upload
+[33m9f8a40c[m Update teaching.md
+[33m6784ee9[m Update experience.md
+[33m55599de[m Update experience.md
+[33m0255a47[m Update experience.md
+[33mfb80e49[m Rename Constancia PUCP - Gallardo Burga.pdf to harvard_pucp.pdf
+[33m5998a45[m Update experience.md
+[33m699fb70[m Delete files/micro2/pd5_micro_2.pdf
+[33m46254a5[m Update teaching.md
+[33m19363ee[m Add files via upload
+[33m20b3572[m Add files via upload
+[33ma8c7c70[m Delete files/micro2/pd4_micro_2.pdf
+[33m2e2fac2[m Delete files/micro2/pd3_micro_2.pdf
+[33m02a74af[m Delete files/micro2/pd2_micro_2.pdf
+[33m737ceff[m Delete files/micro2/pd1_microeconomics_2.pdf
+[33m9f83bf3[m Add files via upload
+[33m4779b3e[m Update publication.md
+[33m75679d3[m Update teaching.md
+[33md07a899[m Update teaching.md
+[33mf302dcf[m Update teaching.md
+[33mcf74dce[m Update teaching.md
+[33m960f6d1[m Update publication.md
+[33m3be3264[m Update publication.md
+[33me7562a0[m Update publication.md
+[33me06595a[m Update publication.md
+[33m9e16666[m Update publication.md
+[33me6f2096[m Update publication.md
+[33m5ae44b6[m Update publication.md
+[33mbbc8d1d[m Update publication.md
+[33m513c264[m Update publication.md
+[33m825eeb4[m Update publication.md
+[33m038500a[m Update publication.md
+[33mcc031bc[m Update publication.md
+[33m9e73f7e[m Update publication.md
+[33m9c652a2[m Update publication.md
+[33mcad8753[m Update publication.md
+[33m82cbf45[m Update publication.md
+[33mf5f72ae[m Update publication.md
+[33me606377[m Update publication.md
+[33ma385016[m Update publication.md
+[33m8153b5e[m Update publication.md
+[33ma5a3650[m Update publication.md
+[33m371625e[m Update publication.md
+[33mc7dbf8e[m Update publication.md
+[33mbfac078[m Update publication.md
+[33m3601a99[m Update publication.md
+[33me57433b[m Update teaching.md
+[33m74972fb[m Update teaching.md
+[33mf8caa5f[m Update publication.md
+[33ma0f564d[m Update publication.md
+[33m3da57a7[m Add files via upload
+[33ma14e761[m Update publication.md
+[33m41c3699[m Update publication.md
+[33mf0c22f6[m Update publication.md
+[33m9087d8e[m Update publication.md
+[33m9f8cd18[m Add files via upload
+[33m2c895f3[m Add files via upload
+[33mb784c93[m Update publication.md
+[33m78f6a53[m Add files via upload
+[33m5919528[m Update teaching.md
+[33mb77d1d5[m Add files via upload
+[33m4729102[m Update teaching.md
+[33m33c8b25[m Add files via upload
+[33mae9ac53[m Add files via upload
+[33m9ea2def[m Add files via upload
+[33md15af77[m Add files via upload
+[33m6673007[m Delete files/micro2/pd1
+[33mb212e86[m Add files via upload
+[33m23d5430[m Create pd1
+[33m404ed4b[m Delete files/micro2/pd1
+[33m3dea020[m Create pd1
+[33m0613e0e[m Update publication.md
+[33m0ca2513[m Delete files/lecture_notes_econometrics.pdf
+[33m4fec9ea[m Add files via upload
+[33m4ba2df3[m Update publication.md
+[33ma3b3ceb[m Add files via upload
+[33ma6bb5ed[m Add files via upload
+[33m479f23e[m Add files via upload
+[33m38851ce[m Update teaching.md
+[33mb837bf0[m Update teaching.md
+[33m872f3fe[m Update teaching.md
+[33mf4cd285[m Update teaching.md
+[33m0823de1[m Update teaching.md
+[33mf18383b[m Add files via upload
+[33m2d94ec7[m Add files via upload
+[33ma26f25b[m Add files via upload
+[33m6c67fa7[m Add files via upload
+[33m69e48e0[m Update publication.md
+[33m800050e[m Add files via upload
+[33m26dc258[m Update _config.yml
+[33mf7553ff[m Update about.md
+[33md7d1f3c[m Update _config.yml
+[33m304a6e9[m Add files via upload
+[33me66c99e[m Add files via upload
+[33mb58524c[m Update publication.md
+[33m8ff6073[m Update experience.md
+[33m5a18105[m Update teaching.md
+[33mc475b0b[m Update publication.md
+[33mb81851c[m Update publication.md
+[33m2cc19fd[m Update experience.md
+[33m119b575[m Add files via upload
+[33mbce7a4b[m Update publication.md
+[33mc6535d8[m Update publication.md
+[33m5e0c0e0[m Update publication.md
+[33m1cffa69[m Update publication.md
+[33m946ed30[m Add files via upload
+[33mc1e8f5b[m Add files via upload
+[33m2bd93bc[m Add files via upload
+[33m5688ac0[m Update teaching.md
+[33m0384381[m Update teaching.md
+[33m9f1516c[m Update teaching.md
+[33m841c6be[m Update teaching.md
+[33m5f7aadf[m Update teaching.md
+[33m9e4ee31[m Add files via upload
+[33m8ccac75[m Update publication.md
+[33m8904b9a[m Update teaching.md
+[33mbf3f760[m Add files via upload
+[33m1b91ce9[m Update teaching.md
+[33mbed40c5[m Update teaching.md
+[33mb79d2ab[m Update teaching.md
+[33mfcdcb37[m Update teaching.md
+[33m031e01d[m Update teaching.md
+[33m7948269[m Add files via upload
+[33ma59d418[m Add files via upload
+[33mc5da547[m Update teaching.md
+[33m90e01ec[m Update teaching.md
+[33m9228eb0[m Update teaching.md
+[33mc04e949[m Update teaching.md
+[33m2cbc936[m Update teaching.md
+[33md241a02[m Add files via upload
+[33ma1dc633[m Delete files/cv_mg.pdf
+[33m3f0605b[m Update teaching.md
+[33m02a37f7[m Update teaching.md
+[33mc949ea3[m Update teaching.md
+[33m3579400[m Update teaching.md
+[33ma6081dd[m Update teaching.md
+[33me567a36[m Update teaching.md
+[33m2775c39[m Update teaching.md
+[33m8be03c3[m Update teaching.md
+[33mec0ef99[m Update teaching.md
+[33m7977ae3[m Update teaching.md
+[33mec4028c[m Update teaching.md
+[33mfd7afcb[m Update publication.md
+[33m39fc400[m Update publication.md
+[33m079dcd1[m Add files via upload
+[33m4e0c926[m Add files via upload
+[33m37fe46f[m Update teaching.md
+[33mcb8005b[m Update teaching.md
+[33m8cb3b92[m Update teaching.md
+[33m6d1df07[m Update teaching.md
+[33m3e2814d[m Update teaching.md
+[33m141c0e4[m Update publication.md
+[33mbb91267[m Update publication.md
+[33mcfea17e[m Update teaching.md
+[33mc02f131[m Update teaching.md
+[33m249c4c9[m Update publication.md
+[33mba39b16[m Update publication.md
+[33m2773b4f[m Update publication.md
+[33m3e5fe94[m Update publication.md
+[33m4fe0685[m Update publication.md
+[33m0c35470[m Update publication.md
+[33mce2d1a5[m Update publication.md
+[33md10f5df[m Update publication.md
+[33m4417302[m Update publication.md
+[33m582863a[m Update publication.md
+[33m60af686[m Update publication.md
+[33m0347905[m Update teaching.md
+[33m02317b9[m Update about.md
+[33mb936983[m Add files via upload
+[33m69a430c[m Delete files/CV.pdf
+[33m4b811f9[m Update publication.md
+[33m05ef7af[m Update publication.md
+[33m8c20879[m Update publication.md
+[33mf574cd6[m Update publication.md
+[33mdb3fe84[m Add files via upload
+[33m745213a[m Delete files/innovation_peruvian_universities_page_1.pdf
+[33m6ab0052[m Update teaching.md
+[33m6a21bac[m Update publication.md
+[33mced79da[m Update teaching.md
+[33m978249c[m Update experience.md
+[33mf25658d[m Add files via upload
+[33m210c0e6[m Delete files/slides_ot.pdf
+[33m8c34cbe[m Add files via upload
+[33m362a2e2[m Delete files/CV.pdf
+[33m5f731a4[m Update teaching.md
+[33mf66ad5f[m Update experience.md
+[33m56a9ca7[m Create funcional.md
+[33m5f2f64c[m Delete _pages/iop224.html
+[33me26917d[m Delete _pages/mateco4.html
+[33m3305afe[m Delete _pages/mateco3.html
+[33m4e68bec[m Rename iop1.md to iop224.md
+[33m09a85ba[m Create iop224.html
+[33m733d2e9[m Create iop1.md
+[33maa1ffe7[m Create mateco4.html
+[33m4399718[m Create mateco3.html
+[33m4cc15b1[m Update mateco4.md
+[33m2ddd712[m Create mateco4.md
+[33m10e08b4[m Update experience.md
+[33mda582b9[m Update mateco3.md
+[33m96e774b[m Create mateco3.md
+[33m4570637[m Add files via upload
+[33m732aafb[m Delete files/brouwer_fixed_point_theorem.pdf
+[33ma4639fd[m Update publication.md
+[33m378a1b0[m Add files via upload
+[33m0fcb4fd[m Delete files/brouwer_fixed_point_theorem.pdf
+[33mfec82ee[m Update publication.md
+[33mfe2cd44[m Add files via upload
+[33m9951c4f[m Delete files/slides_escuela_invierno.pdf
+[33mce52f4a[m Add files via upload
+[33mffb065b[m Delete files/academic_statement.pdf
+[33m7255f81[m Update teaching.md
+[33meb48bb8[m Update teaching.md
+[33m60984bf[m Update teaching.md
+[33m3e6047f[m Update teaching.md
+[33md03a499[m Delete files/lecture_notes_fundeco.pdf
+[33m865cd99[m Add files via upload
+[33m97a7ef4[m Delete files/academic_statement.pdf
+[33ma01dfdf[m Update experience.md
+[33m1b59f84[m Update experience.md
+[33m5e6f2e5[m Update experience.md
+[33m0ee03eb[m Update experience.md
+[33m1e1a39e[m Update experience.md
+[33m087f6ba[m Update teaching.md
+[33md013ad1[m Update publication.md
+[33mff15731[m Rename lecture_notes_econometrics.pdf.pdf to lecture_notes_econometrics.pdf
+[33mcbf5e53[m Add files via upload
+[33m493f9da[m Add files via upload
+[33m5e47823[m Delete files/index_lecture_notes_econometrics.pdf
+[33mc0039d7[m Update about.md
+[33ma3a02af[m Update publication.md
+[33m1018437[m Update publication.md
+[33m11a7622[m Add files via upload
+[33m5a4f021[m Update publication.md
+[33m872898b[m Update publication.md
+[33m6865045[m Update teaching.md
+[33ma479ea4[m Update teaching.md
+[33m29901d5[m Update teaching.md
+[33ma8e3a7f[m Update teaching.md
+[33mcd84d52[m Update teaching.md
+[33mf2a359a[m Update teaching.md
+[33m788a0d6[m Update teaching.md
+[33mac61b0e[m Update teaching.md
+[33m6aa763b[m Update teaching.md
+[33ma188839[m Add files via upload
+[33m9887b12[m Delete files/echenique_iop224
+[33m0c78a23[m Update and rename echenique_iop224.pdf to echenique_iop224
+[33m3d43178[m Rename echenique_iop224.pdf.pdf to echenique_iop224.pdf
+[33ma13e1da[m Add files via upload
+[33mc2f1350[m Update teaching.md
+[33m6437007[m Add files via upload
+[33mf3ea290[m Delete files/echenique_iop224.pdf
+[33m3532429[m Update teaching.md
+[33m51b03dd[m Update teaching.md
+[33maa25538[m Update teaching.md
+[33m79764b7[m Update teaching.md
+[33ma5d2341[m Update navigation.yml
+[33mbe55642[m Add files via upload
+[33m6e70877[m Add files via upload
+[33m1a773c5[m Update teaching.md
+[33me66ac58[m Update teaching.md
+[33me1d2b0d[m Update teaching.md
+[33m57577c4[m Update teaching.md
+[33mc6be078[m Rename Propuesta Syllabus IOP 1 (2).pdf to SyllabusIOP224.pdf
+[33mfed665b[m Add files via upload
+[33mbd73dc7[m Update teaching.md
+[33mb23a787[m Delete files/Mateco 3
+[33m121b0ef[m Create Mateco 3
+[33mecc6dd8[m Update teaching.md
+[33m20a685a[m Update teaching.md
+[33ma3f1be1[m Update teaching.md
+[33mc52673d[m Update teaching.md
+[33maefe435[m Update teaching.md
+[33m07026fa[m Update teaching.md
+[33mc61f85c[m Update teaching.md
+[33m0dfe5fd[m Update teaching.md
+[33m9fdf083[m Update teaching.md
+[33m89654d6[m Update teaching.md
+[33m315bd14[m Update experience.md
+[33ma04b53d[m Rename iop224.md to teaching.md
+[33m7d28060[m Update iop224.md
+[33mca3181c[m Rename iop224 to iop224.md
+[33m5d1e3a2[m Update experience.md
+[33m20584f2[m Update experience.md
+[33mda8c3ec[m Create iop224
+[33m28f5787[m Add files via upload
+[33m1310875[m Delete files/CV.pdf
+[33m7aa35ec[m Add files via upload
+[33m4f48331[m Delete files/academic_statement.pdf
+[33mca0186c[m Add files via upload
+[33m0546f5e[m Delete files/CV.pdf
+[33mf500d1a[m Add files via upload
+[33m6167138[m Delete files/CV.pdf
+[33mfa172d3[m Add files via upload
+[33m97f66e1[m Delete files/CV.pdf
+[33m6461dea[m Update publication.md
+[33m1225229[m Add files via upload
+[33m293edab[m Delete files/brouwer_fixed_point_theorem.pdf
+[33me6ab9cb[m Add files via upload
+[33m81c539b[m Add files via upload
+[33mae43a73[m Delete files/CV.pdf
+[33m1c7dcd7[m Update about.md
+[33mc5c5e9c[m Update experience.md
+[33m0037f2e[m Add files via upload
+[33mbccbbf8[m Update experience.md
+[33mf739e39[m Update experience.md
+[33mb212647[m Update experience.md
+[33mcd862a1[m Update publication.md
+[33m6e7ef8e[m Update publication.md
+[33mecb717c[m Update publication.md
+[33mbdbb3fa[m Update publication.md
+[33m87dc7d4[m Add files via upload
+[33mcfc66a2[m Delete files/CV.pdf
+[33m7bef4d7[m Update experience.md
+[33m2fb5c69[m Update publication.md
+[33m3a3afbc[m Update publication.md
+[33mb9c57d9[m Update publication.md
+[33m1a443a1[m Add files via upload
+[33m5762b89[m Delete files/brouwer_fixed_point_theorem.pdf
+[33mf3b198a[m Update about.md
+[33m5b4fa72[m Update experience.md
+[33m75632f7[m Update publication.md
+[33m983f5e8[m Update about.md
+[33m74667f0[m Update experience.md
+[33maf667ed[m Add files via upload
+[33mfabd709[m Add files via upload
+[33mae80bb1[m Add files via upload
+[33m3dd2ce7[m Delete files/CV.pdf
+[33m1d6749f[m Add files via upload
+[33ma693c6c[m Delete files/CV.pdf
+[33m5b589bb[m Add files via upload
+[33md12a133[m Delete files/CV.pdf
+[33mec6ad2b[m Add files via upload
+[33md65a41a[m Delete files/CV.pdf
+[33m75b9b13[m Add files via upload
+[33mecaeee5[m Delete files/CV.pdf
+[33m7131270[m Update publication.md
+[33m22a9fc3[m Update publication.md
+[33m853769c[m Update publication.md
+[33m640471a[m Update experience.md
+[33mf4c0997[m Update experience.md
+[33ma369ad3[m Update about.md
+[33mf87b89e[m Update publication.md
+[33m198d1c3[m Add files via upload
+[33m295fdf2[m Delete files/innovation_peruvian_universities_page_1.pdf
+[33m9fa50c2[m Add files via upload
+[33me012e30[m Delete files/Index ALOECO.pdf
+[33mc93fc1d[m Update experience.md
+[33mec9757f[m Update experience.md
+[33m35ed38a[m Add files via upload
+[33ma1c9598[m Delete files/CV.pdf
+[33m910eb43[m Update about.md
+[33mc68e700[m Add files via upload
+[33medbe9e0[m Delete files/CV.pdf
+[33m25b7e01[m Update experience.md
+[33md012ef2[m Update publication.md
+[33ma8c752e[m Update publication.md
+[33m3ab82e1[m Update experience.md
+[33m7e29b48[m Update experience.md
+[33md7d7701[m Update experience.md
+[33m6c983a6[m Update experience.md
+[33m9a52eb9[m Update about.md
+[33mc6717d7[m Update publication.md
+[33m71e41c2[m Add files via upload
+[33md0e089f[m Update publication.md
+[33mcbb71a6[m Update publication.md
+[33mc7724fe[m Update experience.md
+[33m9694f12[m Rename Index lecture notes econometrics.pdf to index_lecture_notes_econometrics.pdf
+[33m793d59f[m Add files via upload
+[33ma140012[m Update publication.md
+[33m9bfac1a[m Update publication.md
+[33m308a8b0[m Update publication.md
+[33mb07e69c[m Update publication.md
+[33mc4a2d33[m Update publication.md
+[33m368022c[m Update publication.md
+[33mcda0aa1[m Update publication.md
+[33m7c3dddf[m Update publication.md
+[33m5a03ae7[m Rename Constancia de participación_ Marcelo Gallardo - Escuela de Invierno 2023.pdf to adeem.pdf
+[33m95edaf1[m Update publication.md
+[33m39fc5d0[m Add files via upload
+[33mb045f57[m Update publication.md
+[33m0fcfb75[m Update experience.md
+[33m5c7c207[m Update experience.md
+[33ma85643d[m Update experience.md
+[33m00d634c[m Add files via upload
+[33ma693cdb[m Delete files/DIPLOMA_bac.pdf
+[33m59a17c4[m Add files via upload
+[33mbc56ca4[m Update experience.md
+[33m1944c0e[m Update experience.md
+[33m549e189[m Update experience.md
+[33mec5fc70[m Update experience.md
+[33mb815cb9[m Update experience.md
+[33m8a33d18[m Update experience.md
+[33m2291f13[m Update experience.md
+[33m1be1f57[m Update experience.md
+[33m58d6074[m Update experience.md
+[33m41428f0[m Update experience.md
+[33m007301d[m Update about.md
+[33m9d4d539[m Update navigation.yml
+[33m62d2a00[m Update about.md
+[33m5e615f0[m Delete CNAME
+[33m3d17539[m Create CNAME
+[33m2750118[m Update experience.md
+[33m0360269[m Update publication.md
+[33m787266f[m Update publication.md
+[33m4cf4d52[m Update publication.md
+[33m638d455[m Update publication.md
+[33m9483e7d[m Update publication.md
+[33me2ea526[m Update publication.md
+[33m6875902[m Update publication.md
+[33m20797dd[m Update publication.md
+[33m5bf75b1[m Update publication.md
+[33m0cacc77[m Update publication.md
+[33m6c7ad6b[m Update publication.md
+[33m99d94db[m Update publication.md
+[33m8c35597[m Update experience.md
+[33m4214bb0[m Update experience.md
+[33me4185e6[m Update experience.md
+[33m57a8848[m Update publication.md
+[33mf4032f6[m Update publication.md
+[33ma27acf1[m Update publication.md
+[33mde69a7a[m Update experience.md
+[33m0ca9ca5[m Delete _pages/courses.md
+[33m246e0ae[m Update navigation.yml
+[33me06140d[m Rename talks.html to talks.md
+[33m3d23d98[m Update and rename courses to courses.md
+[33m6699515[m Update courses
+[33mee8e10c[m Create courses
+[33m4532c85[m Update navigation.yml
+[33m0235c0b[m Update publication.md
+[33m2a54bfc[m Update experience.md
+[33mc9f8876[m Update experience.md
+[33maf8ba55[m Update experience.md
+[33m107a305[m Update publication.md
+[33m5a5a0c4[m Update publication.md
+[33m76659e5[m Update publication.md
+[33m87cc44a[m Update publication.md
+[33mc8a9b1a[m Update publication.md
+[33mc222eb6[m Update publication.md
+[33md96bb43[m Update navigation.yml
+[33m2e40f55[m Update experience.md
+[33m33bc103[m Update experience.md
+[33m9be1d72[m Update navigation.yml
+[33m4d22950[m Update experience.md
+[33m0c44aec[m Update experience.md
+[33m47c688b[m Update experience.md
+[33ma6c4e92[m Update experience.md
+[33m8c48b22[m Add files via upload
+[33m625a68d[m Delete files/CV.pdf
+[33m67f5f1a[m Update about.md
+[33maef0779[m Update _config.yml
+[33m664a3dc[m Update _config.yml
+[33md5cbd75[m Update about.md
+[33md7c755c[m Delete files/NLAH.pdf
+[33m05b274e[m Add files via upload
+[33m94b8703[m Delete files/CV.pdf
+[33m798fcca[m Add files via upload
+[33m4cc241d[m Delete images/profile.jpeg
+[33m8bdabf0[m Add files via upload
+[33m1f2496a[m Delete images/profile.jpeg
+[33mb43bdca[m Delete images/profile.jpeg.jpg
+[33m83a91d1[m Add files via upload
+[33ma91079d[m Update navigation.yml
+[33mf33c837[m update
+[33m95fa2b3[m update
+[33m7ed6de2[m Update
+[33m94ec6ff[m Update
+[33m358f3c6[m update name
+[33m5a1db6a[m update name
+[33me48b877[m update name
+[33mfc19ee1[m update name
+[33ma3e5293[m update name
+[33me7ad3cc[m update image
+[33mb91d1e4[m update files
+[33m9925bd8[m update files
+[33m9f0cb5e[m update publication
+[33m4860d31[m update publication
+[33m8dc4684[m add deleted folders
+[33mc18d3bc[m update publication
+[33ma0045e5[m update experience
+[33ma13212a[m about
+[33m0785759[m update topbar
+[33m926f80c[m update sidebar
+[33m3c3a788[m initial

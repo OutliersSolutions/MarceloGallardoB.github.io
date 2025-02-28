@@ -8,7 +8,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ site.baseurl }}/assets/img/institutions/pucp-logo.png" alt="PUCP Logo">
+    <img src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Grade in Mathematics</h5>
@@ -23,7 +23,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ site.baseurl }}/assets/img/institutions/LyceeFrancoPeruvien.png" alt="PUCP Logo">
+    <img src="{{ "/assets/img/institutions/LyceeFrancoPeruvien.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Baccaluréat Scientifique</h5>
@@ -38,7 +38,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ site.baseurl }}/assets/img/institutions/pucp-logo.png" alt="PUCP Logo">
+    <img src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">QLab</h5>
@@ -51,7 +51,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ site.baseurl }}/assets/img/institutions/harvard-logo.png" alt="Harvard Logo">
+    <img src="{{ "/assets/img/institutions/harvard-logo.png" | relative_url }}" alt="Harvard Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Harvard University</h5>
@@ -60,7 +60,7 @@ permalink: /experience/
       Professor <a href="https://professional.dce.harvard.edu/faculty/mark-esposito/">Mark Esposito</a>
     </p>
     <p class="card-text">
-      <a href="{{ site.baseurl }}/files/courses/education-and-experience/harvard_pucp.pdf">Certificate</a>
+      <a href="{{ "/files/courses/education-and-experience/harvard_pucp.pdf" | relative_url }}">Certificate</a>
     </p>
   </div>
 </div>
@@ -71,26 +71,26 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ site.baseurl }}/assets/img/institutions/LyceeFrancoPeruvien.png" alt="PUCP Logo">
+    <img src="{{ "/assets/img/institutions/LyceeFrancoPeruvien.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Mention Très Bien au Baccalauréat Scientifique</h5>
     <p class="card-text">Colegio Franco Peruano, Lima PE</p>
     <p class="card-text">
-      <a href="{{ site.baseurl }}/files/courses/education-and-experience/notes_bac.pdf">Diplôme</a>
+      <a href="{{ "/files/courses/education-and-experience/notes_bac.pdf" | relative_url }}">Diplôme</a>
     </p>
   </div>
 </div>
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ site.baseurl }}/assets/img/institutions/ecole-paris.png" alt="PUCP Logo">
+    <img src="{{ "/assets/img/institutions/ecole-paris.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Admission to l’X Bachelor Program</h5>
     <p class="card-text">École Polytechnique, Paris, France</p>
     <p class="card-text">
-      <a href="{{ site.baseurl }}/files/courses/education-and-experience/admission_l_X.pdf">Admission</a>
+      <a href="{{ "/files/courses/education-and-experience/admission_l_X.pdf" | relative_url }}">Admission</a>
     </p>
   </div>
 </div>
@@ -101,7 +101,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ site.baseurl }}/assets/img/institutions/pucp-logo.png" alt="PUCP Logo">
+    <img src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Mathematics for Economists 3</h5>
@@ -118,7 +118,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ site.baseurl }}/assets/img/institutions/unsw.png" alt="PUCP Logo">
+    <img src="{{ "/assets/img/institutions/unsw.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Research at UNSW</h5>
@@ -134,7 +134,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ site.baseurl }}/assets/img/institutions/pucp-logo.png" alt="PUCP Logo">
+    <img src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Research at PUCP</h5>

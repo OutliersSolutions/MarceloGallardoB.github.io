@@ -12,29 +12,29 @@ permalink: /courses/functional-analysis-2024-1/
 ---
 
 ### Problem Sets
-- [Problem set 1]({{ site.baseurl }}/files/courses/Functional-analysis/pd1_funcional.pdf)
-- [Problem set 2]({{ site.baseurl }}/files/courses/Functional-analysis/pd3_funcional.pdf)
-- [Problem set 3]({{ site.baseurl }}/files/courses/Functional-analysis/pd4.pdf)
+- [Problem set 1]({{ "/files/courses/Functional-analysis/pd1_funcional.pdf" | relative_url }})
+- [Problem set 2]({{ "/files/courses/Functional-analysis/pd3_funcional.pdf" | relative_url }})
+- [Problem set 3]({{ "/files/courses/Functional-analysis/pd4.pdf" | relative_url }})
 
 ---
 
 ### Solutions to Problem Sets
-- [Solutions to problem set 1]({{ site.baseurl }}/files/courses/Functional-analysis/pd_funcional_sol.pdf)
-- [Solutions to problem set 2]({{ site.baseurl }}/files/courses/Functional-analysis/pd3_sol.pdf)
-- [Solutions to problem set 3]({{ site.baseurl }}/files/courses/Functional-analysis/sol_pd4.pdf)
+- [Solutions to problem set 1]({{ "/files/courses/Functional-analysis/pd_funcional_sol.pdf" | relative_url }})
+- [Solutions to problem set 2]({{ "/files/courses/Functional-analysis/pd3_sol.pdf" | relative_url }})
+- [Solutions to problem set 3]({{ "/files/courses/Functional-analysis/sol_pd4.pdf" | relative_url }})
 
 ---
 
 ### Graded Problem Sets
-- [Graded problem set 1]({{ site.baseurl }}/files/courses/Functional-analysis/pc1_funcional_v2.pdf)
-- [Graded problem set 2]({{ site.baseurl }}/files/courses/Functional-analysis/pc2_v2.pdf)
-- [Graded problem set 3]({{ site.baseurl }}/files/courses/Functional-analysis/pc3_funcional.pdf)
-- [Graded problem set 4]({{ site.baseurl }}/files/courses/Functional-analysis/pc4_funcional.pdf)
+- [Graded problem set 1]({{ "/files/courses/Functional-analysis/pc1_funcional_v2.pdf" | relative_url }})
+- [Graded problem set 2]({{ "/files/courses/Functional-analysis/pc2_v2.pdf" | relative_url }})
+- [Graded problem set 3]({{ "/files/courses/Functional-analysis/pc3_funcional.pdf" | relative_url }})
+- [Graded problem set 4]({{ "/files/courses/Functional-analysis/pc4_funcional.pdf" | relative_url }})
 
 ---
 
 ### Solutions to Graded Problem Sets
-- [Solutions to graded problem set 1]({{ site.baseurl }}/files/courses/Functional-analysis/sol_pc1_funcional.pdf)
-- [Solutions to graded problem set 2]({{ site.baseurl }}/files/courses/Functional-analysis/sol_pc2.pdf)
-- [Solutions to graded problem set 3]({{ site.baseurl }}/files/courses/Functional-analysis/sol_pc3.pdf)
-- [Solutions to graded problem set 4]({{ site.baseurl }}/files/courses/Functional-analysis/sol_pc4.pdf)
+- [Solutions to graded problem set 1]({{ "/files/courses/Functional-analysis/sol_pc1_funcional.pdf" | relative_url }})
+- [Solutions to graded problem set 2]({{ "/files/courses/Functional-analysis/sol_pc2.pdf" | relative_url }})
+- [Solutions to graded problem set 3]({{ "/files/courses/Functional-analysis/sol_pc3.pdf" | relative_url }})
+- [Solutions to graded problem set 4]({{ "/files/courses/Functional-analysis/sol_pc4.pdf" | relative_url }})
