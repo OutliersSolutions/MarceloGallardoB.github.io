@@ -1,5 +1,3 @@
-Aquí tienes la documentación convertida a Markdown para tu README de GitHub:
-
 ---
 
 # Instrucciones de Instalación en Windows
