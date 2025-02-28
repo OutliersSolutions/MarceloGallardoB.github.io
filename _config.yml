@@ -11,8 +11,8 @@ title                    : "Marcelo Gallardo Burga"
 title_separator          : "-"
 name                     : &name "Marcelo Gallardo Burga"
 description              : &description "Mathematics & Economics PUCP"
-url                      : https://outlierssolutions.github.io/MarceloGallardoB.github.io/
-baseurl                  : "https://outlierssolutions.github.io/MarceloGallardoB.github.io/"
+url                      : "https://outlierssolutions.github.io/MarceloGallardoB.github.io"
+baseurl                  : "/"
 repository               : "MarceloGallardoB.github.io"
 teaser                   : 
 breadcrumbs              : false
