@@ -1,12 +1,43 @@
 # main links links
 main:
-  - title: "Education and experience"
-    url: /experience/    
-    
-  - title: "Books and papers"
+  - title: "Home"
+    url: /
+
+  - title: "Education & experience"
+    url: /experience/
+
+  - title: "Books & papers"
     url: /publication/
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Academic Presentations"
+    url: /academic-presentation/
+
+  - title: "Information Contact"
+    url: /contact/
+
+# Estas de abajo no quiero que se muestren en mi links navbars:
+
+  - title: "Microeconomics II - 2024-2"
+    url: /courses/microeconomics-2/
+
+  - title: "Financial Microeconomics , 2024-2"
+    url: /courses/financial-microeconomics-2024-2/
+
+  - title: "Optimization I, 2024-1"
+    url: /courses/optimization-i-2024-1/
+
+  - title: "Optimization I, 2025-1"
+    url: /courses/optimization-i-2025-1/
+
+  - title: "Functional Analysis , 2024-1"
+    url: /courses/functional-analysis-2024-1/
   
+  - title: "Mathematics for Economists 4 , 2022-2"
+    url: /courses/mathematics-for-economists-4-2022-2/
+  
+  - title: "Mathematics for Economists 3 , 2022-1"
+    url: /courses/mathematics-for-economists-3-2022-1/
 
