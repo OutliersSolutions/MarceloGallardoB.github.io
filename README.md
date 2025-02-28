@@ -1,4 +1,4 @@
-Aquí tienes la documentación convertida a Markdown para tu README de GitHub:
+
 
 ---
 
