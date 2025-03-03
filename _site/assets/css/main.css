@@ -237,16 +237,6 @@ nav ul li a:hover::after {
   transform: scaleX(1);
 }
 
-@media (max-width: 768px) {
-  nav ul {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  nav ul li {
-    margin: 10px 0;
-  }
-}
 header {
   width: 270px;
   float: right;
@@ -286,10 +276,12 @@ header .contact {
   border-radius: 15px;
   font-weight: bold;
   font-size: 14px;
-  color: #333;
   text-transform: uppercase;
   letter-spacing: 1px;
   padding: 10px;
+}
+header .contact a:hover {
+  color: #042354;
 }
 header h4 {
   font-size: 16px;
@@ -312,12 +304,6 @@ header ul li {
   border-radius: 4px;
 }
 
-@media (min-width: 1160px) {
-  #img-profile {
-    width: 100%;
-    max-width: none;
-  }
-}
 .research-cards {
   display: flex;
   flex-direction: column;
@@ -585,6 +571,11 @@ hr {
 }
 
 @media print, screen and (max-width: 1160px) {
+  #img-profile {
+    width: 100%;
+    max-width: none;
+  }
+
   .wrapper {
     width: auto;
     margin: 0;
@@ -592,9 +583,8 @@ hr {
 
   header,
   section {
-    float: none;
+    float: right;
     position: static;
-    width: auto;
   }
 
   header a small {
@@ -611,6 +601,28 @@ hr {
     border-width: 1px 0;
     padding: 20px 0;
     margin-bottom: 20px;
+    width: auto;
+  }
+}
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav ul li {
+    margin: 10px 0;
+  }
+
+  header {
+    width: 100%;
+  }
+
+  .wrapper {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
   }
 }
 @media print, screen and (max-width: 720px) {
@@ -619,7 +631,7 @@ hr {
   }
 
   header {
-    padding: 5px;
+    padding: 15px;
   }
   header ul,
   header p.view {

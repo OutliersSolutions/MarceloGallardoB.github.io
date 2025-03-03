@@ -19,36 +19,3 @@
   src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/js/all.min.js"
   integrity="sha512-b+nQTCdtTBIRIbraqNEwsjB6UvL3UEMkXnhzd8awtCYh0Kcsjl9uEgwVFVbhoj3uu1DO1ZMacNvLoyJJiNfcvg=="
   crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<script src="{{ "/assets/js/3dflipbook/jquery-1.11.0.min.js" | relative_url
-  }}"></script>
-
-<script src="{{ "/assets/js/3dflipbook/jquery.mousewheel.min.js" | relative_url
-  }}"></script>
-
-<script src="{{ "/assets/js/3dflipbook/three.min.js" | relative_url
-  }}"></script>
-
-<script src="{{ "/assets/js/3dflipbook/jquery.onebook3d-2.33.js" | relative_url
-  }}"></script>
-
-<script>
-  var src = [
-    '{{ "/assets/img/cv/1.png" | relative_url }}',
-    '{{ "/assets/img/cv/2.png" | relative_url }}',
-    '{{ "/assets/img/cv/3.png" | relative_url }}'
-  ];
-
-  $('#mybook').onebook(src, { 
-      startPage: 1,        
-      flip: 'soft',       
-      skin: 'dark',        
-      bgDark: '',          
-      bgLight: '',         
-      pageColor: 'white',  
-      slope: 0,          
-      border: 30,        
-      language: 'en',      
-      cesh: true          
-  });
-</script>
