@@ -6,6 +6,9 @@ permalink: /
 
 ## Marcelo Manuel Gallardo Burga
 ### Department of Mathematics
+### PUCP
+
+{% include index.html %}
 
 Mathematician from the Pontifical Catholic University of Peru (PUCP) with a concentration in economics ([CV here]({{ "/files/education-and-experience/cv_mg.pdf" | relative_url }})).  
 I am also a teaching and research assistant. My research interests include **Consumer Theory, Matching Theory, Optimal Control, and Optimal Transport applied to Economics**.

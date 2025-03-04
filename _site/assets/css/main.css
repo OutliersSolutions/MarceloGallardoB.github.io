@@ -624,6 +624,12 @@ hr {
     align-items: center;
     align-content: center;
   }
+
+  .card {
+    width: 90% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
 }
 @media print, screen and (max-width: 720px) {
   body {

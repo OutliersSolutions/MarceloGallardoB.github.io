@@ -36,7 +36,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
+    <img src="{{ "/assets/img/institutions/qlab_logo.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">QLab</h5>
@@ -215,7 +215,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
+    <img src="{{ "/assets/img/institutions/grade_logo.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Grade</h5>
