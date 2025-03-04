@@ -1,6 +1,11 @@
 // Media queries
 @media print,
 screen and (max-width: 1160px) {
+    #img-profile {
+        width: 100%;
+        max-width: none;
+    }
+
     .wrapper {
         width: auto;
         margin: 0;
@@ -8,9 +13,8 @@ screen and (max-width: 1160px) {
 
     header,
     section {
-        float: none;
+        float: right;
         position: static;
-        width: auto;
     }
 
     header {
@@ -33,7 +37,34 @@ screen and (max-width: 1160px) {
         border-width: 1px 0;
         padding: 20px 0;
         margin-bottom: 20px;
+        width: auto;
+
     }
+}
+
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul li {
+        margin: 10px 0;
+    }
+    header {
+        width: 100%;
+    }
+    .wrapper{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+    }
+    .card {
+        width: 90% !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
 }
 
 @media print,
@@ -43,7 +74,7 @@ screen and (max-width: 720px) {
     }
 
     header {
-        padding: 5px;
+        padding: 15px;
 
         ul,
         p.view {

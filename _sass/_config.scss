@@ -79,7 +79,6 @@ p {
         padding-left: 1px;
     }
 }
-
 h1,
 h2,
 h3 {
@@ -232,17 +231,6 @@ nav {
 }
 
 
-@media (max-width: 768px) {
-    nav ul {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    nav ul li {
-        margin: 10px 0;
-    }
-}
-
 
 // Header
 header {
@@ -289,10 +277,14 @@ header {
         border-radius: 15px;
         font-weight: bold;
         font-size: 14px;
-        color: #333;
         text-transform: uppercase;
         letter-spacing: 1px;
         padding: 10px;
+        a{
+            &:hover{
+                color: #042354;
+            }
+        }
 
     }
 
@@ -317,13 +309,6 @@ header {
             margin-bottom: 5px;
             border-radius: 4px;
         }
-    }
-}
-
-@media (min-width: 1160px) {
-    #img-profile {
-        width: 100%;
-        max-width: none;
     }
 }
 
@@ -361,7 +346,10 @@ header {
             a {
                 transition: transform 0.3s ease;
 
+                
+
             }
+
 
         }
 

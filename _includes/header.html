@@ -1,32 +1,23 @@
 <header>
      <img id="img-profile"
-          src="{{ base_path }}/assets/img/Marcelo-Gallardo-profile.jpg"
+          src="{{ "/assets/img/Marcelo-Gallardo-profile.jpg" | relative_url }}"
           alt="foto-marcelo-gallardo"
           draggable="false" />
-     <h2 id="profile-name">Marcelo Manuel
-          Gallardo Burga</h2>
-     <p>Mathematics & Economics PUCP</p>
-
-     <div class="contact">
-
-          <a href="{{ base_path }}/contact">
-
-               Contact information
-
-          </a>
-
+     <!-- <p>Mathematics & Economics PUCP</p> -->
+   
+     <div class="contact" style="margin-bottom: 10px;">
+       <a href="{{ "/contact" | relative_url }}">
+         Contact
+       </a>
      </div>
-
+     <div class="contact">
+       <a href="{{ "/files/education-and-experience/cv_mg.pdf" | relative_url }}" target="_blank">
+         CV
+       </a>
+     </div>
+   
      <hr />
-
-     <p><strong>Department of Mathematics</strong></p>
-     <p>Pontificia Universidad Católica del Perú</p>
-     <p>Av. Universitaria 1801, San Miguel, Lima, Peru</p>
-
-     <hr />
-
-     <footer>
-          &copy; 2025 Todos los derechos reservados.
-      </footer>
-
-</header>
+   
+    
+   </header>
+   
