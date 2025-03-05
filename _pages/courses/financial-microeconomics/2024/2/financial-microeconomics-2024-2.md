@@ -37,14 +37,19 @@ permalink:  /courses/financial-microeconomics/2024-2/
 
 ### Graded Problem Sets
 - [Graded problem set 1]({{ "/files/courses/Financial-microeconomics/Graded_problem_set_1_micro_financiera_sol.pdf" | relative_url }})
-  - [Solutions to graded problem set 1]({{ "/files/courses/Financial-microeconomics/Graded_problem_set_1_micro_financiera_sol.pdf" | relative_url }})
 - [Graded problem set 2]({{ "/files/courses/Financial-microeconomics/Graded_Problem_set_2_Micro_Fin_sol.pdf" | relative_url }})
-  - [Solutions to graded problem set 2]({{ "/files/courses/Financial-microeconomics/Graded_Problem_set_2_Micro_Fin_sol.pdf" | relative_url }})
-- [Homework for problem set 3]({{ "/files/courses/Financial-microeconomics/Tarea_3_micro_fin_lecture_notes.pdf" | relative_url }})
 - [Graded problem set 3]({{ "/files/courses/Financial-microeconomics/Graded_problem_set_3_micro_fin_sol.pdf" | relative_url }})
-  - [Solutions to graded problem set 3]({{ "/files/courses/Financial-microeconomics/Graded_problem_set_3_micro_fin_sol.pdf" | relative_url }})
 - [Graded problem set 4]({{ "/files/courses/Financial-microeconomics/Problem_set_4_Micro_Fin.pdf" | relative_url }})
-  - [Solutions to graded problem set 4]({{ "/files/courses/Financial-microeconomics/Graded_problem_set_4_sol.pdf" | relative_url }})
+- [Homework for problem set 3]({{ "/files/courses/Financial-microeconomics/Tarea_3_micro_fin_lecture_notes.pdf" | relative_url }})
+  
+
+---
+
+### Solutions to Graded Problem Sets
+- [Solutions to graded problem set 1]({{ "/files/courses/Financial-microeconomics/Graded_problem_set_1_micro_financiera_sol.pdf" | relative_url }})
+- [Solutions to graded problem set 2]({{ "/files/courses/Financial-microeconomics/Graded_Problem_set_2_Micro_Fin_sol.pdf" | relative_url }})
+- [Solutions to graded problem set 3]({{ "/files/courses/Financial-microeconomics/Graded_problem_set_3_micro_fin_sol.pdf" | relative_url }})
+- [Solutions to graded problem set 4]({{ "/files/courses/Financial-microeconomics/Graded_problem_set_4_sol.pdf" | relative_url }})
 
 ---
 

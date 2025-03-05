@@ -6,9 +6,25 @@ permalink: /experience/
 
 ## Education
 
+
 <div class="card">
   <div class="card-header">
-    <img src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
+    <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">MA(c) Economics and Applied Mathematics</h5>
+      <p class="card-text">
+      <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia Universidad Católica del Perú</a>
+    </p>
+    <p class="card-text">
+      2023 - 2025
+    </p>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header">
+    <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Grade in Mathematics</h5>
@@ -21,7 +37,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ "/assets/img/institutions/LyceeFrancoPeruvien.png" | relative_url }}" alt="PUCP Logo">
+    <img draggable="false" src="{{ "/assets/img/institutions/LyceeFrancoPeruvien.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Baccaluréat Scientifique</h5>
@@ -36,7 +52,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ "/assets/img/institutions/qlab_logo.png" | relative_url }}" alt="PUCP Logo">
+    <img draggable="false" src="{{ "/assets/img/institutions/qlab_logo.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">QLab</h5>
@@ -49,30 +65,17 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
-  </div>
-  <div class="card-body">
-    <h5 class="card-title">MA(c) Economics and Applied Mathematics</h5>
-    <p class="card-text">
-      2023 - 2025
-    </p>
-    <p class="card-text">PUCP</p>
-  </div>
-</div>
-
-<div class="card">
-  <div class="card-header">
-    <img src="{{ "/assets/img/institutions/harvard-logo.png" | relative_url }}" alt="Harvard Logo">
+    <img draggable="false" src="{{ "/assets/img/institutions/harvard-logo.png" | relative_url }}" alt="Harvard Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Harvard University</h5>
-    <p class="card-text">Aug. 2024</p>
     <p class="card-text">
       Professor <a href="https://professional.dce.harvard.edu/faculty/mark-esposito/">Mark Esposito</a>
     </p>
     <p class="card-text">
       <a href="{{ "/files/courses/education-and-experience/harvard_pucp.pdf" | relative_url }}">Certificate</a>
     </p>
+    <p class="card-text">Aug. 2024</p>
   </div>
 </div>
 
@@ -82,7 +85,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ "/assets/img/institutions/LyceeFrancoPeruvien.png" | relative_url }}" alt="PUCP Logo">
+    <img draggable="false" src="{{ "/assets/img/institutions/LyceeFrancoPeruvien.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Mention Très Bien au Baccalauréat Scientifique</h5>
@@ -95,7 +98,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ "/assets/img/institutions/ecole-paris.png" | relative_url }}" alt="PUCP Logo">
+    <img draggable="false" src="{{ "/assets/img/institutions/ecole-paris.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Admission to l’X Bachelor Program</h5>
@@ -108,29 +111,29 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
+    <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title"> Contest Initiation to scientific research</h5>
     <p class="card-text">Winner in the individual class</p>
-    <p class="card-text">2020 - 2021</p>
     <p class="card-text">
-      <a href="{{ "https://facultad.pucp.edu.pe/generales-ciencias/evento/ganadores-del-concurso-proyecto-iniciacion-la-investigacion-2020/" | relative_url }}">PUCP</a>
+      <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia Universidad Católica del Perú (PUCP)</a>
     </p>
+    <p class="card-text">2020 and 2021</p>
   </div>
 </div>
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
+    <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Excellence Scholarhsip</h5>
     <p class="card-text">Winner in the individual class</p>
-    <p class="card-text">2024</p>
-    <p class="card-text">
-      <a href=" https://puntoedu.pucp.edu.pe/institucional/becas-excellence-scholarships-mejores-universidades-del-mundo/" target="_blank">PUCP</a>
+     <p class="card-text">
+      <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia Universidad Católica del Perú (PUCP)</a>
     </p>
+    <p class="card-text">2024</p>
   </div>
 </div>
 
@@ -140,7 +143,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
+    <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Economics, PUCP</h5>
@@ -162,7 +165,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
+    <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Mathematics, PUCP</h5>
@@ -183,7 +186,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ "/assets/img/institutions/unsw.png" | relative_url }}" alt="PUCP Logo">
+    <img draggable="false" src="{{ "/assets/img/institutions/unsw.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Research at UNSW</h5>
@@ -199,12 +202,12 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
+    <img draggable="false" src="{{ "/assets/img/institutions/pucp-logo.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Research at PUCP</h5>
-    <p class="card-text">
-      <a href="https://www.pucp.edu.pe/carrera/matematicas/">PUCP</a>
+     <p class="card-text">
+      <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia Universidad Católica del Perú (PUCP)</a>
     </p>
     <p class="card-text">
       Working with PhD <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank">Jorge Richard Chávez Fuentes</a>
@@ -215,12 +218,12 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img src="{{ "/assets/img/institutions/grade_logo.png" | relative_url }}" alt="PUCP Logo">
+    <img draggable="false" src="{{ "/assets/img/institutions/grade_logo.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Grade</h5>
     <p class="card-text">
-      <a href="https://www.pucp.edu.pe/carrera/matematicas/">PUCP</a>
+      <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia Universidad Católica del Perú (PUCP)</a>
     </p>
     <p class="card-text">
       Working with PhD <a href="https://www.grade.org.pe/en/investigadores/personal/jleon/" target="_blank">Juan León Jara-Almonte</a>
