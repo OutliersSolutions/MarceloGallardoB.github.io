@@ -7,7 +7,7 @@ permalink:  /courses/financial-microeconomics/2024-2/
 ## [Financial Microeconomics](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-financiera/), 2024-2
 
 ### Syllabus del curso
-*No hay material disponible para este subtítulo.*
+- [Syllabus]({{ "/files/courses/Financial-microeconomics/Financial_microeconomics_SILABO.pdf" | relative_url }})
 
 ---
 

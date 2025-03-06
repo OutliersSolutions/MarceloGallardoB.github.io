@@ -7,7 +7,7 @@ permalink: /courses/mathematics-for-economists-3/2022-1/
 ## [Mathematics for Economists 3](https://facultad.pucp.edu.pe/generales-letras/curso/matematica-para-economistas-3/), 2022-1
 
 ### Syllabus del curso
-*No hay material disponible para este subtítulo.*
+- [Syllabus]({{ "/files/courses/Mathematics-for-economists/III/Mathematics_for_economics_3_1MAT270937-2022-1-SILABO.PDF" | relative_url }})
 
 ---
 

@@ -29,7 +29,7 @@
 body {
   background-color: #EBF0F5;
   padding: 50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #3b3b3b;
   font-weight: 400;
   height: 100%;
@@ -186,11 +186,6 @@ img {
   max-width: 100%;
 }
 
-#img-profile {
-  max-width: 100%;
-  border-radius: 15px;
-}
-
 nav {
   background-color: #EBF0F5;
   padding: 10px 0;
@@ -238,7 +233,7 @@ nav ul li a:hover::after {
 }
 
 header {
-  width: 270px;
+  width: 220px;
   float: right;
   height: fit-content;
   -webkit-font-smoothing: subpixel-antialiased;
@@ -302,26 +297,6 @@ header ul li {
   padding: 5px 10px;
   margin-bottom: 5px;
   border-radius: 4px;
-}
-
-.research-cards {
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-  margin-top: 10px;
-}
-.research-cards .research-card {
-  background: #f9f9f9;
-  padding: 10px;
-  border-radius: 6px;
-  font-size: 14px;
-  font-weight: 500;
-  text-align: center;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  transition: background 0.3s ease;
-}
-.research-cards .research-card:hover {
-  background: #EBF0F5;
 }
 
 #contact ul.social-links {

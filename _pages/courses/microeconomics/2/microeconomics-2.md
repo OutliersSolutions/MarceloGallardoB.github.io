@@ -7,7 +7,8 @@ permalink: /courses/microeconomics/2024-2/
 ## [Microeconomics II](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-2/), 2024-2
 
 ### Syllabus del curso
-*No hay material disponible para este subtítulo.*
+
+- [Syllabus]({{ "/files/courses/Microeconomics-II/Microeconomics_2_ECO2630621-2024-2-SILABO.PDF" | relative_url }})
 
 ---
 
@@ -35,6 +36,19 @@ permalink: /courses/microeconomics/2024-2/
 
 ---
 
+### Graded to Problem Sets
+- [Test 1]({{ "/files/courses/Microeconomics-II/Microeconomics_2_Graded_problem_set_1.pdf" | relative_url }})
+- [Test 2]({{ "/files/courses/Microeconomics-II/Microeconomics_2_test_2.pdf" | relative_url }})
+- [Test 3]({{ "/files/courses/Microeconomics-II/test_3_v2_lecture_notes.pdf" | relative_url }})
+- [Test 4]({{ "/files/courses/Microeconomics-II/Microeconomics_2_Graded_Problem_set_4.pdf" | relative_url }})
+- [Solutions to test 1]({{ "/files/courses/Microeconomics-II/Microeconomics_2_Graded_Problem_set_1_sol.pdf" | relative_url }})
+- [Solutions to test 2]({{ "/files/courses/Microeconomics-II/Microeconomics_2_test_2_sol.pdf" | relative_url }})
+- [Supplementary test 2]({{ "/files/courses/Microeconomics-II/Micoeconomics_2_test_2_v2.pdf" | relative_url }})
+- [Solutions to test 3]({{ "/files/courses/Microeconomics-II/test_3_sol.pdf" | relative_url }})
+- [Solutions to test 4]({{ "/files/courses/Microeconomics-II/test_4_sol.pdf" | relative_url }})
+
+---
+
 ### Slides
 - [Slides with solutions to problem set 3]({{ "/files/courses/Microeconomics-II/slides_recitation_3.pdf" | relative_url }})
 - [Slides with solutions to problem set 4]({{ "/files/courses/Microeconomics-II/Microeconomics_2_slides_recitation_4.pdf" | relative_url }})
@@ -44,7 +58,7 @@ permalink: /courses/microeconomics/2024-2/
 ### Lecture Notes
 - [Lecture notes in general equilibrium]({{ "/files/courses/Microeconomics-II/EG_lecture_notes.pdf" | relative_url }})
 
-#### Supplementary Material
+### Supplementary Material
 - [Consumer and producer theory]({{ "/files/courses/Microeconomics-II/economic_theory_exercises_lecture_notes.pdf" | relative_url }})
 - [Brouwer fixed point theorem and applications in general equilibrium]({{ "/files/courses/Microeconomics-II/brouwer_fixed_point_theorem_lecture_notes.pdf" | relative_url }})  
   *with Carlos Cosentino and Eduardo Llamoca*

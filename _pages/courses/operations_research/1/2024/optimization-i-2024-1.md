@@ -7,7 +7,7 @@ permalink: /courses/optimization-i/2024-1/
 ## [Operations Research](https://MarceloGallardoB.github.io/files/SyllabusIOP224.pdf), 2024-1
 
 ### Syllabus del curso
-*No hay material disponible para este subtítulo.*
+- [Syllabus]({{ "/files/courses/Optimization/1/2024/1/Optimization_IOP224-2024-1-SILABO.PDF" | relative_url }})
 
 ---
 
