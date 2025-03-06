@@ -7,7 +7,7 @@ permalink: /courses/mathematics-for-economists-4/2022-2/
 ## [Mathematics for Economists 4](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/matematicas-para-economistas/), 2022-2
 
 ### Syllabus del curso
-*No hay material disponible para este subtítulo.*
+- [Syllabus]({{ "/files/courses/Mathematics-for-economists/IV/Mathematics_for_economics_4_MAT2910522-2022-2-SILABO.PDF" | relative_url }})
 
 ---
 
@@ -31,11 +31,6 @@ permalink: /courses/mathematics-for-economists-4/2022-2/
 
 ---
 
-### Slides
-- [Complementary slides for problem set 5]({{ "/files/courses/Mathematics-for-economists/IV/Problem_set_5_slides_sol.pdf" | relative_url }})
-
----
-
 ### Graded Problem Sets and Exams
 - [Graded problem set 1]({{ "/files/courses/Mathematics-for-economists/IV/Graded_problem_set_1.pdf" | relative_url }})
 - [Graded problem set 2]({{ "/files/courses/Mathematics-for-economists/IV/Graded_problem_set_2.pdf" | relative_url }})
@@ -54,6 +49,11 @@ permalink: /courses/mathematics-for-economists-4/2022-2/
 - [Solutions to homework]({{ "/files/courses/Mathematics-for-economists/IV/24-homework_sol.pdf" | relative_url }})
 - [Solutions to midterm]({{ "/files/courses/Mathematics-for-economists/IV/25-Solutions-midterm.pdf" | relative_url }})
 - [Solutions to final exam]({{ "/files/courses/Mathematics-for-economists/IV/26-Solutions-final-exam.pdf" | relative_url }})
+
+---
+
+### Slides
+- [Complementary slides for problem set 5]({{ "/files/courses/Mathematics-for-economists/IV/Problem_set_5_slides_sol.pdf" | relative_url }})
 
 ---
 

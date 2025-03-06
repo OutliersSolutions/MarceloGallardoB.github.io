@@ -10,13 +10,33 @@ permalink: /teaching/
         margin: 5px 0px 5px 0px;
     }
 
+    h4{
+      margin-left: 40px
+    }
+
+    /* Ajustar el contenedor y las tarjetas en dispositivos móviles */
+    @media (max-width: 768px) {
+        .card {
+            width: fit-content; /* Asegura que las tarjetas ocupen el 100% */
+            margin-left: 10px !important; /* Evita márgenes laterales */
+        }
+
+        h4{
+          margin-left: 5px
+        }
+        
+        div[style*="margin-left: 60px;"] {
+            margin-left: 0 !important; /* Remueve el margen izquierdo de los contenedores */
+        }
+    }
+
 </style>
 
 ## Teaching Assistance
 
 ### <img src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" draggable="false" alt="PUCP Logo" style="height: 30px; vertical-align: middle;"> Pontificia Universidad Católica del Perú (PUCP)
 
-#### &emsp;&emsp;&emsp;&emsp; Faculty of Sciences and Engineering, Department of Mathematics
+#### Faculty of Sciences and Engineering, Department of Mathematics
 
 <div style="margin-left: 60px;">
    <div class="card" style="width:50%; margin-left: 20px;">
@@ -48,7 +68,7 @@ permalink: /teaching/
     </div>
 </div>
 
-#### &emsp;&emsp;&emsp;&emsp; Faculty of Social Sciences, Economics and Finance
+#### Faculty of Social Sciences, Economics and Finance
 
 <div style="margin-left: 60px;">
    <div class="card" style="width:50%; margin-left: 20px;">

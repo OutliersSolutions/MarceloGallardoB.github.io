@@ -8,7 +8,7 @@ permalink: /courses/functional-analysis/2024-1
 ## [Functional Analysis](https://MarceloGallardoB.github.io/files/1MAT33-2024-1-SILABO.PDF), 2024-1
 
 ### Syllabus del curso
-*No hay material disponible para este subtítulo.*
+- [Syllabus]({{ "/files/courses/Functional-analysis/Functional_analisis1MAT33-2024-1-SILABO.PDF" | relative_url }})
 
 ---
 
