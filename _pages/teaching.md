@@ -56,7 +56,7 @@ permalink: /teaching/
 
    <div class="card" style="width:50%; margin-left: 20px;">
       <div class="card-body">
-        <h5 class="card-title"><a href="https://MarceloGallardoB.github.io/files/1MAT33-2024-1-SILABO.PDF" target="_blank">Functional Analysis</a></h5>
+        <h5 class="card-title"><a href="https://MarceloGallardoB.github.io/files/courses/Functional-analysis/Functional_analisis1MAT33-2024-1-SILABO.PDF" target="_blank">Functional Analysis</a></h5>
         <p class="card-text">
           With <a href="https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez" target="_blank">PhD Percy Fernandez</a>
         </p>
