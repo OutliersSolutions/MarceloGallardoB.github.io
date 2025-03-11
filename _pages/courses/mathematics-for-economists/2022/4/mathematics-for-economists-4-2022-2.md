@@ -36,8 +36,8 @@ permalink: /courses/mathematics-for-economists-4/2022-2/
 - [Graded problem set 2]({{ "/files/courses/Mathematics-for-economists/IV/Graded_problem_set_2.pdf" | relative_url }})
 - [Graded problem set 3]({{ "/files/courses/Mathematics-for-economists/IV/Graded_problem_set_3.pdf" | relative_url }})
 - [Graded problem set 4]({{ "/files/courses/Mathematics-for-economists/IV/Graded_problem_set_4.pdf" | relative_url }})
-- [Homework]({{ "/files/courses/Mathematics-for-economists/IV/23-Homework_lecture_notes.pdf" | relative_url }})
-- [Mock midterm]({{ "/files/courses/Mathematics-for-economists/IV/14-Mock-midterm.pdf" | relative_url }})
+- [Homework]({{ "/files/courses/Mathematics-for-economists/IV/Homework_lecture_notes.pdf" | relative_url }})
+- [Mock midterm]({{ "/files/courses/Mathematics-for-economists/IV/Mock-midterm.pdf" | relative_url }})
 
 ---
 
