@@ -12,7 +12,7 @@ permalink:  /courses/financial-microeconomics/2024-2/
 ---
 
 ### Problem Sets
-- [Problem set 1]({{ "/files/courses/Financial-microeconomics/Problem_set__Micro_Fin.pdf" | relative_url }})
+- [Problem set 1]({{ "/files/courses/Financial-microeconomics/Problem_set_1_Micro_Fin.pdf" | relative_url }})
 - [Problem set 2]({{ "/files/courses/Financial-microeconomics/Problem_set_2_Micro_Financiera.pdf" | relative_url }})
 - [Problem set 3]({{ "/files/courses/Financial-microeconomics/Problem_set_3_Micro_Financiera.pdf" | relative_url }})
 - [Problem set 4]({{ "/files/courses/Financial-microeconomics/Problem_set_4_Micro_Fin.pdf" | relative_url }})
