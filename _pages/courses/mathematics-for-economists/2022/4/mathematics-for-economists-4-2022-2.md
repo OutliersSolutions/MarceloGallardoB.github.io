@@ -46,15 +46,16 @@ permalink: /courses/mathematics-for-economists-4/2022-2/
 - [Solutions to graded problem set 2]({{ "/files/courses/Mathematics-for-economists/IV/Graded_problem_set_2_sol.pdf" | relative_url }})
 - [Solutions to graded problem set 3]({{ "/files/courses/Mathematics-for-economists/IV/Graded_problem_set_3_sol.pdf" | relative_url }})
 - [Solutions to graded problem set 4]({{ "/files/courses/Mathematics-for-economists/IV/Graded_problem_set_4_sol.pdf" | relative_url }})
-- [Solutions to homework]({{ "/files/courses/Mathematics-for-economists/IV/24-homework_sol.pdf" | relative_url }})
-- [Solutions to midterm]({{ "/files/courses/Mathematics-for-economists/IV/25-Solutions-midterm.pdf" | relative_url }})
-- [Solutions to final exam]({{ "/files/courses/Mathematics-for-economists/IV/26-Solutions-final-exam.pdf" | relative_url }})
+- [Solutions to homework]({{ "/files/courses/Mathematics-for-economists/IV/homework_sol.pdf" | relative_url }})
+- [Solutions to midterm]({{ "/files/courses/Mathematics-for-economists/IV/Solutions-midterm.pdf" | relative_url }})
+- [Solutions to final exam]({{ "/files/courses/Mathematics-for-economists/IV/Solutions-final-exam.pdf" | relative_url }})
 
 ---
 
-### Slides
-- [Complementary slides for problem set 5]({{ "/files/courses/Mathematics-for-economists/IV/Problem_set_5_slides_sol.pdf" | relative_url }})
-
+### Complementary material and slides
+- [Complementary exercises for problem set 5]({{ "/files/courses/Mathematics-for-economists/IV/Problem_set_5_slides_sol.pdf" | relative_url }})
+- [Slides for problem set 4]({{ "/files/courses/Mathematics-for-economists/IV/Graded_problem_set_4.pdf" | relative_url }})
+- [Slides for problem set 5]({{ "/files/courses/Mathematics-for-economists/IV/Problem_set_5_sol.pdf" | relative_url }})
 ---
 
 ### Supplementary Material on Dynamic Programming and Discrete Time Optimal Control
