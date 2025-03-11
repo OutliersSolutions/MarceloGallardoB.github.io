@@ -2,7 +2,7 @@
   <ul>
     {% for link in site.data.navigation.main %}
       {% unless link.url contains '/courses/' or link.url == '/contact/' or link.url == '/publication/papers/' or link.url == '/publication/books/' %}
-        <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
       {% endunless %}
     {% endfor %}
   </ul>
