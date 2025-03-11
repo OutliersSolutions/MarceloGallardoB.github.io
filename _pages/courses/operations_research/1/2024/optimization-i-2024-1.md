@@ -21,7 +21,7 @@ permalink: /courses/optimization-i/2024-1/
 ---
 
 ### Graded Problem Sets and Exams
-- [Graded problem set 1](https://drive.google.com/file/d/1O2HdGYSiVLZJ-nlPn80aEWf93OW5SRfH/view?usp=drive_link)
+- [Graded problem set 1]({{ "/files/courses/Optimization/1/2024/1/Graded_problem_set_1.pdf" | relative_url }})
 - [Graded problem set 2]({{ "/files/courses/Optimization/1/2024/1/Graded_problem_set_2.pdf" | relative_url }})
 - [Graded problem set 3]({{ "/files/courses/Optimization/1/2024/1/Graded_problem_set_3.pdf" | relative_url }})
 - [Graded problem set 4]({{ "/files/courses/Optimization/1/2024/1/Graded_problem_set_4.pdf" | relative_url }})
