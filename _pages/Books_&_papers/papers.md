@@ -9,7 +9,7 @@ permalink: /publication/papers/
 * [Congestion and Penalization in Optimal Transport]({{ "/files/books-and-papers/alternative-unconstrained-penalized-matching.pdf" | relative_url }}) - Under review  
   [Marcelo Gallardo]({{ "/" | relative_url }}), [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge_chavez_fuentes).  
   <details>
-    <summary>Abstract | <a href="https://arxiv.org/pdf/2410.07363" target="_blank">Pre-print</a></summary>
+    <summary>Abstract | <a href="https://arxiv.org/abs/2410.07363" target="_blank">Pre-print</a></summary>
     In this paper we introduce two novel models derived from the discrete optimal transport problem. The first model extends the traditional transport problem by adding a quadratic congestion factor directly into the cost function, while the second model replaces conventional constraints with weighted penalization terms. We present theoretical results, for the characterization of interior and corner solution for some specific cases, and we perform smooth comparative statics analysis. We also propose an O((N+L)(NL)2) algorithm for computing the optimal plan for the penalized model assuming interior solutions. Pre-print in arXiv differs slightly from the last version in <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025651" target="_blank">SSRN</a>.
   </details>
 
