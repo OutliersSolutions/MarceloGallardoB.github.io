@@ -42,7 +42,7 @@ permalink: /experience/
   <div class="card-body">
     <h5 class="card-title">Baccaluréat Scientifique</h5>
     <p class="card-text">Lycée Franco Péruvien</p>
-    <p class="card-text">2017 - 2018</p>
+    <p class="card-text">2017 - 2019</p>
   </div>
 </div>
 
