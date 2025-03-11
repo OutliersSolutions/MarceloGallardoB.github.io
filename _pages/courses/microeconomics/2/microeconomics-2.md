@@ -13,45 +13,49 @@ permalink: /courses/microeconomics/2024-2/
 ---
 
 ### Problem Sets
-- [Problem set 1]({{ "/files/courses/Microeconomics-II/recitation_1_lecture_notes.pdf" | relative_url }})
-- [Problem set 2]({{ "/files/courses/Microeconomics-II/Microeconomics_2_Recitation_2.pdf" | relative_url }})
-- [Problem set 3]({{ "/files/courses/Microeconomics-II/Microeconomics_2_Problem_Set_3.pdf" | relative_url }})
-- [Problem set 4]({{ "/files/courses/Microeconomics-II/Microeconomics_2_recitation_4.pdf" | relative_url }})
-- [Problem set 5]({{ "/files/courses/Microeconomics-II/Microeconomics_2_Problem_Set_5.pdf" | relative_url }})
-- [Problem set 6]({{ "/files/courses/Microeconomics-II/Microeconomics_2_Problem_Set_6.pdf" | r`elative_url }})
-- [Problem set 7]({{ "/files/courses/Microeconomics-II/Microeconomics_2_recitation_7.pdf" | relative_url }})
-- [Problem set 8]({{ "/files/courses/Microeconomics-II/recitation_8_lecture_notes.pdf" | relative_url }})
+- [Problem set 1]({{ "/files/courses/Microeconomics-II/Problem_set_1_Micro_2.pdf" | relative_url }})
+- [Problem set 2]({{ "/files/courses/Microeconomics-II/Problem_set_2_Micro_2.pdf" | relative_url }})
+- [Problem set 3]({{ "/files/courses/Microeconomics-II/Problem_set_3_Micro_2.pdf" | relative_url }})
+- [Problem set 4]({{ "/files/courses/Microeconomics-II/Problem_set_4_Micro_2.pdf" | relative_url }})
+- [Problem set 5]({{ "/files/courses/Microeconomics-II/Problem_set_5_Micro_2.pdf" | relative_url }})
+- [Problem set 6]({{ "/files/courses/Microeconomics-II/Problem_set_6_Micro_2.pdf" | r`elative_url }})
+- [Problem set 7]({{ "/files/courses/Microeconomics-II/Problem_set_7_Micro_2.pdf" | relative_url }})
+- [Problem set 8]({{ "/files/courses/Microeconomics-II/Problem_set_8_Micro_2.pdf" | relative_url }})
 
 ---
 
 ### Solutions to Problem Sets
-- [Solutions to problem set 1]({{ "/files/courses/Microeconomics-II/recitation_1_sol.pdf" | relative_url }})
-- [Solutions to problem set 2]({{ "/files/courses/Microeconomics-II/Recitation_2_sol.pdf" | relative_url }})
+- [Solutions to problem set 1]({{ "/files/courses/Problem_set_1_Micro_2_sol.pdf" | relative_url }})
+- [Solutions to problem set 2]({{ "/files/courses/Microeconomics-II/Problem_set_2_Micro_2_sol.pdf" | relative_url }})
 - [Solutions to problem set 3]({{ "/files/courses/Microeconomics-II/slides_recitation_3.pdf" | relative_url }})
-- [Solutions to problem set 4]({{ "/files/courses/Microeconomics-II/Microeconomics_2_slides_recitation_4.pdf" | relative_url }})
-- [Solutions to problem set 5]({{ "/files/courses/Microeconomics-II/Microeconomics_2_recitation_5_sol.pdf" | relative_url }})
-- [Solutions to problem set 6]({{ "/files/courses/Microeconomics-II/Microeconomics_2_recitation_6.pdf" | relative_url }})
-- [Solutions to problem set 7]({{ "/files/courses/Microeconomics-II/Microeconomics_2_Problem_set_7_sol.pdf" | relative_url }})
-- [Solutions to problem set 8]({{ "/files/courses/Microeconomics-II/recitation_8_sol.pdf" | relative_url }})
+- [Solutions to problem set 4]({{ "/files/courses/Microeconomics-II/Problem_set_4_Micro_2_slides_sol.pdf" | relative_url }})
+- [Solutions to problem set 5]({{ "/files/courses/Microeconomics-II/Problem_set_5_Micro_2_slides_sol" | relative_url }})
+- [Solutions to problem set 6]({{ "/files/courses/Microeconomics-II/Problem_set_6_Micro_2_sol.pdf" | relative_url }})
+- [Solutions to problem set 7]({{ "/files/courses/Microeconomics-II/Problem_set_7_Micro_2_sol.pdf" | relative_url }})
+- [Solutions to problem set 8]({{ "/files/courses/Microeconomics-II/Problem_set_8_Micro_2_sol.pdf" | relative_url }})
 
 ---
 
 ### Graded to Problem Sets
-- [Test 1]({{ "/files/courses/Microeconomics-II/Microeconomics_2_Graded_problem_set_1.pdf" | relative_url }})
-- [Test 2]({{ "/files/courses/Microeconomics-II/Microeconomics_2_test_2.pdf" | relative_url }})
-- [Test 3]({{ "/files/courses/Microeconomics-II/test_3_v2_lecture_notes.pdf" | relative_url }})
-- [Test 4]({{ "/files/courses/Microeconomics-II/Microeconomics_2_Graded_Problem_set_4.pdf" | relative_url }})
-- [Solutions to test 1]({{ "/files/courses/Microeconomics-II/Microeconomics_2_Graded_Problem_set_1_sol.pdf" | relative_url }})
-- [Solutions to test 2]({{ "/files/courses/Microeconomics-II/Microeconomics_2_test_2_sol.pdf" | relative_url }})
-- [Supplementary test 2]({{ "/files/courses/Microeconomics-II/Micoeconomics_2_test_2_v2.pdf" | relative_url }})
-- [Solutions to test 3]({{ "/files/courses/Microeconomics-II/test_3_sol.pdf" | relative_url }})
-- [Solutions to test 4]({{ "/files/courses/Microeconomics-II/test_4_sol.pdf" | relative_url }})
+- [Test 1]({{ "/files/courses/Microeconomics-II/Graded_problem_set_1_Micro_2.pdf" | relative_url }})
+- [Test 2]({{ "/files/courses/Microeconomics-II/Graded_problem_set_2_Micro_2.pdf" | relative_url }})
+- [Test 3]({{ "/files/courses/Microeconomics-II/Graded_problem_set_3_Micro_2_sol.pdf" | relative_url }})
+- [Test 4]({{ "/files/courses/Microeconomics-II/Graded_problem_set_4_Micro_2.pdf" | relative_url }})
+
+---
+### Solutions to Graded to Problem Sets
+
+- [Solutions to test 1]({{ "/files/courses/Microeconomics-II/Graded_problem_set_1_Micro_2_sol.pdf" | relative_url }})
+- [Solutions to test 2]({{ "/files/courses/Microeconomics-II/Graded_problem_set_2_Micro_2_sol.pdf" | relative_url }})
+- [Supplementary test 2]({{ "/files/courses/Microeconomics-II/Graded_problem_set_2_Micro_2_sol_sup.pdf" | relative_url }})
+- [Solutions to test 3]({{ "/files/courses/Microeconomics-II/Graded_problem_set_3_Micro_2_sol.pdf" | relative_url }})
+- [Solutions to test 4]({{ "/files/courses/Microeconomics-II/Graded_problem_set_4_Micro_2_sol.pdf" | relative_url }})
 
 ---
 
 ### Slides
 - [Slides with solutions to problem set 3]({{ "/files/courses/Microeconomics-II/slides_recitation_3.pdf" | relative_url }})
-- [Slides with solutions to problem set 4]({{ "/files/courses/Microeconomics-II/Microeconomics_2_slides_recitation_4.pdf" | relative_url }})
+- [Slides with solutions to problem set 4]({{ "/files/courses/Microeconomics-II/Problem_set_4_Micro_2_slides_sol.pdf" | relative_url }})
 
 ---
 
