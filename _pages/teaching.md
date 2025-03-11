@@ -41,7 +41,7 @@ permalink: /teaching/
 <div style="margin-left: 60px;">
    <div class="card" style="width:50%; margin-left: 20px;">
       <div class="card-body">
-        <h5 class="card-title"><a href="https://MarceloGallardoB.github.io/files/SyllabusIOP224.pdf" target="_blank">Operations Research (Convex Optimization)</a></h5>
+        <h5 class="card-title"><a href="https://marcelogallardob.github.io/files/courses/Optimization/1/2024/1/Optimization_IOP224-2024-1-SILABO.PDF" target="_blank">Operations Research (Convex Optimization)</a></h5>
         <p class="card-text">
           With <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank">PhD Jorge Chávez</a>
         </p>
