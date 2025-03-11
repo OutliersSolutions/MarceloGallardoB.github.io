@@ -25,11 +25,11 @@ permalink: /courses/microeconomics/2024-2/
 ---
 
 ### Solutions to Problem Sets
-- [Solutions to problem set 1]({{ "/files/courses/Problem_set_1_Micro_2_sol.pdf" | relative_url }})
+- [Solutions to problem set 1]({{ "/files/courses/Microeconomics-II/Problem_set_1_Micro_2_sol.pdf" | relative_url }})
 - [Solutions to problem set 2]({{ "/files/courses/Microeconomics-II/Problem_set_2_Micro_2_sol.pdf" | relative_url }})
 - [Solutions to problem set 3]({{ "/files/courses/Microeconomics-II/slides_recitation_3.pdf" | relative_url }})
 - [Solutions to problem set 4]({{ "/files/courses/Microeconomics-II/Problem_set_4_Micro_2_slides_sol.pdf" | relative_url }})
-- [Solutions to problem set 5]({{ "/files/courses/Microeconomics-II/Problem_set_5_Micro_2_slides_sol" | relative_url }})
+- [Solutions to problem set 5]({{ "/files/courses/Microeconomics-II/Problem_set_5_Micro_2_sol" | relative_url }})
 - [Solutions to problem set 6]({{ "/files/courses/Microeconomics-II/Problem_set_6_Micro_2_sol.pdf" | relative_url }})
 - [Solutions to problem set 7]({{ "/files/courses/Microeconomics-II/Problem_set_7_Micro_2_sol.pdf" | relative_url }})
 - [Solutions to problem set 8]({{ "/files/courses/Microeconomics-II/Problem_set_8_Micro_2_sol.pdf" | relative_url }})
