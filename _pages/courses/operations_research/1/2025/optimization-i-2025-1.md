@@ -1,9 +1,15 @@
 ---
 layout: pages
 title: "Optimization I - 2025-1"
-permalink: /courses/optimization-i/2025-1
+permalink: /courses/optimization-i/2025-1/
 ---
 
-## [Mathematics Optimization I](#), 2025-1
+## [Operations Research](https://MarceloGallardoB.github.io/files/Syllabus IOP 1_2025.pdf), 2025-1
 
-*No hay contenido disponible para esta sección.*
+### Syllabus del curso
+- [Syllabus]({{ "/files/courses/Optimization/1/2024/1/Syllabus IOP 1_2025.pdf" | relative_url }})
+
+---
+
+### Problem Sets
+- [Problem set]({{ "/files/courses/Optimization/1/2025/1/lista_de_ejercicios_iop_2025.pdf" | relative_url }})
