@@ -94,7 +94,7 @@ permalink: /experience/
       <a href="https://economiayadministracion.uc.cl/">PUC Chile School of Economics and Administration</a>
     </p>
     <p class="card-text">
-      Working with PhD <a href="https://sites.google.com/view/carlos-noton-homepage?usp=sharing" target="_blank"> Carlos Noton</a>
+      Working with Professor <a href="https://sites.google.com/view/carlos-noton-homepage?usp=sharing" target="_blank"> Carlos Noton</a>
     </p>
     <p class="card-text">2025 - now</p>
   </div>
@@ -111,7 +111,7 @@ permalink: /experience/
       <a href="https://www.unsw.edu.au/business/our-schools/economics">UNSW Business School</a>
     </p>
     <p class="card-text">
-      Working with PhD <a href="https://sites.google.com/site/carbajaleconomics/home" target="_blank">Juan Carlos Carbajal</a>
+      Working with Professor <a href="https://sites.google.com/site/carbajaleconomics/home" target="_blank">Juan Carlos Carbajal</a>
     </p>
     <p class="card-text">2024 - now</p>
   </div>
@@ -127,7 +127,7 @@ permalink: /experience/
       <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia Universidad Católica del Perú (PUCP)</a>
     </p>
     <p class="card-text">
-      Working with PhD <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank">Jorge Richard Chávez Fuentes</a>
+      Working with Professor <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank">Jorge Richard Chávez Fuentes</a>
     </p>
     <p class="card-text">2022 - now</p>
   </div>
@@ -143,7 +143,7 @@ permalink: /experience/
       <a href="https://www.grade.org.pe/en/investigadores/personal/jleon/">GRADE</a>
     </p>
     <p class="card-text">
-      Worked with PhD <a href="https://www.grade.org.pe/en/investigadores/personal/jleon/" target="_blank">Juan León Jara-Almonte</a>
+      Worked with Professor <a href="https://www.grade.org.pe/en/investigadores/personal/jleon/" target="_blank">Juan León Jara-Almonte</a>
     </p>
     <p class="card-text">2022 - 2024</p>
   </div>
@@ -171,7 +171,7 @@ permalink: /experience/
       <a href="{{ "/courses/financial-microeconomics/2024-2/" | relative_url }}">Financial Microeconomics</a>
     </p>
     <p class="card-text">
-      With PhD <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank">Jorge Chávez</a> | <a href="https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos" target="_blank">Pavel Coronado</a> | <a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Gallardo_Ku" target="_blank">José Gallardo Ku</a>
+      With Professors <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank">Jorge Chávez</a> | <a href="https://www.pucp.edu.pe/profesor/pavel-coronado-castellanos" target="_blank">Pavel Coronado</a> | <a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Gallardo_Ku" target="_blank">José Gallardo Ku</a>
     </p>
   </div>
 </div>
@@ -188,7 +188,7 @@ permalink: /experience/
       <a href="{{ "/courses/functional-analysis/2024-1" | relative_url }}">Functional Analysis</a>
     </p>
     <p class="card-text">
-      With PhD <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank">Jorge Chávez</a> | <a href="https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez" target="_blank">Percy Fernández</a>
+      With Professors  <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank">Jorge Chávez</a> | <a href="https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez" target="_blank">Percy Fernández</a> | and guest Professor <a href="https://eml.berkeley.edu/~fechenique/" target="_blank">Federico Echenique</a> 
     </p>
   </div>
 </div>
