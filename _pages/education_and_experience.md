@@ -86,10 +86,27 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
+    <img draggable="false" src="{{ "/assets/img/institutions/uc_logo.jpg" | relative_url }}" alt="PUC Chile Logo">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Research assistance for professor at PUC Chile</h5>
+    <p class="card-text">
+      <a href="https://economiayadministracion.uc.cl/">PUC Chile School of Economics and Administration</a>
+    </p>
+    <p class="card-text">
+      Working with PhD <a href="https://sites.google.com/view/carlos-noton-homepage?usp=sharing" target="_blank"> Carlos Noton</a>
+    </p>
+    <p class="card-text">2025 - now</p>
+  </div>
+</div>
+
+
+<div class="card">
+  <div class="card-header">
     <img draggable="false" src="{{ "/assets/img/institutions/unsw.png" | relative_url }}" alt="PUCP Logo">
   </div>
   <div class="card-body">
-    <h5 class="card-title">Research at UNSW</h5>
+    <h5 class="card-title">Research assistance for professor at UNSW</h5>
     <p class="card-text">
       <a href="https://www.unsw.edu.au/business/our-schools/economics">UNSW Business School</a>
     </p>
