@@ -135,15 +135,15 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img draggable="false" src="{{ "/assets/img/institutions/grade_logo.png" | relative_url }}" alt="PUCP Logo">
+    <img draggable="false" src="{{ "/assets/img/institutions/grade_logo.png" | relative_url }}" alt="GRADE Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Grade</h5>
     <p class="card-text">
-      <a href="https://www.pucp.edu.pe/carrera/matematicas/">Pontificia Universidad Católica del Perú (PUCP)</a>
+      <a href="https://www.grade.org.pe/en/investigadores/personal/jleon/">GRADE</a>
     </p>
     <p class="card-text">
-      Working with PhD <a href="https://www.grade.org.pe/en/investigadores/personal/jleon/" target="_blank">Juan León Jara-Almonte</a>
+      Worked with PhD <a href="https://www.grade.org.pe/en/investigadores/personal/jleon/" target="_blank">Juan León Jara-Almonte</a>
     </p>
     <p class="card-text">2022 - 2024</p>
   </div>
