@@ -32,7 +32,7 @@ permalink: /publication/papers/
 ## Working Papers
 
 * **Novel innovation indicator for Peruvian universities** - Under review
-     [Marcelo Gallardo](https://marcelogallardob.github.io/) and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/).  
+ [Marcelo Gallardo](https://marcelogallardob.github.io/) and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/).  
   <details>
     <summary>Abstract | <a href="{{ "/files/books-and-papers/innovation_peruvian_universities.pdf" | relative_url }}" target="_blank">Working paper</a></summary>
    This paper proposes an innovation indicator for Peruvian universities, focusing on scientific innovation in fields such as engineering and pure sciences. The indicator is constructed using a selected dataset (Scopus, TUNI, Sunedu) and confirmatory factor analysis (CFA) to ensure robust measurement, with Tucker-Lewis Index (TLI) and Comparative Fit Index (CFI) used to validate the model fit. K-means clustering is applied to identify innovation clusters among universities. The validity of the indicator is examined through standard correlation with university rankings and econometric analysis linking the indicator with wage per hour and simple overeducation. To address potential sample selection bias, we implement a Heckman two-step correction, incorporating the inverse Mills ratio (IMR) into the wage equation. Additionally, we correct for heteroscedasticity by employing heteroscedasticity-robust standard errors (HC3). For this work, we used ENAHO modules 200-500.
