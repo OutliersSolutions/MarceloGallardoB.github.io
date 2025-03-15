@@ -7,7 +7,7 @@ permalink: /publication/papers/
 ## Completed Papers
 
 * [Congestion and Penalization in Optimal Transport]({{ "/files/books-and-papers/alternative-unconstrained-penalized-matching.pdf" | relative_url }}) - Under review  
-  [Marcelo Gallardo]({{ "/" | relative_url }}), [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge_chavez_fuentes).  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge_chavez_fuentes).  
   <details>
     <summary>Abstract | <a href="https://arxiv.org/abs/2410.07363" target="_blank">Pre-print</a></summary>
     In this paper we introduce two novel models derived from the discrete optimal transport problem. The first model extends the traditional transport problem by adding a quadratic congestion factor directly into the cost function, while the second model replaces conventional constraints with weighted penalization terms. We present theoretical results, for the characterization of interior and corner solution for some specific cases, and we perform smooth comparative statics analysis. We also propose an O((N+L)(NL)2) algorithm for computing the optimal plan for the penalized model assuming interior solutions. Pre-print in arXiv differs slightly from the last version in <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025651" target="_blank">SSRN</a>.
@@ -32,14 +32,14 @@ permalink: /publication/papers/
 ## Working Papers
 
 * **Novel innovation indicator for Peruvian universities** 
-  Marcelo Gallardo and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/).  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/) and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/).  
   <details>
     <summary>Abstract | <a href="{{ "/files/books-and-papers/innovation_peruvian_universities.pdf" | relative_url }}" target="_blank">Working paper</a></summary>
    This paper proposes an innovation indicator for Peruvian universities, focusing on scientific innovation in fields such as engineering and pure sciences. The indicator is constructed using a selected dataset (Scopus, TUNI, Sunedu) and confirmatory factor analysis (CFA) to ensure robust measurement, with Tucker-Lewis Index (TLI) and Comparative Fit Index (CFI) used to validate the model fit. K-means clustering is applied to identify innovation clusters among universities. The validity of the indicator is examined through standard correlation with university rankings and econometric analysis linking the indicator with wage per hour and simple overeducation. To address potential sample selection bias, we implement a Heckman two-step correction, incorporating the inverse Mills ratio (IMR) into the wage equation. Additionally, we correct for heteroscedasticity by employing heteroscedasticity-robust standard errors (HC3). For this work, we used ENAHO modules 200-500.
   </details>
 
 * **Political and economic uncertainty indicator for Peru based on Twitter and GPT-3.5 Turbo** - New version coming soon  
-  [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), Marcelo Gallardo, and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/).  
+  [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), [Marcelo Gallardo](https://marcelogallardob.github.io/), and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/).  
   <details>
     <summary>Abstract | <a href="{{ "/files/books-and-papers/X-political-and-economic-uncertainty-index-for-Peru.pdf" | relative_url }}" target="_blank">Working paper</a></summary>
     This paper develops a new political-economic uncertainty index based on tweets from influential figures in Peruvian politics and economics. Tweets are analyzed using GPT-3.5 Turbo, generating a time series of political-economic uncertainty.
