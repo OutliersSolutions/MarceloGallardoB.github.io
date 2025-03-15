@@ -7,7 +7,7 @@ permalink: /publication/books/
 ## Books
 
 * **Linear Algebra and Optimization for Economists** - Submitted to [Fondo Editorial PUCP](https://www.fondoeditorial.pucp.edu.pe/)  
-  [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge_chavez_fuentes) and Marcelo Gallardo.  
+  [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge_chavez_fuentes) and Marcelo Gallardo. Foreword by Professor [Cesar Martinelli](https://sites.google.com/site/martinellicesar/home). 
   <details>
     <summary>Summary | <a href="{{ "/files/books-and-papers/Index_ALOECO.pdf" | relative_url }}" target="_blank">Index</a></summary>
     Pre-published book about Linear Algebra and Static Optimization for Economists. Covers topics such as convex analysis, constrained optimization, and economic applications.
