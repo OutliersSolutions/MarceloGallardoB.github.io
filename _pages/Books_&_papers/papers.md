@@ -31,7 +31,7 @@ permalink: /publication/papers/
 * **Heterogenous Quadratic Regularization in Optimal Transport** - Under review  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez) and [Jorge Chávez.](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).  
   <details>
-    <summary>Abstract | <a href="{{ "/files/books-and-papers/coloquio_mate_pucp.pdf" | relative_url }}" target="_blank">Pre-print</a></summary>
+    <summary>Abstract | <a href="{{ "/files/books-and-papers/heterogenous_quadratic_regularization_ot.pdf" | relative_url }}" target="_blank">Pre-print</a></summary>
     In this paper, we build upon the optimal transport quadratic regularization model to develop a framework that incorporates congestion costs, particularly in matching within the healthcare and education sectors. Specifically, we introduce a model with heterogeneous quadratic costs. We analyze the model's properties under specific cases, extending the existing literature. Furthermore, we explore key structural characteristics of the model and provide numerical examples illustrating why this formulation more accurately captures real-world phenomena, particularly in the Peruvian context. The main result consists of identifying a specific type of corner solution when matching the same number of clusters, i.e., N=L.
   </details>
 
