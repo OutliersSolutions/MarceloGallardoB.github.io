@@ -37,7 +37,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img draggable="false" src="{{ "/assets/img/institutions/LyceeFrancoPeruvien.png" | relative_url }}" alt="PUCP Logo">
+    <img draggable="false" src="{{ "/assets/img/institutions/LyceeFrancoPeruvien.png" | relative_url }}" alt="LFP Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Baccaluréat Scientifique</h5>
@@ -52,7 +52,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img draggable="false" src="{{ "/assets/img/institutions/qlab_logo.png" | relative_url }}" alt="PUCP Logo">
+    <img draggable="false" src="{{ "/assets/img/institutions/qlab_logo.png" | relative_url }}" alt="QLab Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">QLab</h5>
@@ -103,7 +103,7 @@ permalink: /experience/
 
 <div class="card">
   <div class="card-header">
-    <img draggable="false" src="{{ "/assets/img/institutions/unsw.png" | relative_url }}" alt="PUCP Logo">
+    <img draggable="false" src="{{ "/assets/img/institutions/unsw.png" | relative_url }}" alt="UNSW Logo">
   </div>
   <div class="card-body">
     <h5 class="card-title">Research assistance for professor at UNSW</h5>
