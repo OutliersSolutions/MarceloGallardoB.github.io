@@ -14,7 +14,7 @@ permalink: /publication/papers/
   </details>
 
 * **Heterogenous Quadratic Regularization in Optimal Transport** - Under review  
-  [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez) and [Jorge Chávez.](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).  
+  [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez) and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).  
   <details>
     <summary>Abstract | <a href="{{ "/files/books-and-papers/heterogenous_quadratic_regularization_ot.pdf" | relative_url }}" target="_blank">Pre-print</a></summary>
     In this paper, we build upon the optimal transport quadratic regularization model to develop a framework that incorporates congestion costs, particularly in matching within the healthcare and education sectors. Specifically, we introduce a model with heterogeneous quadratic costs. We analyze the model's properties under specific cases, extending the existing literature. Furthermore, we explore key structural characteristics of the model and provide numerical examples illustrating why this formulation more accurately captures real-world phenomena, particularly in the Peruvian context. The main result consists of identifying a specific type of corner solution when matching the same number of clusters, i.e., N=L.
@@ -32,7 +32,7 @@ permalink: /publication/papers/
 ## Working Papers
 
 * **Novel innovation indicator for Peruvian universities** - Under review
-  [Marcelo Gallardo](https://marcelogallardob.github.io/) and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/).  
+   Marcelo Gallardo and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/).  
   <details>
     <summary>Abstract | <a href="{{ "/files/books-and-papers/innovation_peruvian_universities.pdf" | relative_url }}" target="_blank">Working paper</a></summary>
    This paper proposes an innovation indicator for Peruvian universities, focusing on scientific innovation in fields such as engineering and pure sciences. The indicator is constructed using a selected dataset (Scopus, TUNI, Sunedu) and confirmatory factor analysis (CFA) to ensure robust measurement, with Tucker-Lewis Index (TLI) and Comparative Fit Index (CFI) used to validate the model fit. K-means clustering is applied to identify innovation clusters among universities. The validity of the indicator is examined through standard correlation with university rankings and econometric analysis linking the indicator with wage per hour and simple overeducation. To address potential sample selection bias, we implement a Heckman two-step correction, incorporating the inverse Mills ratio (IMR) into the wage equation. Additionally, we correct for heteroscedasticity by employing heteroscedasticity-robust standard errors (HC3). For this work, we used ENAHO modules 200-500.
