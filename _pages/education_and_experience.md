@@ -41,7 +41,7 @@ permalink: /experience/
   </div>
   <div class="card-body">
     <h5 class="card-title">Baccaluréat Scientifique</h5>
-    <p class="card-text">Lycée Franco Péruvien</p>
+    <p class="card-text"> <a href="https://lfrancope.edu.pe/">Lycée Franco Péruvien</a></p>
     <p class="card-text">2017 - 2019</p>
   </div>
 </div>
@@ -218,7 +218,7 @@ permalink: /experience/
     <h5 class="card-title">Admission to l’X Bachelor Program</h5>
     <p class="card-text">École Polytechnique, Paris, France</p>
     <p class="card-text">
-      <a href="{{ "/files/courses/education-and-experience/admission_l_X.pdf" | relative_url }}">Admission</a>
+      <a href="{{ "/files/education-and-experience/admission_l_X.pdf" | relative_url }}">Admission</a>
     </p>
   </div>
 </div>
