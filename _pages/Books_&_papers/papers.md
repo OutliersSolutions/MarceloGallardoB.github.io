@@ -21,12 +21,6 @@ permalink: /publication/papers/
 
   </details>
 
-* **Novel innovation indicator for Peruvian universities** 
-  Marcelo Gallardo and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/).  
-  <details>
-    <summary>Abstract | <a href="{{ "/files/books-and-papers/innovation_peruvian_universities.pdf" | relative_url }}" target="_blank">Working paper</a></summary>
-   This paper proposes an innovation indicator for Peruvian universities, focusing on scientific innovation in fields such as engineering and pure sciences. The indicator is constructed using a selected dataset (Scopus, TUNI, Sunedu) and confirmatory factor analysis (CFA) to ensure robust measurement, with Tucker-Lewis Index (TLI) and Comparative Fit Index (CFI) used to validate the model fit. K-means clustering is applied to identify innovation clusters among universities. The validity of the indicator is examined through standard correlation with university rankings and econometric analysis linking the indicator with wage per hour and simple overeducation. To address potential sample selection bias, we implement a Heckman two-step correction, incorporating the inverse Mills ratio (IMR) into the wage equation. Additionally, we correct for heteroscedasticity by employing heteroscedasticity-robust standard errors (HC3). For this work, we used ENAHO modules 200-500.
-  </details>
 
 * **Heterogenous Quadratic Regularization in Optimal Transport** - Under review  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez) and [Jorge Chávez.](https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes).  
@@ -38,6 +32,13 @@ permalink: /publication/papers/
 ---
 
 ## Working Papers
+
+* **Novel innovation indicator for Peruvian universities** 
+  Marcelo Gallardo and [Juan Leon Jara-Almonte](https://www.grade.org.pe/en/investigadores/personal/jleon/).  
+  <details>
+    <summary>Abstract | <a href="{{ "/files/books-and-papers/innovation_peruvian_universities.pdf" | relative_url }}" target="_blank">Working paper</a></summary>
+   This paper proposes an innovation indicator for Peruvian universities, focusing on scientific innovation in fields such as engineering and pure sciences. The indicator is constructed using a selected dataset (Scopus, TUNI, Sunedu) and confirmatory factor analysis (CFA) to ensure robust measurement, with Tucker-Lewis Index (TLI) and Comparative Fit Index (CFI) used to validate the model fit. K-means clustering is applied to identify innovation clusters among universities. The validity of the indicator is examined through standard correlation with university rankings and econometric analysis linking the indicator with wage per hour and simple overeducation. To address potential sample selection bias, we implement a Heckman two-step correction, incorporating the inverse Mills ratio (IMR) into the wage equation. Additionally, we correct for heteroscedasticity by employing heteroscedasticity-robust standard errors (HC3). For this work, we used ENAHO modules 200-500.
+  </details>
 
 * **Political and economic uncertainty indicator for Peru based on Twitter and GPT-3.5 Turbo** - New version coming soon  
   [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), Marcelo Gallardo, and [Gabriel Rodriguez](https://www.pucp.edu.pe/profesor/gabriel-rodriguez-briones/).  
