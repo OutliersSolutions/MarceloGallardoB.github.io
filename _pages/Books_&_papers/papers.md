@@ -6,7 +6,7 @@ permalink: /publication/papers/
 {% include publications.html %}
 ## Completed Papers
 
-* [Congestion and Penalization in Optimal Transport]({{ "/files/books-and-papers/congestion_penalization_optimal_transport.pdf" | relative_url }}) - Under review  
+* [Congestion and Penalization in Optimal Transport]({{ "/files/books-and-papers/congestion_penalization_optimal_transport.pdf" | relative_url }}) - Submitted  
   [Marcelo Gallardo](https://marcelogallardob.github.io/), [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge_chavez_fuentes).  
   <details>
     <summary>Abstract | <a href="https://arxiv.org/abs/2410.07363" target="_blank">Pre-print</a></summary>
