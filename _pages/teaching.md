@@ -5,14 +5,12 @@ permalink: /teaching/
 ---
 
 <style>
-  /* Contenedor principal */
   .content-teaching {
     max-width: 800px;
     margin: 0 auto;
-    padding: 20px; /* Espacio interno para mayor comodidad visual */
+    padding: 20px; 
   }
   
-  /* Aseguramos que los títulos queden a la izquierda */
   .content-teaching h2,
   .content-teaching h3,
   .content-teaching h4 {
@@ -28,17 +26,12 @@ permalink: /teaching/
     margin: 25px 0;
   }
   
-  /* Estilos para las cards alineadas a la izquierda */
-  .card {
-    width: 50%;
-    margin: 20px 0;  /* Alineación a la izquierda */
-  }
+
   
   .card-body {
     text-align: left;
   }
   
-  /* Adaptación para pantallas pequeñas */
   @media (max-width: 768px) {
     .card {
       width: 90%;

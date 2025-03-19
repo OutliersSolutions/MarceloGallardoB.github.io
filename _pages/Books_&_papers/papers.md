@@ -3,10 +3,19 @@ layout: pages
 title: "Papers"
 permalink: /publication/papers/
 ---
+
+<style> 
+
+  strong{
+    color: #003d90;
+  }
+
+</style>
+
 {% include publications.html %}
 ## Completed Papers
 
-* [Congestion and Penalization in Optimal Transport]({{ "/files/books-and-papers/alternative-unconstrained-penalized-matching.pdf" | relative_url }}) - Under review  
+* **[Congestion and Penalization in Optimal Transport]({{ "/files/books-and-papers/alternative-unconstrained-penalized-matching.pdf" | relative_url }})** - Under review  
   [Marcelo Gallardo]({{ "/" | relative_url }}), [Manuel Loaiza](https://github.com/ManuelLoaizaVasquez), and [Jorge Chávez](https://www.pucp.edu.pe/profesor/jorge_chavez_fuentes).  
   <details>
     <summary>Abstract | <a href="https://arxiv.org/pdf/2410.07363" target="_blank">Pre-print</a></summary>

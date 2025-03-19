@@ -27,11 +27,6 @@ permalink: /experience/
     margin: 25px 0;
   }
   
-  .card {
-    width: 50%;
-    margin: 20px 0;
-  }
-  
   .card-header img {
     display: block;
     margin: 0;
