@@ -234,18 +234,14 @@ header {
     height: fit-content;
     -webkit-font-smoothing: subpixel-antialiased;
     text-align: center;
-    background-color: #f9f9f9;
-    padding: 15px;
-    border-radius: 15px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-    border: 1px solid #ddd;
     margin: 20px;
 
     #img-profile {
 
-        border-radius: 15px;
         object-fit: cover;
         margin-bottom: 10px;
+        border: 2px solid #0059ffcf;
+
     }
 
     #profile-name {
@@ -268,7 +264,7 @@ header {
     }
 
     .contact {
-        background: $body-bg;
+        background: #dbdbdb65;
         border-radius: 15px;
         font-weight: bold;
         font-size: 14px;
