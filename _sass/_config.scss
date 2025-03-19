@@ -1,4 +1,11 @@
 // Estilos base
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     background-color: $body-bg;
     padding: 50px;
@@ -171,20 +178,21 @@ img {
     max-width: 100%;
 }
 
-
 nav {
     background-color: $body-bg;
     padding: 10px 0;
-    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto;
 
     ul {
         list-style: none;
-        max-width: 1200px;
-        margin: 0 auto;
         padding: 0;
         display: flex;
-        justify-content: center;
+        justify-content: center; 
         align-items: center;
+        gap: 20px;
 
         li {
             margin: 0 15px;
@@ -220,10 +228,10 @@ nav {
                     transform: scaleX(1);
                 }
             }
-
         }
     }
 }
+
 
 
 
@@ -240,7 +248,7 @@ header {
 
         object-fit: cover;
         margin-bottom: 10px;
-        border: 2px solid #0059ffcf;
+        border: 2px solid #3d3d3d85;
 
     }
 
