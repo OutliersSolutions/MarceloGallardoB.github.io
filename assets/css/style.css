@@ -449,19 +449,10 @@ img {
 }
 
 
-
 header {
-    width: auto;  /* Permitir que tome el ancho necesario */
-    float: none;  /* Evitar flotado que pueda causar espacio en blanco */
+    width: 270px;
+    float: right;
     -webkit-font-smoothing: subpixel-antialiased;
-    display: flex;  /* Alinear la imagen correctamente */
-    align-items: center;
-    justify-content: center;
-    background: none;
-    padding: 0;
-    margin: 0;
-    border: none;
-    box-shadow: none;
 }
 
 
