@@ -438,9 +438,14 @@ img {
 }
 
 #img-profile {
-    max-width: 100%;
-    border-radius: 15px;
+    border: none;
+    box-shadow: none;
+    background: none;
+    border-radius: 0; /* Elimina bordes redondeados */
+    display: block; /* Evita márgenes extra */
+    max-width: 100%; /* Ajusta la imagen al tamaño del contenedor */
 }
+
 
 header {
     width: 270px;
