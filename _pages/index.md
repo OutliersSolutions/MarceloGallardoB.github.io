@@ -16,8 +16,8 @@ I am also a teaching and research assistant. My research interests include Consu
 
 Recently, I co-authored two books on applied mathematics for economics and four papers, two in my research interest fields, and two empirical studies using cross-sectional, time-series, and machine learning techniques.
 
-[Contact information here.]( {{[ site.baseurl ](https://marcelogallardob.github.io/)}}/contact )  
+[Contact information here.]( {{https://marcelogallardob.github.io/}}/contact )  
 
-[CV here.]( {{[ site.baseurl ](https://marcelogallardob.github.io/)}}/files/education-and-experience/cv_mg.pdf )
+[CV here.]( {{https://marcelogallardob.github.io/}}/files/education-and-experience/cv_mg.pdf )
 
 
