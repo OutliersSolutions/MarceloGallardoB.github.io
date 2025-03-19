@@ -15,3 +15,9 @@ Mathematician from the Pontificia Universidad Católica del Perú (PUCP) with a 
 I am also a teaching and research assistant. My research interests include Consumer Theory, Matching Theory, Optimal Control, and Optimal Transport applied to Economics.
 
 Recently, I co-authored two books on applied mathematics for economics and four papers, two in my research interest fields, and two empirical studies using cross-sectional, time-series, and machine learning techniques.
+
+[Contact information here.]( {{ site.baseurl }}/contact )  
+
+[CV here.]( {{ site.baseurl }}/files/education-and-experience/cv_mg.pdf )
+
+
