@@ -19,4 +19,4 @@ I am currently submitting my work and preparing applications for postgraduate st
 
 [Contact information here]({{ "/contact" | relative_url }})
 
-[Cv here]({{ "/files/education-and-experience/cv_mg.pdf" | relative_url }})
+[CV here]({{ "/files/education-and-experience/cv_mg.pdf" | relative_url }})

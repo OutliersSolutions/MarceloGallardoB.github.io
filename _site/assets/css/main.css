@@ -35,7 +35,7 @@
 body {
   background-color: #EBF0F5;
   padding: 50px;
-  font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #3b3b3b;
   font-weight: 400;
   height: 100%;
@@ -45,8 +45,9 @@ body {
   flex: 1;
   display: flex;
   flex-direction: row-reverse;
-  width: 1060px;
+  width: 760px;
   margin: 0 auto;
+  gap: 30px;
 }
 
 main {
@@ -241,17 +242,20 @@ nav ul li a:hover::after {
 }
 
 header {
-  width: 220px;
-  float: right;
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: end;
+  width: 180px;
   height: fit-content;
   -webkit-font-smoothing: subpixel-antialiased;
-  text-align: center;
-  margin: 20px;
 }
 header #img-profile {
+  top: 0;
+  right: 0;
   object-fit: cover;
   margin-bottom: 10px;
-  border: 2px solid #3d3d3d85;
+  border: 2px solid #042354;
 }
 header #profile-name {
   font-size: 18px;
@@ -678,7 +682,7 @@ hr {
 .card .card-body .card-title {
   font-size: 15px;
   margin: 0px;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
 }
 .card .card-body .card-text {
   margin: 0px;
