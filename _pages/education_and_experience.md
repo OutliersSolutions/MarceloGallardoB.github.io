@@ -19,9 +19,14 @@ permalink: /experience/
   }
   
   h2 {
-    margin-bottom: 25px;
+    margin-bottom: 15px;
+    margin-top: 25px;
   }
-  
+
+  h2:first-child {
+    margin-top: 0px;
+  }
+
   h4 {
     margin: 25px 0;
   }
@@ -84,7 +89,6 @@ permalink: /experience/
     </div>
   </div>
   
-  <hr>
   
   <!-- Complementary Education -->
   <h2>Complementary Education</h2>
@@ -118,7 +122,6 @@ permalink: /experience/
     </div>
   </div>
   
-  <hr>
   
   <!-- Awards & Honors -->
   <h2>Awards & Honors</h2>
@@ -177,7 +180,6 @@ permalink: /experience/
     </div>
   </div>
   
-  <hr>
   
   <!-- Teaching Experience -->
   <h2>Teaching Experience</h2>
@@ -220,8 +222,6 @@ permalink: /experience/
       </p>
     </div>
   </div>
-  
-  <hr>
   
   <!-- Research Assistance -->
   <h2>Research Assistance</h2>

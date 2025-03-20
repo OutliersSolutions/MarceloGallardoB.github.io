@@ -23,6 +23,11 @@ permalink: /publication/
       text-decoration: none;
       color: inherit;
     }
+
+    h2{
+      margin-bottom: 15px;
+    }
+
   </style>
 
   <div class="content-publications">

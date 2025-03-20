@@ -4,6 +4,14 @@ title: "Marcelo Gallardo Burga"
 permalink: /
 ---
 
+<style>
+
+    h2{
+        margin-bottom:15px;
+    }
+
+</style>
+
 ## Marcelo Manuel Gallardo Burga
 ### Department of Mathematics
 ### PUCP
