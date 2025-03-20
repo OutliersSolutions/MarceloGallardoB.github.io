@@ -51,6 +51,41 @@ permalink: /teaching/
   }
 </style>
 
+
+## Teaching Assistance
+
+### <img src="{{ '/assets/img/institutions/pucp-logo.png' | relative_url }}" draggable="false" alt="PUCP Logo" style="height: 30px; vertical-align: middle;"> Pontificia Universidad Católica del Perú (PUCP)
+
+#### Faculty of Sciences and Engineering, Department of Mathematics
+
+<div style="margin-left: 60px;">
+   <div class="card" style="width:50%; margin-left: 20px;">
+      <div class="card-body">
+        <h5 class="card-title"><a href="https://marcelogallardob.github.io/files/courses/Optimization/1/2024/1/Optimization_IOP224-2024-1-SILABO.PDF" target="_blank">Operations Research (Convex Optimization)</a></h5>
+        <p class="card-text">
+          With <a href="https://www.pucp.edu.pe/profesor/jorge-chavez-fuentes" target="_blank">PhD Jorge Chávez</a>
+        </p>
+        <hr>
+        <p class="card-text">
+          <a href="{{ "/courses/optimization-i/2025-1" | relative_url }}">2025-1</a>
+          |
+          <a href="{{ "/courses/optimization-i/2024-1" | relative_url }}">2024-1</a>
+        </p>
+      </div>
+    </div>
+
+   <div class="card" style="width:50%; margin-left: 20px;">
+      <div class="card-body">
+        <h5 class="card-title"><a href="https://MarceloGallardoB.github.io/files/courses/Functional-analysis/Functional_analisis1MAT33-2024-1-SILABO.PDF" target="_blank">Functional Analysis</a></h5>
+        <p class="card-text">
+          With <a href="https://www.pucp.edu.pe/profesor/percy-fernandez-sanchez" target="_blank">PhD Percy Fernandez</a>
+        </p>
+        <hr>
+        <p class="card-text">
+          <a href="{{ "/courses/functional-analysis/2024-1" | relative_url }}">2024-1</a>
+        </p>
+      </div>
+
 <div class="content-teaching">
   <div>
     <h2>Teaching Assistance</h2>
@@ -88,6 +123,7 @@ permalink: /teaching/
       <p class="card-text">
         <a href="{{ "/courses/functional-analysis/2024-1" | relative_url }}">2024-1</a>
       </p>
+
     </div>
   </div>
   
