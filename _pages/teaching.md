@@ -8,7 +8,6 @@ permalink: /teaching/
   .content-teaching {
     max-width: 800px;
     margin: 0 auto;
-    padding: 20px; 
   }
   
   .content-teaching h2,
@@ -17,16 +16,20 @@ permalink: /teaching/
     text-align: left;
     margin-left: 0;
   }
-  
+
+  h3{
+
+    margin-bottom: -10px !important;
+
+  }
+
   h2 {
-    margin-bottom: 25px;
+    margin-bottom: 20px;
   }
   
   h4 {
-    margin: 25px 0;
+    margin: 25px 0px 15px 0px;
   }
-  
-
   
   .card-body {
     text-align: left;

@@ -9,7 +9,6 @@ permalink: /academic-presentation/
   .content-academic-presentations {
     max-width: 800px;
     margin: 0 auto;
-    padding: 20px;
     text-align: left;
   }
   .content-academic-presentations h2 {

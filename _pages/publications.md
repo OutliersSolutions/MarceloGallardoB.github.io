@@ -7,7 +7,6 @@ permalink: /publication/
     .content-publications {
       max-width: 800px;
       margin: 0 auto;
-      padding: 20px;
     }
     .content-publications h2,
     .content-publications p,
