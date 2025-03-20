@@ -12,7 +12,7 @@ permalink: /academic-presentation/
     text-align: left;
   }
   .content-academic-presentations h2 {
-    margin-bottom: 25px;
+    margin-bottom: 15px;
   }
   .presentation-item {
     margin-bottom: 20px;
@@ -30,6 +30,7 @@ permalink: /academic-presentation/
     text-decoration: none;
     color: inherit;
   }
+
 </style>
 
 <div class="content-academic-presentations">
