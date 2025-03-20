@@ -4,6 +4,14 @@ title: "Marcelo Gallardo Burga"
 permalink: /
 ---
 
+<style>
+
+    h2{
+        margin-bottom:15px;
+    }
+
+</style>
+
 ## Marcelo Manuel Gallardo Burga
 ### Department of Mathematics
 ### PUCP
@@ -21,3 +29,9 @@ Recently, I co-authored two books on applied mathematics for economics and four 
 [CV here.]( {{https://marcelogallardob.github.io/}}/files/education-and-experience/cv_mg.pdf )
 
 
+
+I am currently submitting my work and preparing applications for postgraduate studies in Economics (2025).
+
+[Contact information here]({{ "/contact" | relative_url }})
+
+[CV here]({{ "/files/education-and-experience/cv_mg.pdf" | relative_url }})

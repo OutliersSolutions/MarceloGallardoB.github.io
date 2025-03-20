@@ -2,6 +2,7 @@
 
 .card {
     display: flex; 
+    width: 100%;
     justify-content: center;
     align-items: stretch; 
     padding: 10px;
@@ -23,15 +24,20 @@
 
     .card-body {
         flex: 18; 
-        padding: 5px ;
+        margin: 5px;
+
         .card-title {
             font-size: 15px;
             margin: 0px;
-            margin-bottom: 15px;
+            margin-bottom: 0px;
         }
 
         .card-text {
             margin: 0px;
+        }
+
+        hr{
+            margin: 5px;
         }
 
     }

@@ -4,6 +4,8 @@ title: "Microeconomics II - 2024-2"
 permalink: /courses/microeconomics/2024-2/
 ---
 
+
+
 ## [Microeconomics II](https://facultad.pucp.edu.pe/ciencias-sociales/cursos/microeconomia-2/), 2024-2
 
 ### Syllabus del curso
