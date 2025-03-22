@@ -37,7 +37,7 @@ permalink: /academic-presentation/
   <h2>Academic Presentations</h2>
 
   <div class="presentation-item">
-    <p style="color: #003d90"><strong>Optimal Transport and Some Other Mathematical Models with Applications in Economics</strong></p>
+    <p><strong>Optimal Transport and Some Other Mathematical Models with Applications in Economics</strong></p>
     <p><em>For ADEEM Winter School</em></p>
     <p><a href="{{ '/files/books-and-papers/adeem.pdf' | relative_url }}" target="_blank">Certification</a></p>
     <details>
@@ -52,7 +52,7 @@ permalink: /academic-presentation/
   </div>
 
   <div class="presentation-item">
-    <p style="color: #003d90">
+    <p>
       <strong>
         On the Conference Paper 
         <a href="https://eml.berkeley.edu/~fechenique/published/sperner.pdf" target="_blank">
